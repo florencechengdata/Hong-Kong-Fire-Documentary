@@ -29,7 +29,8 @@ SOURCE_DIR_MAP = {
     "TVBS News": "tvbs",
     "Points Media": "points-media",
     "CNN": "cnn",
-    "CNN News": "cnn"
+    "CNN News": "cnn",
+    "SBS News (Australia)": "sbs",
 }
 
 # Mapping of Scraper Source Title -> Markdown Header Title (if different)
@@ -45,7 +46,8 @@ SOURCE_HEADER_MAP = {
     "RTHK": "香港電台",
     "Guardian": "The Guardian",
     "DotDotNews": "Dotdotnews",
-    "CNN": "CNN News"
+    "CNN": "CNN News",
+    "SBS News (Australia)": "SBS (Special Broadcasting Service)"
 }
 
 def main():
