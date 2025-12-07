@@ -276,6 +276,25 @@ async def scrape_with_requests(url: str, config: dict) -> tuple[str, bool]:
         log(f"  ⚠️ Requests fallback failed: {str(e)[:40]}", "WARN")
         return "", False
 
+def scrape_with_uc(url: str, config: dict) -> tuple[str, bool]:
+    """Fallback scraper using undetected-chromedriver library for hkej"""
+    import undetected_chromedriver as uc
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
+
+    try:
+        driver = uc.Chrome(headless=False,use_subprocess=False)
+        driver.get(url)
+        element = WebDriverWait(driver, 20).until(
+           EC.visibility_of_element_located((By.XPATH, "/html/body/div[7]/div/div[1]/div[4]"))
+        )
+        return element.text, True
+    except Exception as e:
+        log(f"  ⚠️ Undetected Chromedriver fallback failed: {str(e)[:40]}", "WARN")
+        return "", False
+
+
 
 async def scrape_url_async(url_info: dict, context, config: dict, retries: int = 0, browser=None) -> tuple[str, bool]:
     """
@@ -297,6 +316,11 @@ async def scrape_url_async(url_info: dict, context, config: dict, retries: int =
         {"wait_until": "domcontentloaded", "desc": "no-http2", "no_http2": True},
         {"desc": "requests-fallback", "use_requests": True},
     ]
+    
+    if url.find("hkej.com") > -1:
+        strategies = [
+            {"desc": "uc-fallback", "use_uc": True},
+        ]
 
     strategy_idx = min(retries, len(strategies) - 1)
     strategy = strategies[strategy_idx]
@@ -305,6 +329,11 @@ async def scrape_url_async(url_info: dict, context, config: dict, retries: int =
     if strategy.get("use_requests"):
         log("  🔄 Trying requests fallback...", "WARN")
         return await scrape_with_requests(url, config)
+    
+    
+    if strategy.get("use_uc"):
+        log("  🔄 Trying undetected-chromedriver fallback...", "WARN")
+        return scrape_with_uc(url)
 
     # Create new context for HTTP/2 disabled retry
     use_context = context

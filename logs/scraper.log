@@ -2566,3 +2566,62 @@ Call log:
 2025-12-07 14:44:32 | ERROR    | Future exception was never retrieved
 future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
 playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-07 14:44:57 | INFO     | ============================================================
+2025-12-07 14:44:57 | INFO     | News Scraper Daemon Starting
+2025-12-07 14:44:57 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 14:44:57 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 14:44:57 | INFO     | Sync interval: 10 minutes
+2025-12-07 14:44:57 | INFO     | PR interval: 60 minutes
+2025-12-07 14:44:57 | INFO     | ============================================================
+2025-12-07 14:44:58 | INFO     | gh CLI authenticated
+2025-12-07 14:44:58 | INFO     | Setting up git remotes...
+2025-12-07 14:44:58 | INFO     | Configured origin remote
+2025-12-07 14:44:59 | INFO     | gh CLI authenticated
+2025-12-07 14:44:59 | INFO     | ----------------------------------------
+2025-12-07 14:44:59 | INFO     | Running periodic health check...
+2025-12-07 14:45:00 | INFO     | gh CLI authenticated
+2025-12-07 14:45:00 | INFO     | Health check passed
+2025-12-07 14:45:00 | INFO     | ----------------------------------------
+2025-12-07 14:45:00 | INFO     | Starting sync cycle...
+2025-12-07 14:45:00 | INFO     | Syncing with upstream...
+2025-12-07 14:45:01 | INFO     | Already up to date with upstream
+2025-12-07 14:45:01 | INFO     | Running scraper...
+2025-12-07 14:45:02 | INFO     | Found 77 new URLs to scrape
+2025-12-07 14:55:36 | INFO     | Updated cumulative stats: 671 success, 67 failed across 3 cycles
+2025-12-07 14:55:36 | INFO     | Scraper results: 44 success, 33 failed
+2025-12-07 14:55:36 | INFO     | Committing changes...
+2025-12-07 14:55:38 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-07 14:55
+2025-12-07 14:56:18 | INFO     | Pushed to origin successfully
+2025-12-07 14:56:18 | INFO     | Sync cycle complete
+2025-12-07 14:56:18 | INFO     | ----------------------------------------
+2025-12-07 14:56:18 | INFO     | Starting PR cycle...
+2025-12-07 14:56:20 | INFO     | Pushed to origin successfully
+2025-12-07 14:56:20 | INFO     | Managing PR...
+2025-12-07 14:56:26 | INFO     | Created PR: https://github.com/adminlby/Hong-Kong-Fire-Documentary/pull/7
+2025-12-07 14:56:26 | INFO     | Stats reset for new PR cycle
+2025-12-07 14:56:26 | INFO     | PR cycle complete
+2025-12-07 14:56:26 | INFO     | Run once mode, exiting...
+2025-12-07 23:52:18 | INFO     | ============================================================
+2025-12-07 23:52:18 | INFO     | News Scraper Daemon Starting
+2025-12-07 23:52:18 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 23:52:18 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 23:52:18 | INFO     | Sync interval: 10 minutes
+2025-12-07 23:52:18 | INFO     | PR interval: 60 minutes
+2025-12-07 23:52:18 | INFO     | ============================================================
+2025-12-07 23:52:19 | INFO     | gh CLI authenticated
+2025-12-07 23:52:19 | INFO     | Setting up git remotes...
+2025-12-07 23:52:19 | INFO     | Configured origin remote
+2025-12-07 23:52:20 | INFO     | gh CLI authenticated
+2025-12-07 23:52:20 | INFO     | ----------------------------------------
+2025-12-07 23:52:20 | INFO     | Running periodic health check...
+2025-12-07 23:52:20 | INFO     | gh CLI authenticated
+2025-12-07 23:52:20 | INFO     | Health check passed
+2025-12-07 23:52:20 | INFO     | ----------------------------------------
+2025-12-07 23:52:20 | INFO     | Starting sync cycle...
+2025-12-07 23:52:20 | INFO     | Syncing with upstream...
+2025-12-07 23:52:22 | INFO     | Behind upstream by 1 commits, merging...
+2025-12-07 23:52:23 | WARNING  | Stash pop failed, dropping stash to continue
+2025-12-07 23:52:23 | INFO     | Synced with upstream successfully
+2025-12-07 23:52:23 | INFO     | Running scraper...
+2025-12-07 23:52:24 | INFO     | Found 33 new URLs to scrape
+2025-12-07 23:54:21 | INFO     | Daemon stopped by user
