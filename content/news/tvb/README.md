@@ -382,8 +382,8 @@
 - [宏福苑五級火｜政府援助基金總額約12億元 宏福苑五級火 23小時前 粵](https://news.tvb.com/tc/taipofire/692c6c1be435294129583415/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%94%BF%E5%BA%9C%E6%8F%B4%E5%8A%A9%E5%9F%BA%E9%87%91%E7%B8%BD%E9%A1%8D%E7%B4%8412%E5%84%84%E5%85%83)
 - [八分鐘兩岸新聞重點｜內地組織捐助宏福苑災民／神二十飛船舷窗裂紋／國考競爭激烈 宏福苑五級火 5小時前 粵](https://news.tvb.com/tc/taipofire/692d9b1dada134dbdf2c2942/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E5%85%A9%E5%B2%B8%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E5%85%A7%E5%9C%B0%E7%B5%84%E7%B9%94%E6%8D%90%E5%8A%A9%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%BD%E6%B0%91%E7%A5%9E%E4%BA%8C%E5%8D%81%E9%A3%9B%E8%88%B9%E8%88%B7%E7%AA%97%E8%A3%82%E7%B4%8B%E5%9C%8B%E8%80%83%E7%AB%B6%E7%88%AD%E6%BF%80%E7%83%88)
 
-
 ### 2025-12-06
+
 - [宏福苑五級火｜政府指如需更多時間拆棚網可預先通報 將適當通融 宏福苑五級火 1天前 粵](https://news.tvb.com/tc/taipofire/69330914cd8bd3fb6e0928a9/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%94%BF%E5%BA%9C%E6%8C%87%E5%A6%82%E9%9C%80%E6%9B%B4%E5%A4%9A%E6%99%82%E9%96%93%E6%8B%86%E6%A3%9A%E7%B6%B2%E5%8F%AF%E9%A0%90%E5%85%88%E9%80%9A%E5%A0%B1-%E5%B0%87%E9%81%A9%E7%95%B6%E9%80%9A%E8%9E%8D)
 - [宏福苑五級火｜政府援助基金累計增至30億元 宏福苑五級火 1天前](https://news.tvb.com/tc/taipofire/6932fa79cd8bd3fb6e08a070/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%94%BF%E5%BA%9C%E6%8F%B4%E5%8A%A9%E5%9F%BA%E9%87%91%E7%B4%AF%E8%A8%88%E5%A2%9E%E8%87%B330%E5%84%84%E5%85%83)
 - [立法會選舉｜李家超籲市民投票推動改革 擬於首個會議提支援災民議案 宏福苑五級火 1天前 粵](https://news.tvb.com/tc/taipofire/6932f718cd8bd3fb6e088096/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E7%AB%8B%E6%B3%95%E6%9C%83%E9%81%B8%E8%88%89%EF%BD%9C%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%B1%B2%E5%B8%82%E6%B0%91%E6%8A%95%E7%A5%A8%E6%8E%A8%E5%8B%95%E6%94%B9%E9%9D%A9-%E6%93%AC%E6%96%BC%E9%A6%96%E5%80%8B%E6%9C%83%E8%AD%B0%E6%8F%90%E6%94%AF%E6%8F%B4%E7%81%BD%E6%B0%91%E8%AD%B0%E6%A1%88)
@@ -416,6 +416,7 @@
 - [宏福苑五級火｜政府要求全港建築拆走棚網 房屋署已拆除15個公屋棚網 宏福苑五級火 1天前 粵](https://news.tvb.com/tc/taipofire/6931fdc9cd8bd3fb6e003e06/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E5%85%A8%E6%B8%AF%E5%BB%BA%E7%AF%89%E6%8B%86%E8%B5%B0%E6%A3%9A%E7%B6%B2-%E6%88%BF%E5%B1%8B%E7%BD%B2%E5%B7%B2%E6%8B%86%E9%99%A415%E5%80%8B%E5%85%AC%E5%B1%8B%E6%A3%9A%E7%B6%B2)
 
 ### 2025-12-07
+
 - [一周大事回顧｜11月30日至12月6日 宏福苑五級火 3小時前](https://news.tvb.com/tc/taipofire/6933ed8d8879e820fbcaf106/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E4%B8%80%E5%91%A8%E5%A4%A7%E4%BA%8B%E5%9B%9E%E9%A1%A7%EF%BD%9C11%E6%9C%8830%E6%97%A5%E8%87%B312%E6%9C%886%E6%97%A5)
 - [宏福苑五級火｜據悉王岸然涉發表煽動言論及披露調查內容 被國安處拘捕 宏福苑五級火 4小時前 粵](https://news.tvb.com/tc/taipofire/6934489d8879e820fbce03c3/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%93%9A%E6%82%89%E7%8E%8B%E5%B2%B8%E7%84%B6%E6%B6%89%E7%99%BC%E8%A1%A8%E7%85%BD%E5%8B%95%E8%A8%80%E8%AB%96%E5%8F%8A%E6%8A%AB%E9%9C%B2%E8%AA%BF%E6%9F%A5%E5%85%A7%E5%AE%B9-%E8%A2%AB%E5%9C%8B%E5%AE%89%E8%99%95%E6%8B%98%E6%8D%95)
 - [宏福苑五級火｜沙田穗禾苑等四居屋屋苑完成拆除棚網 宏福苑五級火 4小時前 粵](https://news.tvb.com/tc/taipofire/69343e328879e820fbcdaf43/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%B2%99%E7%94%B0%E7%A9%97%E7%A6%BE%E8%8B%91%E7%AD%89%E5%9B%9B%E5%B1%85%E5%B1%8B%E5%B1%8B%E8%8B%91%E5%AE%8C%E6%88%90%E6%8B%86%E9%99%A4%E6%A3%9A%E7%B6%B2)
@@ -646,18 +647,20 @@
 - [Government distribute 50,000 dollars living allowance to fire victims families](https://news.tvb.com/tc/pearlnews/692d1cbaada134dbdf27beee/TVB%20News-Government-distribute-50%2C000-dollars-living-allowance-to-fire-victims-families)
 - [Gov't online platform for coordinating supplies to fire victims operating](https://news.tvb.com/tc/pearlnews/692d1539ada134dbdf27849c/TVB%20News-Govt-online-platform-for-coordinating-supplies-to-fire-victims-operating)
 
-
 ### 2025-11-30
+
 - [Government provides temporary residences for over 1,500 Tai Po fire victims](https://news.tvb.com/tc/pearlnews/692c4218e43529412956c169/TVB%20News-Government-provides-temporary-residences-for-over-1%2C500-Tai-Po-fire-victims)
 - [Fire victims line up for bus and other subsidies](https://news.tvb.com/tc/pearlnews/692c420de43529412956c141/TVB%20News-Fire-victims-line-up-for-bus-and-other-subsidies)
 - [Tears flow as mourners pay respects to fallen victims of Tai Po fire](https://news.tvb.com/tc/pearlnews/692c41ffe43529412956c117/TVB%20News-Tears-flow-as-mourners-pay-respects-to-fallen-victims-of-Tai-Po-fire)
 - [Death toll from Tai Po fire rises to 146](https://news.tvb.com/tc/pearlnews/692c41f0e43529412956c0ef/TVB%20News-Death-toll-from-Tai-Po-fire-rises-to-146)
 
 ### 2025-12-01
+
 - [Probe finds non fire-retardant protective netting used in Wang Fuk Court](https://news.tvb.com/tc/pearlnews/692d96bcada134dbdf2bfeee/TVB%20News-Probe-finds-non-fire-retardant-protective-netting-used-in-Wang-Fuk-Court)
 - [Some Tai Po blaze survivors say they did not hear fire alarms](https://news.tvb.com/tc/pearlnews/692d9330ada134dbdf2be1f0/TVB%20News-Some-Tai-Po-blaze-survivors-say-they-did-not-hear-fire-alarms)
 
 ### 2025-12-02
+
 - [Gov't to set up a judge-led independent committee to probe deadly fire](https://news.tvb.com/tc/pearlnews/692f050fada134dbdf37d24c/TVB%20News-Govt-to-set-up-a-judge-led-independent-committee-to-probe-deadly-fire)
 - [Families of foreign domestic workers killed in Tai Po fire to be compensated](https://news.tvb.com/tc/pearlnews/692f020eada134dbdf37b390/TVB%20News-Families-of-foreign-domestic-workers-killed-in-Tai-Po-fire-to-be-compensated)
 - [156 people confirmed dead in Tai Po blaze](https://news.tvb.com/tc/pearlnews/692ee677ada134dbdf36c041/TVB%20News-156-people-confirmed-dead-in-Tai-Po-blaze)
@@ -667,27 +670,32 @@
 - [CE announces setting up of Tai Po fire independent committee](https://news.tvb.com/tc/pearlnews/692e6e95ada134dbdf32c084/TVB%20News-CE-announces-setting-up-of-Tai-Po-fire-independent-committee)
 
 ### 2025-12-03
+
 - [Number of deaths in the fire in Wang Fuk Court in Tai Po rose to 159](https://news.tvb.com/tc/pearlnews/692fffaaada134dbdf3fc875/TVB%20News-Number-of-deaths-in-the-fire-in-Wang-Fuk-Court-in-Tai-Po-rose-to-159)
 - [Wang Chi House residents return homes temporarily after Tai Po fire](https://news.tvb.com/tc/pearlnews/692fbe27ada134dbdf3d841b/TVB%20News-Wang-Chi-House-residents-return-homes-temporarily-after-Tai-Po-fire)
 - [Political veteran Maria Tam: Tai Po fire rekindles "Lion Rock Spirit"](https://news.tvb.com/tc/pearlnews/692f11fdada134dbdf384e2c/TVB%20News-Political-veteran-Maria-Tam-Tai-Po-fire-rekindles-Lion-Rock-Spirit)
 
 ### 2025-12-04
+
 - [Government's living allowance for Tai Po fire victims increases to 100,000 dollars](https://news.tvb.com/tc/pearlnews/6931993fe43218f3b2941580/TVB%20News-Governments-living-allowance-for-Tai-Po-fire-victims-increases-to-100%2C000-dollars)
 - [Potential smoking ban for construction workers after Tai Po fire](https://news.tvb.com/tc/pearlnews/69319916e43218f3b29414b6/TVB%20News-Potential-smoking-ban-for-construction-workers-after-Tai-Po-fire)
 - [Tax bills, government rent and rates exempted for Wang Fuk Court survivors](https://news.tvb.com/tc/pearlnews/693063f2ada134dbdf4367bd/TVB%20News-Tax-billsgovernment-rent-and-rates-exempted-for-Wang-Fuk-Court-survivors)
 - [26-year-old man apprehended for seditious comments on fire victims](https://news.tvb.com/tc/pearlnews/693063ceada134dbdf4366e8/TVB%20News-26-year-old-man-apprehended-for-seditious-comments-on-fire-victims)
 
 ### 2025-12-05
+
 - [More pets rescued from Tai Po inferno](https://news.tvb.com/tc/pearlnews/6931b1cae43218f3b294fa7b/TVB%20News-More-pets-rescued-from-Tai-Po-inferno)
 - [Banking sector extend aid for Tai Po fire victims](https://news.tvb.com/tc/pearlnews/6931b1c0e43218f3b294fa3d/TVB%20News-Banking-sector-extend-aid-for-Tai-Po-fire-victims)
 - [HK Secretary for Security Chris Tang slams WSJ for "biased" editorial on Tai Po fire](https://news.tvb.com/tc/pearlnews/6931b1b8e43218f3b294f9f4/TVB%20News-HK-Secretary-for-Security-Chris-Tang-slams-WSJ-for-biased-editorial-on-Tai-Po-fire)
 
 ### 2025-12-06
+
 - [CE: Mental health services for fire victims](https://news.tvb.com/tc/pearlnews/6932ddf7cd8bd3fb6e07929c/TVB%20News-CE-Mental-health-services-for-fire-victims)
 - [Muslims pray for fire victims at Kowloon Mosque](https://news.tvb.com/tc/pearlnews/6932ddc6cd8bd3fb6e07909a/TVB%20News-Muslims-pray-for-fire-victims-at-Kowloon-Mosque)
 - [Temporary support centre for affected Tai Po students](https://news.tvb.com/tc/pearlnews/6932ddb7cd8bd3fb6e079057/TVB%20News-Temporary-support-centre-for-affected-Tai-Po-students)
 - [Police continue searching at Wang Fuk Court](https://news.tvb.com/tc/pearlnews/6932dda6cd8bd3fb6e078fff/TVB%20News-Police-continue-searching-at-Wang-Fuk-Court)
 
 ### 2025-12-07
+
 - [Government distributes emergency funds to fire victims](https://news.tvb.com/tc/pearlnews/6934375a8879e820fbcd7292/TVB%20News-Government-distributes-emergency-funds-to-fire-victims)
 - [$10,000 emergency funds had been given to 1,930 Tai Po fire victim households](https://news.tvb.com/tc/pearlnews/6933c0a18879e820fbc97831/TVB%20News-10%2C000-emergency-funds-had-been-given-to-1%2C930-Tai-Po-fire-victim-households-)

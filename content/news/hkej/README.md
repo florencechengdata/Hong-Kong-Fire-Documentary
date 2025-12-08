@@ -169,27 +169,31 @@
 
 - [英火災調查專家：制度失效猛於火 2017倫敦住宅大廈燒通頂 與宏福苑相似](https://www.hkej.com/dailynews/headline/article/4263751/%E8%8B%B1%E7%81%AB%E7%81%BD%E8%AA%BF%E6%9F%A5%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%88%B6%E5%BA%A6%E5%A4%B1%E6%95%88%E7%8C%9B%E6%96%BC%E7%81%AB)
 
-
 ### 2025-12-02
+
 - [血濃於水人間有愛 悲傷化力量走出陰霾](https://www1.hkej.com/dailynews/commentary/article/4262123/%E8%A1%80%E6%BF%83%E6%96%BC%E6%B0%B4%E4%BA%BA%E9%96%93%E6%9C%89%E6%84%9B+%E6%82%B2%E5%82%B7%E5%8C%96%E5%8A%9B%E9%87%8F%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE)
 - [婦人捨己救5命 丈夫：信她無悔](https://www1.hkej.com/dailynews/views/article/4262185/%E5%A9%A6%E4%BA%BA%E6%8D%A8%E5%B7%B1%E6%95%915%E5%91%BD+%E4%B8%88%E5%A4%AB%EF%BC%9A%E4%BF%A1%E5%A5%B9%E7%84%A1%E6%82%94)
 
 ### 2025-12-03
+
 - [防火例大落後 屋署消防機電各自為政｜信報胡恩威專欄](https://www2.hkej.com/multimedia/view/id/4264272?/multimedia/searchlist/q/%E9%98%B2%E7%81%AB%E4%BE%8B%E5%A4%A7%E8%90%BD%E5%BE%8C+%E5%B1%8B%E7%BD%B2%E6%B6%88%E9%98%B2%E6%A9%9F%E9%9B%BB%E5%90%84%E8%87%AA%E7%82%BA%E6%94%BF%EF%BD%9C%E4%BF%A1%E5%A0%B1%E8%83%A1%E6%81%A9%E5%A8%81%E5%B0%88%E6%AC%84)
 - [宏福苑五級火｜DVIU主管:為保遺體完整徒手挖掘](https://www2.hkej.com/instantnews/current/article/4264898/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9CDVIU%E4%B8%BB%E7%AE%A1%3A%E7%82%BA%E4%BF%9D%E9%81%BA%E9%AB%94%E5%AE%8C%E6%95%B4%E5%BE%92%E6%89%8B%E6%8C%96%E6%8E%98)
 - [宏福苑五級火｜警拘6人涉虛假陳述 訛稱工程期間不關警鐘](https://www2.hkej.com/instantnews/current/article/4264817/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E8%AD%A6%E6%8B%986%E4%BA%BA%E6%B6%89%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0+%E8%A8%9B%E7%A8%B1%E5%B7%A5%E7%A8%8B%E6%9C%9F%E9%96%93%E4%B8%8D%E9%97%9C%E8%AD%A6%E9%90%98)
 
 ### 2025-12-04
+
 - [宏福苑大火丨銀行界推5項跟進措施支援災民 包括兌換殘損鈔票](https://www2.hkej.com/instantnews/current/article/4266717/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E9%8A%80%E8%A1%8C%E7%95%8C%E6%8E%A85%E9%A0%85%E8%B7%9F%E9%80%B2%E6%8E%AA%E6%96%BD%E6%94%AF%E6%8F%B4%E7%81%BD%E6%B0%91+%E5%8C%85%E6%8B%AC%E5%85%8C%E6%8F%9B%E6%AE%98%E6%90%8D%E9%88%94%E7%A5%A8)
 - [銀行研靈活處理遇難者賬戶
 金管夥銀公再開會 商支援宏福苑居民](https://www1.hkej.com/dailynews/finnews/article/4265160/%E9%8A%80%E8%A1%8C%E7%A0%94%E9%9D%88%E6%B4%BB%E8%99%95%E7%90%86%E9%81%87%E9%9B%A3%E8%80%85%E8%B3%AC%E6%88%B6)
 
 ### 2025-12-05
+
 - [宏福苑大火丨彭飛舟:會因應需求檢視延長義診計劃](https://www2.hkej.com/instantnews/current/article/4267028/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E5%BD%AD%E9%A3%9B%E8%88%9F%3A%E6%9C%83%E5%9B%A0%E6%87%89%E9%9C%80%E6%B1%82%E6%AA%A2%E8%A6%96%E5%BB%B6%E9%95%B7%E7%BE%A9%E8%A8%BA%E8%A8%88%E5%8A%83)
 - [地盤住客](https://www1.hkej.com/dailynews/culture/article/4263371/%E5%9C%B0%E7%9B%A4%E4%BD%8F%E5%AE%A2)
 - [制度崩壞草菅人命](https://www1.hkej.com/dailynews/culture/article/4263370/%E5%88%B6%E5%BA%A6%E5%B4%A9%E5%A3%9E%E8%8D%89%E8%8F%85%E4%BA%BA%E5%91%BD)
 
 ### 2025-12-06
+
 - [國安公署約見在港外國新聞機構人員 促不可觸碰法律紅線](https://www2.hkej.com/instantnews/current/article/4268099/%E5%9C%8B%E5%AE%89%E5%85%AC%E7%BD%B2%E7%B4%84%E8%A6%8B%E5%9C%A8%E6%B8%AF%E5%A4%96%E5%9C%8B%E6%96%B0%E8%81%9E%E6%A9%9F%E6%A7%8B%E4%BA%BA%E5%93%A1+%E4%BF%83%E4%B8%8D%E5%8F%AF%E8%A7%B8%E7%A2%B0%E6%B3%95%E5%BE%8B%E7%B4%85%E7%B7%9A)
 - [《阿凡達3》延期至明年上映 片商:鑑於大埔不幸事件對社區尊重](https://www2.hkej.com/instantnews/current/article/4268096/%E3%80%8A%E9%98%BF%E5%87%A1%E9%81%943%E3%80%8B%E5%BB%B6%E6%9C%9F%E8%87%B3%E6%98%8E%E5%B9%B4%E4%B8%8A%E6%98%A0+%E7%89%87%E5%95%86%3A%E9%91%91%E6%96%BC%E5%A4%A7%E5%9F%94%E4%B8%8D%E5%B9%B8%E4%BA%8B%E4%BB%B6%E5%B0%8D%E7%A4%BE%E5%8D%80%E5%B0%8A%E9%87%8D)
 - [立法會選舉丨李家超視察投票站 陸啟康稱如期舉行可避免真空](https://www2.hkej.com/instantnews/current/article/4268094/%E7%AB%8B%E6%B3%95%E6%9C%83%E9%81%B8%E8%88%89%E4%B8%A8%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%A6%96%E5%AF%9F%E6%8A%95%E7%A5%A8%E7%AB%99+%E9%99%B8%E5%95%9F%E5%BA%B7%E7%A8%B1%E5%A6%82%E6%9C%9F%E8%88%89%E8%A1%8C%E5%8F%AF%E9%81%BF%E5%85%8D%E7%9C%9F%E7%A9%BA)

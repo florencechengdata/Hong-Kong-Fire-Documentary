@@ -1377,7 +1377,7 @@ hint: "git config advice.addIgnoredFile false"
 2025-12-07 01:44:46 | ERROR    | Scraper error: No module named 'playwright'
 2025-12-07 01:44:46 | INFO     | Committing changes...
 2025-12-07 01:44:46 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:44
-2025-12-07 01:44:46 | ERROR    | stderr: 
+2025-12-07 01:44:46 | ERROR    | stderr:
 *** Please tell me who you are.
 
 Run
@@ -1424,7 +1424,7 @@ fatal: repository 'https://github.com/https://github.com/hk-hack-007/Hong-Kong-F
 2025-12-07 01:45:34 | ERROR    | Scraper error: No module named 'playwright'
 2025-12-07 01:45:34 | INFO     | Committing changes...
 2025-12-07 01:45:34 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:45
-2025-12-07 01:45:34 | ERROR    | stderr: 
+2025-12-07 01:45:34 | ERROR    | stderr:
 *** Please tell me who you are.
 
 Run
@@ -1472,7 +1472,7 @@ pull request create failed: GraphQL: No commits between adminlby:main and hk-hac
 2025-12-07 01:46:05 | ERROR    | Scraper error: No module named 'playwright'
 2025-12-07 01:46:05 | INFO     | Committing changes...
 2025-12-07 01:46:05 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:46
-2025-12-07 01:46:05 | ERROR    | stderr: 
+2025-12-07 01:46:05 | ERROR    | stderr:
 *** Please tell me who you are.
 
 Run
@@ -1520,7 +1520,7 @@ pull request create failed: GraphQL: No commits between adminlby:main and hk-hac
 2025-12-07 01:47:24 | ERROR    | Scraper error: No module named 'playwright'
 2025-12-07 01:47:25 | INFO     | Committing changes...
 2025-12-07 01:47:25 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:47
-2025-12-07 01:47:25 | ERROR    | stderr: 
+2025-12-07 01:47:25 | ERROR    | stderr:
 *** Please tell me who you are.
 
 Run

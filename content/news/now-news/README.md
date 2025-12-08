@@ -372,8 +372,8 @@
 - [李家超行會前見記者｜回應宏福苑火災善後工作／立法會選舉如期進行](https://news.now.com/home/local/player?newsId=628064)
 - [宏福苑五級火災｜盧偉國：須檢討屋苑大維修方式](https://news.now.com/home/local/player?newsId=628060)
 
-
 ### 2025-12-03
+
 - [宏福苑五級火災｜政府強烈譴責反中亂港分子　就火災支援善後工作發表失實言論](https://news.now.com/home/local/player?newsId=628289)
 - [宏福苑五級火災｜宏福苑援助基金籌得24億元](https://news.now.com/home/local/player?newsId=628288)
 - [宏福苑五級火災｜金管局指宏福苑未償還按揭約為5.4億元](https://news.now.com/home/local/player?newsId=628287)
@@ -413,6 +413,7 @@
 - [晨早新聞重點｜本台發現使用宏福苑同一生產商棚網的檢測報告真假存疑](https://news.now.com/home/local/player?newsId=628156)
 
 ### 2025-12-04
+
 - [宏福苑五級火災｜房屋署：已完成拆除15個公共屋邨的棚網](https://news.now.com/home/local/player?newsId=628418)
 - [宏福苑五級火災｜警方宏福苑內尋回多隻生還動物](https://news.now.com/home/local/player?newsId=628417)
 - [即日焦點｜宏福苑災民每戶生活津貼增至10萬／台灣宣布「封殺」小紅書一年](https://news.now.com/home/local/player?newsId=628414)
@@ -438,12 +439,13 @@
 - [宏福苑五級火災｜劉光源：反中亂港分子編織謊言　企圖以災亂港](https://news.now.com/home/local/player?newsId=628332)
 - [宏福苑五級火災｜宏志閣居民繼續返回住所執拾個人物品](https://news.now.com/home/local/player?newsId=628331)
 - [宏福苑五級火災｜李家超：獨立委員會可要求有調查權的部門協助](https://news.now.com/home/local/player?newsId=628330)
-- [宏福苑五級火災｜保險業聯會：業界正主動聯絡災民處理賠償　設熱線解答居民疑問 ](https://news.now.com/home/local/player?newsId=628324)
+- [宏福苑五級火災｜保險業聯會：業界正主動聯絡災民處理賠償　設熱線解答居民疑問](https://news.now.com/home/local/player?newsId=628324)
 - [宏福苑五級火災｜建造業界指3000工友人手足夠　周六前可拆全港200多幢維修大廈棚網](https://news.now.com/home/local/player?newsId=628310)
 - [宏福苑五級火災｜女戶主通知鄰居離開卻來不及逃生　丈夫抱憾望政府徹查真相](https://news.now.com/home/local/player?newsId=628293)
 - [晨早新聞重點｜宏福苑災民望政府徹查真相／料聯儲局下周再減息](https://news.now.com/home/local/player?newsId=628292)
 
 ### 2025-12-05
+
 - [宏福苑五級火災｜律師會設免費法律諮詢熱線　會長湯文龍：政府設獨立委員會可盡快令社會復常](https://news.now.com/home/local/player?newsId=628544)
 - [宏福苑五級火災｜政府與精神健康諮詢委員會推情緒輔導措施](https://news.now.com/home/local/player?newsId=628542)
 - [大埔宏福苑援助基金累計達30億元](https://news.now.com/home/local/player?newsId=628541)
@@ -476,6 +478,7 @@
 - [晨早新聞重點｜普京抵印度展開為期兩天國事訪問／宏福苑災民感謝各界伸援手令其有容身之所](https://news.now.com/home/local/player?newsId=628421)
 
 ### 2025-12-06
+
 - [大埔宏福苑援助基金累計達33億元](https://news.now.com/home/local/player?newsId=628630)
 - [即日焦點｜李家超籲周日踴躍投票／警方首引維護國安條例第88條拘71歲男子](https://news.now.com/home/local/player?newsId=628628)
 - [宏福苑五級火災｜屋宇署：175幢私人樓宇已完成拆棚網　3幢申請延期獲批](https://news.now.com/home/local/player?newsId=628626)

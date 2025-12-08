@@ -51,12 +51,12 @@ async def _scrape_async():
                         if not news_source_orignial:
                             continue
 
-                        close_match = title_clean.find("宏福苑五級火\uFF5C")
+                        close_match = title_clean.find("宏福苑五級火\uff5c")
                         if close_match == -1:
                             continue
-                        
-                        title_actual = title_clean[close_match+7:].strip()
-                        
+
+                        title_actual = title_clean[close_match + 7 :].strip()
+
                         summary_article_match = re.search(r"純文字重點 不帶災場畫面 附情緒支援熱線", title_clean)
                         if summary_article_match:
                             continue
@@ -109,4 +109,4 @@ def scrape():
         raw_results = []
 
     formatted_results = [(r["date"], r["title"], r["link"]) for r in raw_results]
-    return("Yahoo HK News", formatted_results)
+    return ("Yahoo HK News", formatted_results)
