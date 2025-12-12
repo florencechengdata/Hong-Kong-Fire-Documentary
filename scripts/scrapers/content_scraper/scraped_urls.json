@@ -34319,7 +34319,115 @@
       "source": "mingpao",
       "scraped_at": "2025-12-12T22:56:36.073526",
       "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火獨立委員會主席陸啟康稱會盡力工作-拒答行使調查權細節"
+    },
+    "https://www.theguardian.com/world/commentisfree/2025/dec/08/hong-kong-china-fire-disaster-tai-po-civil-society": {
+      "title": "Silenced by China, Hong Kong struggles to voice its grief over the Tai Po fire disaster",
+      "source": "the-guardian",
+      "scraped_at": "2025-12-12T23:07:44.568981",
+      "archive_path": "content\\news\\the-guardian\\archive\\silenced-by-china-hong-kong-struggles-to-voice-its-grief-over-the-tai-po-fire"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251212/s00001/1765527020611": {
+      "title": "大埔宏福苑五級火｜李家超：已指示黃偉綸收集安置方案意見 讓居民有選擇",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:07:45.316762",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火李家超已指示黃偉綸收集安置方案意見-讓居民有選擇"
+    },
+    "https://www.theguardian.com/world/2025/dec/08/hong-kong-election-low-turnout-discontent-apartment-fire": {
+      "title": "Near-record low election turnout in Hong Kong amid discontent over apartment fire",
+      "source": "the-guardian",
+      "scraped_at": "2025-12-12T23:07:50.112124",
+      "archive_path": "content\\news\\the-guardian\\archive\\near-record-low-election-turnout-in-hong-kong-amid-discontent-over-apartment"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251212/s00001/1765528119829": {
+      "title": "大埔宏福苑五級火｜李家超：向習近平述職時將匯報火災情况 包括獨立委員會工作",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:07:51.161328",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火李家超向習近平述職時將匯報火災情况-包括獨立委員會工作"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251212/s00001/1765512418089": {
+      "title": "大埔宏福苑五級火｜大型吊臂車協助清理棚架",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:07:56.933194",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火大型吊臂車協助清理棚架"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251212/s00001/1765522968578": {
+      "title": "大埔宏福苑五級火｜獨立委員會由陸啟康出任主席 李家超稱委員會可要求獲調查權",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:08:02.206533",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火獨立委員會由陸啟康出任主席-李家超稱委員會可要求獲調查權"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251212/s00001/1765512643341": {
+      "title": "涉冒認災民騙取1.8萬援助金 36歲無業男還押候訊",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:08:08.254669",
+      "archive_path": "content\\news\\mingpao\\archive\\涉冒認災民騙取18萬援助金-36歲無業男還押候訊"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251212/s00001/1765508212731": {
+      "title": "鄭定寕：會按國際標準進行棚網抽樣檢測 不認為價格會大幅升高",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:08:13.578035",
+      "archive_path": "content\\news\\mingpao\\archive\\鄭定寕會按國際標準進行棚網抽樣檢測-不認為價格會大幅升高"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251212/s00001/1765475825273": {
+      "title": "棚網推三重抽檢 認昔沒主動驗 甯稱港建造業聲譽好 批「害群之馬」否認「爛透」",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:08:19.364603",
+      "archive_path": "content\\news\\mingpao\\archive\\棚網推三重抽檢-認昔沒主動驗-甯稱港建造業聲譽好-批害群之馬否認爛透"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251212/s00001/1765475825586": {
+      "title": "單幢換網涉款數十萬 承建商承擔成本",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:08:24.951376",
+      "archive_path": "content\\news\\mingpao\\archive\\單幢換網涉款數十萬-承建商承擔成本"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251212/s00001/1765475825820": {
+      "title": "「國標」阻燃棚網供應緊張加價逾倍",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:08:30.805055",
+      "archive_path": "content\\news\\mingpao\\archive\\國標阻燃棚網供應緊張加價逾倍"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251212/s00001/1765475826213": {
+      "title": "宏業被捕授權簽署人 為房署外聘測量師",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:08:37.356117",
+      "archive_path": "content\\news\\mingpao\\archive\\宏業被捕授權簽署人-為房署外聘測量師"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251212/s00001/1765475826400": {
+      "title": "首度捐款 龔如心基金億元助宏福 受託人理事稱不排除再增 「包底」重建否言之尚早",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:08:43.742115",
+      "archive_path": "content\\news\\mingpao\\archive\\首度捐款-龔如心基金億元助宏福-受託人理事稱不排除再增-包底重建否言之尚早"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251212/s00001/1765475826510": {
+      "title": "宏福苑法團下周開管委會 業主可列席發問 民署稱派員",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:08:49.899918",
+      "archive_path": "content\\news\\mingpao\\archive\\宏福苑法團下周開管委會-業主可列席發問-民署稱派員"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251212/s00001/1765475826703": {
+      "title": "殉職消防何偉豪獲追授榮銜 下周葬浩園",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:08:56.861800",
+      "archive_path": "content\\news\\mingpao\\archive\\殉職消防何偉豪獲追授榮銜-下周葬浩園"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251212/s00001/1765475826982": {
+      "title": "免費精神支援喪親者一年 4機構已參與",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:09:02.433194",
+      "archive_path": "content\\news\\mingpao\\archive\\免費精神支援喪親者一年-4機構已參與"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251212/s00002/1765475828172": {
+      "title": "中醫院啟用 首月資助全科門診滿額 名額加開 宏福災民醫費豁免至明年底",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:09:08.762533",
+      "archive_path": "content\\news\\mingpao\\archive\\中醫院啟用-首月資助全科門診滿額-名額加開-宏福災民醫費豁免至明年底"
+    },
+    "https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251212/s00018/1765468933149": {
+      "title": "火燒連環船（下） / 韓麗珠",
+      "source": "mingpao",
+      "scraped_at": "2025-12-12T23:09:15.124740",
+      "archive_path": "content\\news\\mingpao\\archive\\火燒連環船下-韓麗珠"
     }
   },
-  "last_updated": "2025-12-12T22:56:36.073568"
+  "last_updated": "2025-12-12T23:09:15.124809"
 }

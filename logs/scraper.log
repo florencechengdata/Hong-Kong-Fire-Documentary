@@ -3681,3 +3681,52 @@ task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\H
 2025-12-12 21:53:59 | INFO     | Starting sync cycle...
 2025-12-12 21:53:59 | INFO     | Syncing with upstream...
 2025-12-12 21:54:00 | INFO     | Daemon stopped by user
+2025-12-12 22:47:47 | INFO     | ============================================================
+2025-12-12 22:47:47 | INFO     | News Scraper Daemon Starting
+2025-12-12 22:47:47 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-12 22:47:47 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-12 22:47:47 | INFO     | Sync interval: 10 minutes
+2025-12-12 22:47:47 | INFO     | PR interval: 60 minutes
+2025-12-12 22:47:47 | INFO     | ============================================================
+2025-12-12 22:47:47 | INFO     | gh CLI authenticated
+2025-12-12 22:47:47 | INFO     | Setting up git remotes...
+2025-12-12 22:47:47 | INFO     | Configured origin remote
+2025-12-12 22:47:48 | INFO     | gh CLI authenticated
+2025-12-12 22:47:48 | INFO     | ----------------------------------------
+2025-12-12 22:47:48 | INFO     | Running periodic health check...
+2025-12-12 22:47:49 | INFO     | gh CLI authenticated
+2025-12-12 22:47:49 | INFO     | Health check passed
+2025-12-12 22:47:49 | INFO     | ----------------------------------------
+2025-12-12 22:47:49 | INFO     | Starting sync cycle...
+2025-12-12 22:47:49 | INFO     | Syncing with upstream...
+2025-12-12 22:47:50 | INFO     | Already up to date with upstream
+2025-12-12 22:47:50 | INFO     | Running scraper...
+2025-12-12 22:47:50 | INFO     | Found 211 new URLs to scrape
+2025-12-12 22:49:22 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-12 23:03:30 | ERROR    | Scraper error: BrowserContext.new_page: Target page, context or browser has been closed
+2025-12-12 23:03:31 | INFO     | Committing changes...
+2025-12-12 23:03:36 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-12 23:03
+2025-12-12 23:03:43 | INFO     | Pushed to origin successfully
+2025-12-12 23:03:43 | INFO     | Sync cycle complete
+2025-12-12 23:03:43 | INFO     | ----------------------------------------
+2025-12-12 23:03:43 | INFO     | Starting PR cycle...
+2025-12-12 23:03:44 | INFO     | Pushed to origin successfully
+2025-12-12 23:03:44 | INFO     | Managing PR...
+2025-12-12 23:03:48 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-12 23:03:48 | INFO     | PR cycle complete
+2025-12-12 23:03:48 | INFO     | Run once mode, exiting...
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
