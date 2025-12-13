@@ -730,3 +730,28 @@
 - [宏福苑五級火｜行政長官李家超下午就宏福苑火災有關事宜會見傳媒](https://news.rthk.hk/rthk/ch/component/k2/1835801-20251212.htm?archive_date=2025-12-12)
 - [宏福苑五級火｜建造商會冀大規模檢測棚網令成本下調](https://news.rthk.hk/rthk/ch/component/k2/1835775-20251212.htm?archive_date=2025-12-12)
 - [宏福苑五級火｜建造業議會稱棚網抽樣數目及位置按ISO規定](https://news.rthk.hk/rthk/ch/component/k2/1835766-20251212.htm?archive_date=2025-12-12)
+
+
+### 2025-12-12
+- [宏福苑五級火｜建造業議會：拒絶害群之馬以不良手法危害業界聲譽](https://news.rthk.hk/rthk/ch/component/k2/1835897-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜「睇樓團」參觀過渡性房屋等單位　逾百居民今參與](https://news.rthk.hk/rthk/ch/component/k2/1835896-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜援助基金達36億　3樓宇燒毀外牆棚架今起移除](https://news.rthk.hk/rthk/ch/component/k2/1835895-20251212.htm?archive_date=2025-12-12)
+
+### 2025-12-13
+- [Iran under fire over rearrest of Nobel laureate](https://news.rthk.hk/rthk/en/component/k2/1835979-20251213.htm?archive_date=2025-12-13)
+- [Disaster displaced 'may get new HOS flats in Tai Po'](https://news.rthk.hk/rthk/en/component/k2/1835944-20251213.htm?archive_date=2025-12-13)
+- [Fire-probe body 'can work faster than commission'](https://news.rthk.hk/rthk/en/component/k2/1835941-20251213.htm?archive_date=2025-12-13)
+- [One hurt, 400 evacuated in Tin Shui Wai fire](https://news.rthk.hk/rthk/en/component/k2/1835933-20251213.htm?archive_date=2025-12-13)
+- [宏福苑五級火｜大埔宏福苑援助基金總額增至37億元](https://news.rthk.hk/rthk/ch/component/k2/1835998-20251213.htm?archive_date=2025-12-13)
+- [粉嶺有貨倉起火　初步調查顯示有電線短路引致](https://news.rthk.hk/rthk/ch/component/k2/1835997-20251213.htm?archive_date=2025-12-13)
+- [房協：已安排逾400個宏福苑家庭合共約1200人入住單位](https://news.rthk.hk/rthk/ch/component/k2/1835990-20251213.htm?archive_date=2025-12-13)
+- [宏福苑五級火｜黃偉綸指有信心在大埔覓地建新居屋](https://news.rthk.hk/rthk/ch/component/k2/1835976-20251213.htm?archive_date=2025-12-13)
+- [特朗普稱泰柬雙方同意昨晚起停火　惟泰柬續指邊境地區遭對方攻擊](https://news.rthk.hk/rthk/ch/component/k2/1835982-20251213.htm?archive_date=2025-12-13)
+- [天澤邨單位凌晨火警懷疑涉縱火　獨居男戶主燒傷列為疑犯](https://news.rthk.hk/rthk/ch/component/k2/1835981-20251213.htm?archive_date=2025-12-13)
+- [立法會選舉｜曾國衞承認火災影響投票率　政府欣慰市民願意投票](https://news.rthk.hk/rthk/ch/component/k2/1835954-20251213.htm?archive_date=2025-12-13)
+- [宏福苑五級火｜卓永興稱不容許「偽受災者」趁火打劫](https://news.rthk.hk/rthk/ch/component/k2/1835942-20251213.htm?archive_date=2025-12-13)
+- [宏福苑五級火｜多名議員認為是時候考慮居民長遠安置問題](https://news.rthk.hk/rthk/ch/component/k2/1835937-20251213.htm?archive_date=2025-12-13)
+- [天水圍天澤邨有單位起火一名男子燒傷送院　400人需疏散](https://news.rthk.hk/rthk/ch/component/k2/1835911-20251213.htm?archive_date=2025-12-13)
+- [烏克蘭指俄軍攻擊黑海港口城市　一艘集裝箱船起火最少一傷](https://news.rthk.hk/rthk/ch/component/k2/1835910-20251213.htm?archive_date=2025-12-13)
+- [特朗普稱與泰柬領導人通電話　指泰柬已同意停止所有交火](https://news.rthk.hk/rthk/ch/component/k2/1835908-20251213.htm?archive_date=2025-12-13)
+- [土耳其總統建議俄烏雙方對對方能源和港口設施實施有限度停火](https://news.rthk.hk/rthk/ch/component/k2/1835904-20251213.htm?archive_date=2025-12-13)

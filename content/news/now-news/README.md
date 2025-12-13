@@ -645,3 +645,20 @@
 - [36歲無業漢馮俊傑涉冒認宏福苑災民騙1.8萬援助金　還柙候訊](https://news.now.com/home/local/player?newsId=629287)
 - [宏福苑五級火災｜建造業議會指內地棚網供應商選擇多　料集體採購不會令價格大幅上升](https://news.now.com/home/local/player?newsId=629266)
 - [首都專線｜北京展開防火行動　有地盤嚴禁吸煙以現金獎鼓勵舉報](https://news.now.com/home/local/player?newsId=629261)
+
+
+### 2025-12-12
+- [勞工處完成大型棚架特別執法行動　提出25宗檢控](https://news.now.com/home/local/player?newsId=629386)
+- [即日焦點｜宏福苑火災獨立委員會本月下旬開始運作　陸啟康任主席／國安處首引非法操練罪拘9男](https://news.now.com/home/local/player?newsId=629382)
+- [宏福苑五級火災｜獨立委員會本月下旬開始運作　主席陸啟康：邀請消防安全專家等提供意見](https://news.now.com/home/local/player?newsId=629377)
+
+### 2025-12-13
+- [宏福苑五級火災｜基於安全考慮　當局再評估宏福苑其中四座何時拆棚](https://news.now.com/home/local/player?newsId=629468)
+- [大鳴大放｜總結立法會選舉安排(二)](https://news.now.com/home/local/player?newsId=629409)
+- [大鳴大放｜總結立法會選舉安排(一)](https://news.now.com/home/local/player?newsId=629408)
+- [宏福苑五級火災｜有人欲低價購入單位　卓永興稱不容「偽受災者」趁火打劫](https://news.now.com/home/local/player?newsId=629434)
+- [宏福苑五級火災｜黃偉綸︰有信心在大埔興建居屋原區安置　難定回購價或須投入公帑](https://news.now.com/home/local/player?newsId=629425)
+- [宏福苑五級火災｜有議員倡政府應一視同仁協助災民　即使單位未被大火波及](https://news.now.com/home/local/player?newsId=629420)
+- [宏福苑五級火災｜黃偉綸︰有信心在大埔興建居屋原區安置　需時數周了解居民意願](https://news.now.com/home/local/player?newsId=629415)
+- [宏福苑五級火災｜有議員倡須提供不同選項予居民　不論單位有否被大火波及 ](https://news.now.com/home/local/player?newsId=629411)
+- [張宇人︰獨立委員會獲多個政府部門配合　可加快工作進度](https://news.now.com/home/local/player?newsId=629410)

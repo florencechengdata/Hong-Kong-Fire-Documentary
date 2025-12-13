@@ -34427,7 +34427,733 @@
       "source": "mingpao",
       "scraped_at": "2025-12-12T23:09:15.124740",
       "archive_path": "content\\news\\mingpao\\archive\\火燒連環船下-韓麗珠"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4273396/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E5%96%AA%E8%A6%AA%E6%94%AF%E6%8F%B4%E8%A8%88%E5%8A%83%E5%B7%B2%E6%8E%A5%E8%A7%B8130%E5%90%8D%E9%9B%A2%E4%B8%96%E4%BA%BA%E5%A3%AB%E5%AE%B6%E5%BA%AD": {
+      "title": "宏福苑大火丨喪親支援計劃已接觸130名離世人士家庭",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:41:25.157421",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨喪親支援計劃已接觸130名離世人士家庭"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/419356/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E5%BC%B5%E5%AE%87%E4%BA%BA-%E6%96%99%E7%8D%A8%E5%A7%94%E6%9C%83%E5%BE%B9%E6%9F%A5%E6%9B%B4%E5%BF%AB-%E6%9B%B4%E5%85%A8%E9%9D%A2": {
+      "title": "宏福苑大火｜張宇人：料獨委會徹查更快、更全面　盧偉國：事件暴露「老鼠屎」乘虛而入",
+      "source": "i-cable",
+      "scraped_at": "2025-12-13T22:41:25.264275",
+      "archive_path": "content\\news\\i-cable\\archive\\宏福苑大火張宇人料獨委會徹查更快更全面-盧偉國事件暴露老鼠屎乘虛而入"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/419350/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E9%BB%83%E5%81%89%E7%B6%B8-%E6%AD%A3%E7%A0%94%E5%85%AC%E5%B8%91%E5%9B%9E%E8%B3%BC%E6%A5%AD%E6%AC%8A%E7%AD%89%E5%AE%89%E7%BD%AE%E6%96%B9": {
+      "title": "宏福苑大火｜黃偉綸：正研公帑回購業權等安置方案　原址重建需時長　會先收集居民意見",
+      "source": "i-cable",
+      "scraped_at": "2025-12-13T22:41:45.814778",
+      "archive_path": "content\\news\\i-cable\\archive\\宏福苑大火黃偉綸正研公帑回購業權等安置方案-原址重建需時長-會先收集居民意見"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4273395/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E6%9C%AC%E6%9C%88%E4%B8%8B%E6%97%AC%E9%81%8B%E4%BD%9C+%E6%8F%B4%E5%8A%A9%E5%9F%BA%E9%87%91%E5%A2%9E%E8%87%B336%E5%84%84": {
+      "title": "宏福苑大火丨獨立委員會本月下旬運作 援助基金增至36億",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:41:46.235503",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨獨立委員會本月下旬運作-援助基金增至36億"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/419301/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E9%BB%83%E5%81%89%E7%B6%B8-%E6%AD%A3%E8%80%83%E6%85%AE%E4%B8%8D%E5%90%8C%E5%AE%89%E7%BD%AE%E6%96%B9%E6%A1%88-%E5%8C%85%E6%8B%AC": {
+      "title": "宏福苑大火｜黃偉綸：正考慮不同安置方案　包括回購業權、區內建居屋等",
+      "source": "i-cable",
+      "scraped_at": "2025-12-13T22:41:52.491276",
+      "archive_path": "content\\news\\i-cable\\archive\\宏福苑大火黃偉綸正考慮不同安置方案-包括回購業權區內建居屋等"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E5%B7%A5%E5%B1%95%E6%9C%83%E6%98%8E%E9%96%8B%E9%91%BC-%E6%9C%89%E5%8F%83%E5%B1%95%E5%95%86%E6%8E%A8%E5%84%AA%E6%83%A0%E5%86%80%E7%82%BA%E5%B8%82%E6%B0%91%E5%B8%B6%E4%BE%86%E6%AD%A1%E6%A8%82": {
+      "title": "工展會明開鑼 有參展商推優惠冀為市民帶來歡樂",
+      "source": "inmedia",
+      "scraped_at": "2025-12-13T22:42:06.975652",
+      "archive_path": "content\\news\\inmedia\\archive\\工展會明開鑼-有參展商推優惠冀為市民帶來歡樂"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4273022/5%E5%89%87%E5%BF%85%E8%AE%80%E6%96%B0%E8%81%9E%E4%B8%A8%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%833%E4%BA%BA%E6%A7%8B%E6%88%90": {
+      "title": "5則必讀新聞丨宏福苑五級火獨立委員會3人構成",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:42:07.310751",
+      "archive_path": "content\\news\\hkej\\archive\\5則必讀新聞丨宏福苑五級火獨立委員會3人構成"
+    },
+    "https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251212/s00007/1765540149896": {
+      "title": "193樂見緋聞效應 盼與Candy合作吸廣告 現實拒當第三者",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:42:10.056516",
+      "archive_path": "content\\news\\mingpao\\archive\\193樂見緋聞效應-盼與candy合作吸廣告-現實拒當第三者"
+    },
+    "https://www2.hkej.com/instantnews/hkex/article/4272986/%E5%80%8D%E6%90%8F%E9%9B%86%E5%9C%98%2808331%29+%E5%85%B6%E4%BB%96-%E9%9B%9C%E9%A0%85": {
+      "title": "倍搏集團(08331) 其他-雜項",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:42:13.756124",
+      "archive_path": "content\\news\\hkej\\archive\\倍搏集團08331-其他-雜項"
+    },
+    "https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20251212/s00003/1765531988690": {
+      "title": "瑧爾最後待售12伙全獲選購  全盤63伙清袋",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:42:16.411835",
+      "archive_path": "content\\news\\mingpao\\archive\\瑧爾最後待售12伙全獲選購-全盤63伙清袋"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4273506/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E4%B8%A8%E6%88%BF%E5%8D%94%E5%B7%B2%E5%AE%89%E6%8E%921200%E5%B1%85%E6%B0%91%E5%85%A5%E4%BD%8F%E9%81%8E%E6%B8%A1%E6%80%A7%E6%88%BF%E5%B1%8B%E7%AD%89%E5%96%AE%E4%BD%8D": {
+      "title": "宏福苑火災丨房協已安排1200居民入住過渡性房屋等單位",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:42:20.647978",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑火災丨房協已安排1200居民入住過渡性房屋等單位"
+    },
+    "https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20251212/s00003/1765522629738": {
+      "title": "瑧爾全盤63伙售逾8成 大手客5800萬購9伙",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:42:22.690302",
+      "archive_path": "content\\news\\mingpao\\archive\\瑧爾全盤63伙售逾8成-大手客5800萬購9伙"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4273492/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E9%BB%83%E5%81%89%E7%B6%B8%3A%E6%9C%89%E4%BF%A1%E5%BF%83%E5%A4%A7%E5%9F%94%E5%8D%80%E5%85%A7%E8%A6%93%E5%9C%B0%E5%8A%A0%E5%BB%BA%E5%B1%85%E5%B1%8B": {
+      "title": "宏福苑大火丨黃偉綸:有信心大埔區內覓地加建居屋",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:42:26.953982",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨黃偉綸有信心大埔區內覓地加建居屋"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4273488/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E7%9B%A7%E5%81%89%E5%9C%8B%3A%E5%BB%BA%E9%80%A0%E6%A5%AD%E5%85%A7%E9%8B%8C%E8%80%8C%E8%B5%B0%E9%9A%AA%E5%88%86%E5%AD%90%E5%8F%AA%E5%B1%AC%E5%B0%91%E6%95%B8": {
+      "title": "宏福苑五級火丨盧偉國:建造業內鋌而走險分子只屬少數",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:42:33.795754",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑五級火丨盧偉國建造業內鋌而走險分子只屬少數"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60303379/%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD-%E5%B1%8B%E5%AE%87%E7%BD%B2%E5%B0%B1%E6%A3%9A%E7%B6%B2%E4%B8%8B%E5%91%A8%E6%99%A4%E6%A5%AD%E7%95%8C-%E6%93%AC%E5%82%99%E5%90%91%E6%89%BF%E5%BB%BA%E5%95%86%E7%99%BC%E5%87%BA%E6%96%B0%E4%BD%9C%E6%A5%AD%E5%82%99%E8%80%83": {
+      "title": "大埔火災｜屋宇署就棚網下周晤業界　擬備向承建商發出新作業備考",
+      "source": "hk01",
+      "scraped_at": "2025-12-13T22:42:37.705974",
+      "archive_path": "content\\news\\hk01\\archive\\大埔火災屋宇署就棚網下周晤業界-擬備向承建商發出新作業備考"
+    },
+    "https://www.881903.com/news/local/2609977/": {
+      "title": "宏福苑5級火｜東華三院：免費殯儀服務不會先行扣除政府殮葬津貼",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-13T22:42:37.803054",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑5級火東華三院免費殯儀服務不會先行扣除政府殮葬津貼"
+    },
+    "https://www1.hkej.com/dailynews/investment/article/4273065/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%A3%BD%E6%8D%90%E8%B4%88%E4%B8%80%E5%8D%83%E8%90%AC+%E5%8A%A9%E5%A4%A7%E5%9F%94%E5%8F%97%E7%81%BD%E4%BA%BA%E5%A3%AB%E6%B8%A1%E9%9B%A3%E9%97%9C": {
+      "title": "中國人壽捐贈一千萬 助大埔受災人士渡難關",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:42:38.682983",
+      "archive_path": "content\\news\\hkej\\archive\\中國人壽捐贈一千萬-助大埔受災人士渡難關"
+    },
+    "https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20251212/s00003/1765512365203": {
+      "title": "瑧爾首輪賣全盤63伙 暫售約30伙",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:42:39.626280",
+      "archive_path": "content\\news\\mingpao\\archive\\瑧爾首輪賣全盤63伙-暫售約30伙"
+    },
+    "https://www2.hkej.com/instantnews/international/article/4273485/%E5%9C%8B%E9%9A%9B%E6%97%A9%E7%8F%AD%E8%BB%8A%E4%B8%A8%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%AA%94%E6%A1%88%3A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%8B%E6%9E%97%E9%A0%93%E7%AD%89%E4%BA%BA%E5%87%BA%E7%8F%BE%E5%9C%A8%E6%96%B0%E5%85%AC%E5%B8%83%E7%85%A7%E7%89%87%E4%B8%AD": {
+      "title": "國際早班車丨愛潑斯坦檔案:特朗普克林頓等人出現在新公布照片中",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:42:43.214941",
+      "archive_path": "content\\news\\hkej\\archive\\國際早班車丨愛潑斯坦檔案特朗普克林頓等人出現在新公布照片中"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60303365/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB-%E4%B8%80%E6%88%B6%E4%B8%80%E7%A4%BE%E5%B7%A5%E5%98%86%E7%A1%AC%E9%A3%9F24%E5%B0%8F%E6%99%82%E5%80%99%E5%91%BD-%E7%82%BA%E6%9A%AB%E4%BD%8F%E9%85%92%E5%BA%97%E7%81%BD%E6%B0%91%E8%A6%93%E6%96%B0%E5%B1%85%E9%9B%A3": {
+      "title": "宏福苑火｜一戶一社工嘆硬食24小時候命　為暫住酒店災民覓新居難",
+      "source": "hk01",
+      "scraped_at": "2025-12-13T22:42:43.459842",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火一戶一社工嘆硬食24小時候命-為暫住酒店災民覓新居難"
+    },
+    "https://www.881903.com/news/local/2609971/": {
+      "title": "政府「大埔宏福苑援助基金」總額增至約36億元",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-13T22:42:43.919107",
+      "archive_path": "content\\news\\commercial-radio\\archive\\政府大埔宏福苑援助基金總額增至約36億元"
+    },
+    "https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20251212/s00003/1765506964334": {
+      "title": "瑧爾今首輪賣全盤63伙 不少準買家到場",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:42:45.905912",
+      "archive_path": "content\\news\\mingpao\\archive\\瑧爾今首輪賣全盤63伙-不少準買家到場"
+    },
+    "https://www1.hkej.com/dailynews/culture/article/4270945/%E7%81%BD%E9%9B%A3%E7%9A%84%E6%82%B2%E7%97%9B": {
+      "title": "災難的悲痛",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:42:46.231853",
+      "archive_path": "content\\news\\hkej\\archive\\災難的悲痛"
+    },
+    "https://news.now.com/home/local/player?newsId=629386": {
+      "title": "勞工處完成大型棚架特別執法行動　提出25宗檢控",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:42:46.444611",
+      "archive_path": "content\\news\\now-news\\archive\\勞工處完成大型棚架特別執法行動-提出25宗檢控"
+    },
+    "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60303243/%E6%9C%89%E7%89%87-%E5%A4%A7%E6%A8%93%E8%B5%B7%E7%81%AB%E8%A2%AB%E5%9B%B0%E5%A5%B3%E5%AD%90%E5%85%88%E6%95%912%E7%8B%97%E7%8B%97%E5%86%8D%E9%80%83%E7%94%9F-%E7%B6%B2%E6%B0%91%E6%84%9F%E5%8B%95-%E6%84%9B%E5%8B%9D%E6%81%90%E6%87%BC": {
+      "title": "有片！大樓起火被困女子先救2狗狗再逃生　網民感動：愛勝恐懼",
+      "source": "hk01",
+      "scraped_at": "2025-12-13T22:42:48.897585",
+      "archive_path": "content\\news\\hk01\\archive\\有片大樓起火被困女子先救2狗狗再逃生-網民感動愛勝恐懼"
+    },
+    "https://www.881903.com/news/local/2610078/": {
+      "title": "宏福苑5級火丨基於安全考慮  當局需再評估4座大廈拆棚時間表",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-13T22:42:49.255660",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑5級火丨基於安全考慮-當局需再評估4座大廈拆棚時間表"
+    },
+    "https://news.now.com/home/local/player?newsId=629382": {
+      "title": "即日焦點｜宏福苑火災獨立委員會本月下旬開始運作　陸啟康任主席／國安處首引非法操練罪拘9男",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:42:52.039109",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點宏福苑火災獨立委員會本月下旬開始運作-陸啟康任主席國安處首引非法操練罪拘9男"
+    },
+    "https://news.mingpao.com/pns/%e7%b6%93%e6%bf%9f/article/20251212/s00004/1765468902789": {
+      "title": "新盤重啟銷售 3日5盤推291伙 瑧爾今「曬冷」賣63伙 收2500票超購39倍",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:42:52.377578",
+      "archive_path": "content\\news\\mingpao\\archive\\新盤重啟銷售-3日5盤推291伙-瑧爾今曬冷賣63伙-收2500票超購39倍"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4273145/%E9%BB%83%E5%81%89%E7%B6%B8%E7%B5%B1%E7%B1%8C+%E8%92%90%E7%81%BD%E6%B0%91%E6%84%8F%E9%A1%98%E7%A0%94%E5%AE%89%E7%BD%AE": {
+      "title": "黃偉綸統籌 蒐災民意願研安置",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:42:52.510468",
+      "archive_path": "content\\news\\hkej\\archive\\黃偉綸統籌-蒐災民意願研安置"
+    },
+    "https://www.881903.com/news/local/2610042/": {
+      "title": "宏福苑5級火｜房協已為逾400家庭安排住宿　並添置生活物資",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-13T22:42:54.611778",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑5級火房協已為逾400家庭安排住宿-並添置生活物資"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60303355/%E6%9C%89%E7%89%87-%E7%B2%89%E5%B6%BA%E9%BE%8D%E9%A6%AC%E8%B7%AF%E8%B2%A8%E5%80%89%E9%99%B7%E7%81%AB%E6%B5%B7%E6%BF%83%E7%85%99%E6%8D%B2%E5%8D%8A%E7%A9%BA-%E6%9C%89%E8%AD%B7%E8%80%81%E9%99%A2%E9%9C%80%E7%96%8F%E6%95%A3": {
+      "title": "有片｜粉嶺龍馬路貨倉陷火海濃煙捲半空　有護老院需疏散",
+      "source": "hk01",
+      "scraped_at": "2025-12-13T22:42:54.712654",
+      "archive_path": "content\\news\\hk01\\archive\\有片粉嶺龍馬路貨倉陷火海濃煙捲半空-有護老院需疏散"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4273144/%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%839%E5%80%8B%E6%9C%88%E5%85%A7%E4%BA%A4%E7%81%AB%E7%81%BD%E5%A0%B1%E5%91%8A": {
+      "title": "獨立委員會9個月內交火災報告 陸啟康任主席 有需要可申法定權力",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:42:57.957543",
+      "archive_path": "content\\news\\hkej\\archive\\獨立委員會9個月內交火災報告-陸啟康任主席-有需要可申法定權力"
+    },
+    "https://news.now.com/home/local/player?newsId=629377": {
+      "title": "宏福苑五級火災｜獨立委員會本月下旬開始運作　主席陸啟康：邀請消防安全專家等提供意見",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:42:58.063595",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災獨立委員會本月下旬開始運作-主席陸啟康邀請消防安全專家等提供意見"
+    },
+    "https://news.mingpao.com/pns/%e5%a8%9b%e6%a8%82/article/20251212/s00016/1765468912312": {
+      "title": "《阿凡達3》日本宣傳 山崎貴趕收工見占士金馬倫",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:42:59.727441",
+      "archive_path": "content\\news\\mingpao\\archive\\阿凡達3日本宣傳-山崎貴趕收工見占士金馬倫"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60303341/%E5%A4%A9%E6%BE%A4%E9%82%A8%E7%81%AB%E8%AD%A6-%E7%8D%A8%E5%B1%85%E7%94%B7%E6%88%B6%E4%B8%BB%E7%96%91%E7%B8%B1%E7%81%AB%E7%87%92%E5%B1%8B-%E9%80%81%E9%99%A2%E5%BE%8C%E6%98%8F%E8%BF%B7%E5%91%BD%E5%8D%B1-%E8%AD%A6%E6%9F%A5%E5%8B%95%E6%A9%9F": {
+      "title": "天澤邨火警｜獨居男戶主疑縱火燒屋　送院後昏迷命危　警查動機",
+      "source": "hk01",
+      "scraped_at": "2025-12-13T22:42:59.907326",
+      "archive_path": "content\\news\\hk01\\archive\\天澤邨火警獨居男戶主疑縱火燒屋-送院後昏迷命危-警查動機"
+    },
+    "https://www.881903.com/news/local/2609998/": {
+      "title": "梁文廣：宏福苑居民應有更多安置選擇　林莜魯：火災暴露結構性問題",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-13T22:43:00.415745",
+      "archive_path": "content\\news\\commercial-radio\\archive\\梁文廣宏福苑居民應有更多安置選擇-林莜魯火災暴露結構性問題"
+    },
+    "https://news.now.com/home/local/player?newsId=629468": {
+      "title": "宏福苑五級火災｜基於安全考慮　當局再評估宏福苑其中四座何時拆棚",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:43:03.934098",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災基於安全考慮-當局再評估宏福苑其中四座何時拆棚"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4273148/%E5%9C%8B%E5%AE%89%E8%AD%A6%E9%A6%96%E5%BC%95%E3%80%8C%E9%9D%9E%E6%B3%95%E6%93%8D%E7%B7%B4%E7%BD%AA%E3%80%8D%E6%8B%989%E7%94%B7": {
+      "title": "國安警首引「非法操練罪」拘9男",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:43:05.090611",
+      "archive_path": "content\\news\\hkej\\archive\\國安警首引非法操練罪拘9男"
+    },
+    "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60302918/%E5%BB%A3%E5%B7%9E%E5%95%86%E9%8B%AA-%E4%BA%8C%E6%A8%93%E8%B5%B7%E7%81%AB-%E6%B0%91%E7%9C%BE%E6%80%A5%E5%A0%B1%E8%AD%A6-5%E8%BC%9B%E6%B6%88%E9%98%B2%E8%BB%8A%E7%B7%8A%E6%80%A5%E5%88%B0%E5%A0%B4-%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89": {
+      "title": "廣州商鋪「二樓起火」民眾急報警　5輛消防車緊急到場　真相曝光",
+      "source": "hk01",
+      "scraped_at": "2025-12-13T22:43:05.923215",
+      "archive_path": "content\\news\\hk01\\archive\\廣州商鋪二樓起火民眾急報警-5輛消防車緊急到場-真相曝光"
+    },
+    "https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20251212/s00005/1765468922736": {
+      "title": "【香港】佛瑞的《D小調安魂曲》：永恆的安息",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:43:06.054971",
+      "archive_path": "content\\news\\mingpao\\archive\\香港佛瑞的d小調安魂曲永恆的安息"
+    },
+    "https://www.881903.com/news/local/2610023/": {
+      "title": "曾國衞：有131萬選民投票感欣慰　指火災對投票率有一定影響",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-13T22:43:06.240027",
+      "archive_path": "content\\news\\commercial-radio\\archive\\曾國衞有131萬選民投票感欣慰-指火災對投票率有一定影響"
+    },
+    "http://gba.people.cn/n1/2025/1212/c42272-40623393.html": {
+      "title": "新华社香港12月12日电 大埔火灾独立委员会主席陆启康12日见记者时表示，大埔宏福苑火灾引起社会各界广泛关注，未来9个月独立委员会聚焦三大范畴：审视起火与火势迅速蔓延的情况及原因；检视大型楼宇维修工程的安排；检视现行法律、规管与惩罚是否足够。独立委员会基于审视所得的结果向行政长官提出建议，以助力政府深化改革，防止类似事件再次发生。",
+      "source": "peoples-daily-gba",
+      "scraped_at": "2025-12-13T22:43:08.468378",
+      "archive_path": "content\\news\\peoples-daily-gba\\archive\\新华社香港12月12日电-1"
+    },
+    "https://news.now.com/home/local/player?newsId=629409": {
+      "title": "大鳴大放｜總結立法會選舉安排(二)",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:43:09.187371",
+      "archive_path": "content\\news\\now-news\\archive\\大鳴大放總結立法會選舉安排二"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4273154/%E7%81%AB%E7%81%BD%E6%AD%BB%E8%80%85%E5%AE%B6%E5%B1%AC%E7%8D%B2%E4%B8%89%E5%B1%A4%E5%BF%83%E7%90%86%E6%94%AF%E6%8F%B4": {
+      "title": "火災死者家屬獲三層心理支援",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:43:11.760080",
+      "archive_path": "content\\news\\hkej\\archive\\火災死者家屬獲三層心理支援"
+    },
+    "https://www.881903.com/news/local/2609997/": {
+      "title": "盧偉國：火災成因和制度不足　政府責無旁貸",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-13T22:43:11.864407",
+      "archive_path": "content\\news\\commercial-radio\\archive\\盧偉國火災成因和制度不足-政府責無旁貸"
+    },
+    "https://news.mingpao.com/pns/%e7%a4%be%e8%a9%95/article/20251212/s00003/1765475839949": {
+      "title": "社評：害群之馬為數難低估 整頓建造業政府有責",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:43:11.978425",
+      "archive_path": "content\\news\\mingpao\\archive\\社評害群之馬為數難低估-整頓建造業政府有責"
+    },
+    "http://gba.people.cn/n1/2025/1213/c42272-40623671.html": {
+      "title": "香港将为大埔火灾丧亲家庭提供三层精神健…",
+      "source": "peoples-daily-gba",
+      "scraped_at": "2025-12-13T22:43:14.029203",
+      "archive_path": "content\\news\\peoples-daily-gba\\archive\\香港将为大埔火灾丧亲家庭提供三层精神健"
+    },
+    "https://news.now.com/home/local/player?newsId=629408": {
+      "title": "大鳴大放｜總結立法會選舉安排(一)",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:43:14.498802",
+      "archive_path": "content\\news\\now-news\\archive\\大鳴大放總結立法會選舉安排一"
+    },
+    "https://www.881903.com/news/local/2610001/": {
+      "title": "卓永興：各項支援發放進度良好　黃偉綸：有信心可覓地重建",
+      "source": "commercial-radio",
+      "scraped_at": "2025-12-13T22:43:17.462265",
+      "archive_path": "content\\news\\commercial-radio\\archive\\卓永興各項支援發放進度良好-黃偉綸有信心可覓地重建"
+    },
+    "https://www1.hkej.com/dailynews/culture/article/4270944/%E9%80%8F%E9%AA%A8%E9%80%8F%E8%82%89%E9%80%8F%E8%BA%AB%E5%BF%83": {
+      "title": "透骨透肉透身心",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:43:17.766958",
+      "archive_path": "content\\news\\hkej\\archive\\透骨透肉透身心"
+    },
+    "https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20251212/s00012/1765468887039": {
+      "title": "筆陣：黑天鵝事件的政治  ／文：葉蔭聰",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:43:18.091076",
+      "archive_path": "content\\news\\mingpao\\archive\\筆陣黑天鵝事件的政治-文葉蔭聰"
+    },
+    "http://gba.people.cn/n1/2025/1213/c42272-40623670.html": {
+      "title": "香港“大埔宏福苑援助基金”总额达36亿…",
+      "source": "peoples-daily-gba",
+      "scraped_at": "2025-12-13T22:43:19.958480",
+      "archive_path": "content\\news\\peoples-daily-gba\\archive\\香港大埔宏福苑援助基金总额达36亿"
+    },
+    "https://news.now.com/home/local/player?newsId=629434": {
+      "title": "宏福苑五級火災｜有人欲低價購入單位　卓永興稱不容「偽受災者」趁火打劫",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:43:20.278718",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災有人欲低價購入單位-卓永興稱不容偽受災者趁火打劫"
+    },
+    "https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af-%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab-%e5%a4%a7%e5%9f%94-%e4%ba%94%e7%b4%9a%e7%81%ab-%e6%b0%91%e9%96%93%e5%ae%88%e8%ad%b7%e8%80%85-%e5%8b%bf%e5%bf%98%e5%9f%94%e7%81%bd/": {
+      "title": "香港世紀大火｜大埔五級火的民間守護者 「勿忘埔災」發起人 Glory：一場火災令港人更團結",
+      "source": "points-media",
+      "scraped_at": "2025-12-13T22:43:20.725102",
+      "archive_path": "content\\news\\points-media\\archive\\香港世紀大火大埔五級火的民間守護者-勿忘埔災發起人-glory一場火災令港人更團結"
+    },
+    "https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20251212/s00012/1765472811485": {
+      "title": "聞風筆動：特首最快下周述職 跨年煙花料叫停  ／文：李先知",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:43:24.241311",
+      "archive_path": "content\\news\\mingpao\\archive\\聞風筆動特首最快下周述職-跨年煙花料叫停-文李先知"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4273146/%E9%99%B8%E5%95%9F%E5%BA%B7%E6%96%99%E8%AA%BF%E6%9F%A5%E9%9D%9E%E4%B8%80%E5%B8%86%E9%A2%A8%E9%A0%86": {
+      "title": "陸啟康料調查非一帆風順",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:43:24.860410",
+      "archive_path": "content\\news\\hkej\\archive\\陸啟康料調查非一帆風順"
+    },
+    "http://gba.people.cn/n1/2025/1213/c42272-40623669.html": {
+      "title": "香港大埔火灾独立委员会将于9个月内完成…",
+      "source": "peoples-daily-gba",
+      "scraped_at": "2025-12-13T22:43:25.199362",
+      "archive_path": "content\\news\\peoples-daily-gba\\archive\\香港大埔火灾独立委员会将于9个月内完成"
+    },
+    "https://news.now.com/home/local/player?newsId=629425": {
+      "title": "宏福苑五級火災｜黃偉綸︰有信心在大埔興建居屋原區安置　難定回購價或須投入公帑",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:43:25.900111",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災黃偉綸有信心在大埔興建居屋原區安置-難定回購價或須投入公帑"
+    },
+    "https://points-media.com/%e6%9c%80%e6%96%b0/%e9%84%92%e5%b4%87%e9%8a%98-%e9%a6%99%e6%b8%af-%e5%a4%a7%e5%9f%94-%e5%ae%8f%e7%a6%8f%e8%8b%91-%e7%81%bd%e9%9b%a3-%e8%b3%87%e8%a8%8a%e7%b3%bb%e7%b5%b1-%e5%a4%b1%e6%95%88-%e5%9f%8e%e5%b8%82/": {
+      "title": "【鄒崇銘】從宏福苑災難 看資訊系統失效下的城市經濟...",
+      "source": "points-media",
+      "scraped_at": "2025-12-13T22:43:27.388814",
+      "archive_path": "content\\news\\points-media\\archive\\鄒崇銘從宏福苑災難-看資訊系統失效下的城市經濟"
+    },
+    "https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20251212/s00012/1765468895349": {
+      "title": "周浩鼎：社會積極投入立法會選舉 社會團結一致  邁步向前",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:43:30.414858",
+      "archive_path": "content\\news\\mingpao\\archive\\周浩鼎社會積極投入立法會選舉-社會團結一致-邁步向前"
+    },
+    "http://gba.people.cn/n1/2025/1213/c42272-40623487.html": {
+      "title": "本报香港12月12日电  （记者陈然）香港特区行政长官李家超12日下午召开记者会宣布，委任陆启康法官等3人组成独立委员会，审视大埔宏福苑火灾成因以及相关维修工程是否存在违法行为，9个月内完成报告，特区政府会全力支持其工作。他重申，关于本次火灾一定会调查到底、追责到底，让真相水落石出、公义得以伸张。",
+      "source": "peoples-daily-gba",
+      "scraped_at": "2025-12-13T22:43:31.076311",
+      "archive_path": "content\\news\\peoples-daily-gba\\archive\\本报香港12月12日电"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4273153/%E6%B8%85%E8%8F%AF%E5%AD%B8%E8%80%85%EF%BC%9A%E7%81%AB%E7%81%BD%E6%8F%AD%E7%A4%BA%E6%9C%AC%E6%B8%AF%E7%8F%BE%E4%BB%A3%E5%8C%96%E4%B8%8D%E5%85%A8%E9%9D%A2": {
+      "title": "清華學者：火災揭示本港現代化不全面",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:43:31.227283",
+      "archive_path": "content\\news\\hkej\\archive\\清華學者火災揭示本港現代化不全面"
+    },
+    "https://news.now.com/home/local/player?newsId=629420": {
+      "title": "宏福苑五級火災｜有議員倡政府應一視同仁協助災民　即使單位未被大火波及",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:43:31.955766",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災有議員倡政府應一視同仁協助災民-即使單位未被大火波及"
+    },
+    "https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af-%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab-%e5%b9%b4%e8%bc%95-%e5%ad%b8%e4%ba%ba-%e7%ae%a1%e6%b2%bb-%e5%95%8f%e8%b2%ac-%e7%9c%9f%e7%a9%ba-%e5%8d%80%e5%80%ac%e5%83%96-%e9%bb%8e%e6%81%a9/": {
+      "title": "香港世紀大火 | 年輕學人分析香港管治問責真空 宏福苑大火揭「民主與威權問責制都不能有效運作」",
+      "source": "points-media",
+      "scraped_at": "2025-12-13T22:43:33.442883",
+      "archive_path": "content\\news\\points-media\\archive\\香港世紀大火-年輕學人分析香港管治問責真空-宏福苑大火揭民主與威權問責制都不能有效運作"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835897-20251212.htm?archive_date=2025-12-12": {
+      "title": "宏福苑五級火｜建造業議會：拒絶害群之馬以不良手法危害業界聲譽",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:43:33.897237",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火建造業議會拒絶害群之馬以不良手法危害業界聲譽"
+    },
+    "https://news.mingpao.com/pns/%e9%ab%94%e8%82%b2/article/20251212/s00015/1765468905539": {
+      "title": "大埔亞冠2小勝河內季席謝幕",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:43:36.389895",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔亞冠2小勝河內季席謝幕"
+    },
+    "https://news.tvb.com/tc/taipofire/693c1afba8d97e781d62aa68/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E5%B7%A5%E4%BD%9C%E7%AF%84%E5%9C%8D%E5%9C%8B%E5%AE%89%E8%99%95%E9%A6%96%E5%BC%95%E9%9D%9E%E6%B3%95%E6%93%8D%E7%B7%B4%E7%BD%AA": {
+      "title": "八分鐘本地新聞重點｜大埔火災獨立委員會工作範圍／國安處首引非法操練罪 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:43:37.550312",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點大埔火災獨立委員會工作範圍國安處首引非法操練罪-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=629415": {
+      "title": "宏福苑五級火災｜黃偉綸︰有信心在大埔興建居屋原區安置　需時數周了解居民意願",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:43:37.991227",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災黃偉綸有信心在大埔興建居屋原區安置-需時數周了解居民意願"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4273147/%E6%9E%97%E5%93%B2%E7%8E%84%EF%BC%9A%E5%B1%A2%E7%A8%B1%E5%96%AE%E4%B8%80%E4%BA%8B%E4%BB%B6%E9%9B%A3%E6%9C%8D%E7%9C%BE": {
+      "title": "林哲玄：屢稱單一事件難服眾",
+      "source": "hkej",
+      "scraped_at": "2025-12-13T22:43:38.123075",
+      "archive_path": "content\\news\\hkej\\archive\\林哲玄屢稱單一事件難服眾"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835896-20251212.htm?archive_date=2025-12-12": {
+      "title": "宏福苑五級火｜「睇樓團」參觀過渡性房屋等單位　逾百居民今參與",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:43:40.148109",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火睇樓團參觀過渡性房屋等單位-逾百居民今參與"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E7%81%BD%E6%B0%91%E9%A0%88%E4%BA%94%E6%97%A5%E5%85%A7%E9%81%B7%E9%9B%A2%E6%97%85%E8%88%8D-%E6%AF%8F%E6%97%A5%E8%87%B4%E9%9B%BB%E3%80%8C%E4%B8%80%E6%88%B6%E4%B8%80%E7%A4%BE%E5%B7%A5%E3%80%8D%E6%B1%82%E5%8A%A9-%E7%A4%BE%E5%B7%A5%E7%A8%B1%E6%88%BF%E5%8D%94%E7%86%B1%E7%B7%9A%E9%95%B7%E6%9C%9F%E3%80%8C%E5%94%94%E9%80%9A%E3%80%8D%EF%BD%9Cyahoo-134507550.html": {
+      "title": "災民須五日內遷離旅舍 每日致電「一戶一社工」求助 社工稱房協熱線長期「唔通」｜Yahoo",
+      "source": "yahoo-news-hk",
+      "scraped_at": "2025-12-13T22:43:41.475161",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\災民須五日內遷離旅舍-每日致電一戶一社工求助-社工稱房協熱線長期唔通yahoo"
+    },
+    "https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251212/s00018/1765468931850": {
+      "title": "災後重置 / 文．戴淙",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:43:43.172720",
+      "archive_path": "content\\news\\mingpao\\archive\\災後重置-文戴淙"
+    },
+    "https://news.tvb.com/tc/taipofire/693c1a5ea8d97e781d62a598/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%99%82%E4%BA%8B%E5%A4%9A%E9%9D%A2%E7%9D%87%EF%BD%9C%E6%95%91%E7%81%AB%E6%96%B0%E7%A7%91%E6%8A%80%E5%85%A7%E5%9C%B0%E6%87%89%E7%94%A8%E6%96%B0%E7%A7%91%E6%8A%80%E6%BB%85%E7%81%AB%E9%98%B2%E7%81%BD-%E6%9C%AC%E5%9C%B0%E5%85%AC%E5%8F%B8%E6%93%AC%E5%BC%95%E5%85%A5%E6%95%91%E7%81%AB%E7%84%A1%E4%BA%BA%E6%A9%9F": {
+      "title": "時事多面睇｜救火新科技：內地應用新科技滅火防災 本地公司擬引入救火無人機 宏福苑五級火 1天前",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:43:43.857412",
+      "archive_path": "content\\news\\tvb\\archive\\時事多面睇救火新科技內地應用新科技滅火防災-本地公司擬引入救火無人機-宏福苑五級火-1天前"
+    },
+    "https://news.now.com/home/local/player?newsId=629411": {
+      "title": "宏福苑五級火災｜有議員倡須提供不同選項予居民　不論單位有否被大火波及",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:43:43.982633",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災有議員倡須提供不同選項予居民-不論單位有否被大火波及"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835895-20251212.htm?archive_date=2025-12-12": {
+      "title": "宏福苑五級火｜援助基金達36億　3樓宇燒毀外牆棚架今起移除",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:43:45.859070",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火援助基金達36億-3樓宇燒毀外牆棚架今起移除"
+    },
+    "https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251212/s00018/1765468932549": {
+      "title": "世間情 / 湯家驊",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:43:49.780602",
+      "archive_path": "content\\news\\mingpao\\archive\\世間情-湯家驊"
+    },
+    "https://news.tvb.com/tc/taipofire/693bef14d63af8b438ce461c/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%B1%85%E6%B0%91%E7%B1%B2%E9%81%BF%E5%85%8D%E9%87%8D%E8%B9%88%E8%A6%86%E8%BD%8D-%E6%B9%AF%E5%AE%B6%E9%A9%8A%E7%A8%B1%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E8%AA%BF%E6%9F%A5%E6%9B%B4%E5%BF%AB%E6%8D%B7": {
+      "title": "宏福苑五級火｜居民籲避免重蹈覆轍 湯家驊稱獨立委員會調查更快捷 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:43:49.931227",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火居民籲避免重蹈覆轍-湯家驊稱獨立委員會調查更快捷-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=629410": {
+      "title": "張宇人︰獨立委員會獲多個政府部門配合　可加快工作進度",
+      "source": "now-news",
+      "scraped_at": "2025-12-13T22:43:50.388933",
+      "archive_path": "content\\news\\now-news\\archive\\張宇人獨立委員會獲多個政府部門配合-可加快工作進度"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1835979-20251213.htm?archive_date=2025-12-13": {
+      "title": "Iran under fire over rearrest of Nobel laureate",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:43:51.867123",
+      "archive_path": "content\\news\\rthk\\archive\\iran-under-fire-over-rearrest-of-nobel-laureate"
+    },
+    "https://news.tvb.com/tc/taipofire/693be23ed63af8b438cdd49f/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E5%8F%AF%E6%8F%90%E5%87%BA%E5%B0%B1%E7%9B%B8%E9%97%9C%E8%AD%B0%E9%A1%8C%E6%8C%89%E6%B3%95%E4%BE%8B%E8%A8%AD%E7%8D%A8%E7%AB%8B%E8%AA%BF%E6%9F%A5%E5%A7%94%E5%93%A1%E6%9C%83": {
+      "title": "宏福苑五級火｜李家超：獨立委員會可提出就相關議題按法例設獨立調查委員會 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:43:56.124545",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火李家超獨立委員會可提出就相關議題按法例設獨立調查委員會-宏福苑五級火-1天前-粵"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251213/s00001/1765627024193": {
+      "title": "大埔宏福苑五級火︱房協已安排400戶共1200人入住過渡屋出租屋邨專用屋邨單位",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:43:56.390367",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火房協已安排400戶共1200人入住過渡屋出租屋邨專用屋邨單位"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1835944-20251213.htm?archive_date=2025-12-13": {
+      "title": "Disaster displaced 'may get new HOS flats in Tai Po'",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:43:57.624357",
+      "archive_path": "content\\news\\rthk\\archive\\disaster-displaced-may-get-new-hos-flats-in-tai-po"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251213/s00001/1765597716977": {
+      "title": "大埔宏福苑五級火︱卓永興：會考慮直接賠償租戶 暫不考慮停止開放捐款",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:44:02.059594",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火卓永興會考慮直接賠償租戶-暫不考慮停止開放捐款"
+    },
+    "https://news.tvb.com/tc/taipofire/693d71d0a8d97e781d6dd553/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%88%BF%E7%BD%B2%E7%BA%8C%E6%8B%86%E9%99%A4%E9%83%A8%E5%88%86%E5%A4%96%E7%89%86%E6%A3%9A%E6%9E%B6-%E6%8F%B4%E5%8A%A9%E5%9F%BA%E9%87%91%E7%B8%BD%E9%A1%8D%E5%A2%9E%E8%87%B3%E7%B4%8437%E5%84%84%E5%85%83": {
+      "title": "宏福苑五級火｜房署續拆除部分外牆棚架 援助基金總額增至約37億元 宏福苑五級火 36分鐘前",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:44:02.141924",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火房署續拆除部分外牆棚架-援助基金總額增至約37億元-宏福苑五級火-36分鐘前"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1835941-20251213.htm?archive_date=2025-12-13": {
+      "title": "Fire-probe body 'can work faster than commission'",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:03.220227",
+      "archive_path": "content\\news\\rthk\\archive\\fire-probe-body-can-work-faster-than-commission"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251213/s00001/1765596015037": {
+      "title": "大埔宏福苑五級火︱黃偉綸：收回宏福苑業權或需動用公帑 若原址重建或需清拆",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:44:07.731456",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火黃偉綸收回宏福苑業權或需動用公帑-若原址重建或需清拆"
+    },
+    "https://news.tvb.com/tc/taipofire/693d68f0a8d97e781d6d8068/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E5%A4%A7%E5%9F%94%E8%A6%93%E5%9C%B0%E5%BB%BA%E5%B1%8B%E5%AE%89%E7%BD%AE%E7%81%BD%E6%B0%91%E5%B7%A5%E5%B1%95%E6%9C%83%E9%96%8B%E9%91%BC%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95": {
+      "title": "八分鐘本地新聞重點｜大埔覓地建屋安置災民／工展會開鑼／中學生涉販毒被捕 宏福苑五級火 1小時前 粵",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:44:08.144725",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點大埔覓地建屋安置災民工展會開鑼中學生涉販毒被捕-宏福苑五級火-1小時前-粵"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1835933-20251213.htm?archive_date=2025-12-13": {
+      "title": "One hurt, 400 evacuated in Tin Shui Wai fire",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:08.624059",
+      "archive_path": "content\\news\\rthk\\archive\\one-hurt-400-evacuated-in-tin-shui-wai-fire"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251213/s00001/1765590893463": {
+      "title": "大埔宏福苑五級火｜張宇人︰相信獨立委員會獲多個部門配合 工作進度可加快",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:44:13.929897",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火張宇人相信獨立委員會獲多個部門配合-工作進度可加快"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835998-20251213.htm?archive_date=2025-12-13": {
+      "title": "宏福苑五級火｜大埔宏福苑援助基金總額增至37億元",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:14.284031",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火大埔宏福苑援助基金總額增至37億元"
+    },
+    "https://news.tvb.com/tc/taipofire/693cec30a8d97e781d696fd3/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%BB%83%E5%81%89%E7%B6%B8%E6%8C%87%E5%B0%87%E6%96%BC%E5%A4%A7%E5%9F%94%E8%A6%93%E5%9C%B0%E5%BB%BA%E5%B1%85%E5%B1%8B%E4%B8%A6%E5%A3%93%E7%B8%AE%E6%99%82%E9%96%93-%E8%AE%93%E5%B1%85%E6%B0%91%E5%8F%AF%E5%8E%9F%E5%8D%80%E5%AE%89%E7%BD%AE": {
+      "title": "宏福苑五級火｜黃偉綸指將於大埔覓地建居屋並壓縮時間 讓居民可原區安置 宏福苑五級火 10小時前 粵",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:44:14.379865",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火黃偉綸指將於大埔覓地建居屋並壓縮時間-讓居民可原區安置-宏福苑五級火-10小時前-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/693cd1baa8d97e781d689b0b/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%BB%83%E5%81%89%E7%B6%B8%E6%8C%87%E6%94%BF%E5%BA%9C%E6%9C%83%E5%90%A6%E7%94%A8%E6%8F%B4%E5%8A%A9%E5%9F%BA%E9%87%91%E6%94%B6%E8%B3%BC%E5%B1%85%E6%B0%91%E6%A5%AD%E6%AC%8A%E9%9C%80%E5%A4%9A%E6%96%B9%E9%9D%A2%E8%80%83%E9%87%8F": {
+      "title": "宏福苑五級火｜黃偉綸指政府會否用援助基金收購居民業權需多方面考量 宏福苑五級火 11小時前 粵",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:44:19.612988",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火黃偉綸指政府會否用援助基金收購居民業權需多方面考量-宏福苑五級火-11小時前-粵"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251213/s00001/1765562043758": {
+      "title": "獨立委會有「備用」法定調查權 陸啟康任主席 月內運作爭9個月完成",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:44:20.273479",
+      "archive_path": "content\\news\\mingpao\\archive\\獨立委會有備用法定調查權-陸啟康任主席-月內運作爭9個月完成"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835997-20251213.htm?archive_date=2025-12-13": {
+      "title": "粉嶺有貨倉起火　初步調查顯示有電線短路引致",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:20.334149",
+      "archive_path": "content\\news\\rthk\\archive\\粉嶺有貨倉起火-初步調查顯示有電線短路引致"
+    },
+    "https://news.tvb.com/tc/taipofire/693cd1b0a8d97e781d689aa6/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%94%BF%E9%BB%A8%E6%8F%90%E5%AE%89%E7%BD%AE%E5%B1%85%E6%B0%91%E5%BB%BA%E8%AD%B0-%E9%BB%83%E5%81%89%E7%B6%B8%E6%8C%87%E5%B0%87%E6%96%BC%E5%A4%A7%E5%9F%94%E8%A6%93%E5%9C%B0%E5%BB%BA%E5%B1%85%E5%B1%8B%E4%B8%A6%E5%A3%93%E7%B8%AE%E8%90%BD%E6%88%90%E6%99%82%E9%96%93": {
+      "title": "宏福苑五級火｜政黨提安置居民建議 黃偉綸指將於大埔覓地建居屋並壓縮落成時間 宏福苑五級火 11小時前 粵",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:44:25.470467",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火政黨提安置居民建議-黃偉綸指將於大埔覓地建居屋並壓縮落成時間-宏福苑五級火-11小時前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835990-20251213.htm?archive_date=2025-12-13": {
+      "title": "房協：已安排逾400個宏福苑家庭合共約1200人入住單位",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:26.267771",
+      "archive_path": "content\\news\\rthk\\archive\\房協已安排逾400個宏福苑家庭合共約1200人入住單位"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251213/s00001/1765562044286": {
+      "title": "梁定邦稱勝在快 先蒐免傳召證據 張炳良：反映盼向公眾確保徹查",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:44:26.594353",
+      "archive_path": "content\\news\\mingpao\\archive\\梁定邦稱勝在快-先蒐免傳召證據-張炳良反映盼向公眾確保徹查"
+    },
+    "https://news.tvb.com/tc/taipofire/693c2e2ea8d97e781d63589a/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%99%B3%E5%9C%8B%E5%9F%BA%E8%AA%BF%E6%9F%A5%E5%8F%8A%E8%A6%8F%E7%AE%A1%E5%B7%A5%E4%BD%9C%E7%B5%84%E5%B0%87%E7%B5%B1%E7%B1%8C%E6%89%80%E6%9C%89%E7%9B%B8%E9%97%9C%E9%83%A8%E9%96%80-%E4%B8%BB%E5%8B%95%E9%85%8D%E5%90%88%E8%AA%BF%E6%9F%A5": {
+      "title": "宏福苑五級火｜陳國基：「調查及規管工作組」將統籌所有相關部門 主動配合調查 宏福苑五級火 23小時前",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:44:31.318027",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火陳國基調查及規管工作組將統籌所有相關部門-主動配合調查-宏福苑五級火-23小時前"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835976-20251213.htm?archive_date=2025-12-13": {
+      "title": "宏福苑五級火｜黃偉綸指有信心在大埔覓地建新居屋",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:32.135859",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火黃偉綸指有信心在大埔覓地建新居屋"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251213/s00001/1765562044692": {
+      "title": "歐陽伯權曾查大埔車禍 陳健波掌廉署反貪諮委",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:44:32.790602",
+      "archive_path": "content\\news\\mingpao\\archive\\歐陽伯權曾查大埔車禍-陳健波掌廉署反貪諮委"
+    },
+    "https://news.tvb.com/tc/taipofire/693c2bf1a8d97e781d6340f1/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7%E8%AB%AE%E8%A9%A2%E5%A7%94%E5%93%A1%E6%9C%83%E5%B7%B2%E7%82%BA%E9%80%BE%E7%99%BE%E5%80%8B%E7%BD%B9%E9%9B%A3%E8%80%85%E5%AE%B6%E5%BA%AD%E6%8F%90%E4%BE%9B%E5%BF%83%E7%90%86%E6%94%AF%E6%8F%B4": {
+      "title": "宏福苑五級火｜精神健康諮詢委員會已為逾百個罹難者家庭提供心理支援 宏福苑五級火 23小時前 粵",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:44:36.933876",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火精神健康諮詢委員會已為逾百個罹難者家庭提供心理支援-宏福苑五級火-23小時前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835982-20251213.htm?archive_date=2025-12-13": {
+      "title": "特朗普稱泰柬雙方同意昨晚起停火　惟泰柬續指邊境地區遭對方攻擊",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:37.697646",
+      "archive_path": "content\\news\\rthk\\archive\\特朗普稱泰柬雙方同意昨晚起停火-惟泰柬續指邊境地區遭對方攻擊"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251213/s00001/1765562044916": {
+      "title": "特首將赴京述職 向習匯報災後工作",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:44:38.942700",
+      "archive_path": "content\\news\\mingpao\\archive\\特首將赴京述職-向習匯報災後工作"
+    },
+    "https://news.tvb.com/tc/taipofire/6939747ad63af8b438b9b23a/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%AF%8F%E6%88%B6%E6%A5%AD%E4%B8%BB%E7%8D%B2%E8%A3%9C%E5%8A%A9%E6%8B%86%E5%9C%8D%E7%B6%B2%E5%BE%8C%E6%88%96%E6%9C%AA%E7%A7%BB%E8%B5%B0%E9%9B%9C%E7%89%A9%E5%9F%BA%E5%AD%94%E8%82%AF%E9%9B%85%E7%86%B1": {
+      "title": "八分鐘本地新聞重點｜宏福苑每戶業主獲補助／拆圍網後或未移走雜物／基孔肯雅熱 宏福苑五級火 2025-12-10 粵",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:44:42.420983",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點宏福苑每戶業主獲補助拆圍網後或未移走雜物基孔肯雅熱-宏福苑五級火-2025-12-10-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835981-20251213.htm?archive_date=2025-12-13": {
+      "title": "天澤邨單位凌晨火警懷疑涉縱火　獨居男戶主燒傷列為疑犯",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:42.801787",
+      "archive_path": "content\\news\\rthk\\archive\\天澤邨單位凌晨火警懷疑涉縱火-獨居男戶主燒傷列為疑犯"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251213/s00001/1765560670634": {
+      "title": "喪親者支援增至7NGO 推三層機制可轉介專家",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:44:44.280969",
+      "archive_path": "content\\news\\mingpao\\archive\\喪親者支援增至7ngo-推三層機制可轉介專家"
+    },
+    "https://news.tvb.com/tc/pearlnews/693cfc0ba8d97e781d69ee4e/TVB%20News-Interim-Housing-flats-in-Po-Tin-opens-for-victims-of-Tai-Po-fire-this-weekend": {
+      "title": "Interim Housing flats in Po Tin opens for victims of Tai Po fire this weekend",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:44:48.495953",
+      "archive_path": "content\\news\\tvb\\archive\\interim-housing-flats-in-po-tin-opens-for-victims-of-tai-po-fire-this-weekend"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835954-20251213.htm?archive_date=2025-12-13": {
+      "title": "立法會選舉｜曾國衞承認火災影響投票率　政府欣慰市民願意投票",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:48.978439",
+      "archive_path": "content\\news\\rthk\\archive\\立法會選舉曾國衞承認火災影響投票率-政府欣慰市民願意投票"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251213/s00001/1765560671213": {
+      "title": "災民法律求助多涉按揭、失文件 下階段料訴訟索償增",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:44:50.634066",
+      "archive_path": "content\\news\\mingpao\\archive\\災民法律求助多涉按揭失文件-下階段料訴訟索償增"
+    },
+    "https://news.tvb.com/tc/pearlnews/693c29d4a8d97e781d63274d/TVB%20News-Scaffolding-netting-comes-down-from-Wang-Fuk-Court": {
+      "title": "Scaffolding netting comes down from Wang Fuk Court",
+      "source": "tvb",
+      "scraped_at": "2025-12-13T22:44:54.632338",
+      "archive_path": "content\\news\\tvb\\archive\\scaffolding-netting-comes-down-from-wang-fuk-court"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835942-20251213.htm?archive_date=2025-12-13": {
+      "title": "宏福苑五級火｜卓永興稱不容許「偽受災者」趁火打劫",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:54.941481",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火卓永興稱不容許偽受災者趁火打劫"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251213/s00001/1765560671425": {
+      "title": "涉冒災民騙援助金 無業男控5罪還押",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:44:56.483269",
+      "archive_path": "content\\news\\mingpao\\archive\\涉冒災民騙援助金-無業男控5罪還押"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835937-20251213.htm?archive_date=2025-12-13": {
+      "title": "宏福苑五級火｜多名議員認為是時候考慮居民長遠安置問題",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:44:59.961571",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火多名議員認為是時候考慮居民長遠安置問題"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251213/s00001/1765560671534": {
+      "title": "勞處兩周查467地盤  249警告25檢控",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:45:01.790621",
+      "archive_path": "content\\news\\mingpao\\archive\\勞處兩周查467地盤-249警告25檢控"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835911-20251213.htm?archive_date=2025-12-13": {
+      "title": "天水圍天澤邨有單位起火一名男子燒傷送院　400人需疏散",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:45:05.155838",
+      "archive_path": "content\\news\\rthk\\archive\\天水圍天澤邨有單位起火一名男子燒傷送院-400人需疏散"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251213/s00001/1765560671628": {
+      "title": "特首令黃偉綸研長遠住宿 蒐意見列選項供揀",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:45:07.473514",
+      "archive_path": "content\\news\\mingpao\\archive\\特首令黃偉綸研長遠住宿-蒐意見列選項供揀"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835910-20251213.htm?archive_date=2025-12-13": {
+      "title": "烏克蘭指俄軍攻擊黑海港口城市　一艘集裝箱船起火最少一傷",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:45:11.083930",
+      "archive_path": "content\\news\\rthk\\archive\\烏克蘭指俄軍攻擊黑海港口城市-一艘集裝箱船起火最少一傷"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251213/s00002/1765557962535": {
+      "title": "工展今啟商戶樂觀 有推災民優惠療傷",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:45:13.563873",
+      "archive_path": "content\\news\\mingpao\\archive\\工展今啟商戶樂觀-有推災民優惠療傷"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835908-20251213.htm?archive_date=2025-12-13": {
+      "title": "特朗普稱與泰柬領導人通電話　指泰柬已同意停止所有交火",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:45:16.675826",
+      "archive_path": "content\\news\\rthk\\archive\\特朗普稱與泰柬領導人通電話-指泰柬已同意停止所有交火"
+    },
+    "https://news.mingpao.com/pns/%e7%a4%be%e8%a9%95/article/20251213/s00003/1765560696127": {
+      "title": "社評：獨立委員會還原真相 「尚方寶劍」隨時可動用",
+      "source": "mingpao",
+      "scraped_at": "2025-12-13T22:45:19.735394",
+      "archive_path": "content\\news\\mingpao\\archive\\社評獨立委員會還原真相-尚方寶劍隨時可動用"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1835904-20251213.htm?archive_date=2025-12-13": {
+      "title": "土耳其總統建議俄烏雙方對對方能源和港口設施實施有限度停火",
+      "source": "rthk",
+      "scraped_at": "2025-12-13T22:45:21.998165",
+      "archive_path": "content\\news\\rthk\\archive\\土耳其總統建議俄烏雙方對對方能源和港口設施實施有限度停火"
     }
   },
-  "last_updated": "2025-12-12T23:09:15.124809"
+  "last_updated": "2025-12-13T22:45:21.998232"
 }

@@ -346,3 +346,26 @@
 - [余偉文︰宏福苑樓按問題複雜](https://www1.hkej.com/dailynews/finnews/article/4272031/%E4%BD%99%E5%81%89%E6%96%87%EF%B8%B0%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A8%93%E6%8C%89%E5%95%8F%E9%A1%8C%E8%A4%87%E9%9B%9C)
 - [如何復常](https://www1.hkej.com/dailynews/culture/article/4269495/%E5%A6%82%E4%BD%95%E5%BE%A9%E5%B8%B8)
 - [棚網新規 須交指定實驗室檢測 首批擬月內上架 甯漢豪盼挽回信心](https://www1.hkej.com/dailynews/views/article/4272078/%E6%A3%9A%E7%B6%B2%E6%96%B0%E8%A6%8F+%E9%A0%88%E4%BA%A4%E6%8C%87%E5%AE%9A%E5%AF%A6%E9%A9%97%E5%AE%A4%E6%AA%A2%E6%B8%AC)
+
+
+### 2025-12-12
+- [宏福苑大火丨喪親支援計劃已接觸130名離世人士家庭](https://www2.hkej.com/instantnews/current/article/4273396/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E5%96%AA%E8%A6%AA%E6%94%AF%E6%8F%B4%E8%A8%88%E5%8A%83%E5%B7%B2%E6%8E%A5%E8%A7%B8130%E5%90%8D%E9%9B%A2%E4%B8%96%E4%BA%BA%E5%A3%AB%E5%AE%B6%E5%BA%AD)
+- [宏福苑大火丨獨立委員會本月下旬運作 援助基金增至36億](https://www2.hkej.com/instantnews/current/article/4273395/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E6%9C%AC%E6%9C%88%E4%B8%8B%E6%97%AC%E9%81%8B%E4%BD%9C+%E6%8F%B4%E5%8A%A9%E5%9F%BA%E9%87%91%E5%A2%9E%E8%87%B336%E5%84%84)
+- [5則必讀新聞丨宏福苑五級火獨立委員會3人構成](https://www2.hkej.com/instantnews/current/article/4273022/5%E5%89%87%E5%BF%85%E8%AE%80%E6%96%B0%E8%81%9E%E4%B8%A8%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%833%E4%BA%BA%E6%A7%8B%E6%88%90)
+- [倍搏集團(08331) 其他-雜項](https://www2.hkej.com/instantnews/hkex/article/4272986/%E5%80%8D%E6%90%8F%E9%9B%86%E5%9C%98%2808331%29+%E5%85%B6%E4%BB%96-%E9%9B%9C%E9%A0%85)
+
+### 2025-12-13
+- [宏福苑火災丨房協已安排1200居民入住過渡性房屋等單位](https://www2.hkej.com/instantnews/current/article/4273506/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E4%B8%A8%E6%88%BF%E5%8D%94%E5%B7%B2%E5%AE%89%E6%8E%921200%E5%B1%85%E6%B0%91%E5%85%A5%E4%BD%8F%E9%81%8E%E6%B8%A1%E6%80%A7%E6%88%BF%E5%B1%8B%E7%AD%89%E5%96%AE%E4%BD%8D)
+- [宏福苑大火丨黃偉綸:有信心大埔區內覓地加建居屋](https://www2.hkej.com/instantnews/current/article/4273492/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E9%BB%83%E5%81%89%E7%B6%B8%3A%E6%9C%89%E4%BF%A1%E5%BF%83%E5%A4%A7%E5%9F%94%E5%8D%80%E5%85%A7%E8%A6%93%E5%9C%B0%E5%8A%A0%E5%BB%BA%E5%B1%85%E5%B1%8B)
+- [宏福苑五級火丨盧偉國:建造業內鋌而走險分子只屬少數](https://www2.hkej.com/instantnews/current/article/4273488/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E7%9B%A7%E5%81%89%E5%9C%8B%3A%E5%BB%BA%E9%80%A0%E6%A5%AD%E5%85%A7%E9%8B%8C%E8%80%8C%E8%B5%B0%E9%9A%AA%E5%88%86%E5%AD%90%E5%8F%AA%E5%B1%AC%E5%B0%91%E6%95%B8)
+- [國際早班車丨愛潑斯坦檔案:特朗普克林頓等人出現在新公布照片中](https://www2.hkej.com/instantnews/international/article/4273485/%E5%9C%8B%E9%9A%9B%E6%97%A9%E7%8F%AD%E8%BB%8A%E4%B8%A8%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%AA%94%E6%A1%88%3A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%8B%E6%9E%97%E9%A0%93%E7%AD%89%E4%BA%BA%E5%87%BA%E7%8F%BE%E5%9C%A8%E6%96%B0%E5%85%AC%E5%B8%83%E7%85%A7%E7%89%87%E4%B8%AD)
+- [中國人壽捐贈一千萬 助大埔受災人士渡難關](https://www1.hkej.com/dailynews/investment/article/4273065/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%A3%BD%E6%8D%90%E8%B4%88%E4%B8%80%E5%8D%83%E8%90%AC+%E5%8A%A9%E5%A4%A7%E5%9F%94%E5%8F%97%E7%81%BD%E4%BA%BA%E5%A3%AB%E6%B8%A1%E9%9B%A3%E9%97%9C)
+- [災難的悲痛](https://www1.hkej.com/dailynews/culture/article/4270945/%E7%81%BD%E9%9B%A3%E7%9A%84%E6%82%B2%E7%97%9B)
+- [黃偉綸統籌 蒐災民意願研安置](https://www1.hkej.com/dailynews/politics/article/4273145/%E9%BB%83%E5%81%89%E7%B6%B8%E7%B5%B1%E7%B1%8C+%E8%92%90%E7%81%BD%E6%B0%91%E6%84%8F%E9%A1%98%E7%A0%94%E5%AE%89%E7%BD%AE)
+- [獨立委員會9個月內交火災報告 陸啟康任主席 有需要可申法定權力](https://www1.hkej.com/dailynews/politics/article/4273144/%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%839%E5%80%8B%E6%9C%88%E5%85%A7%E4%BA%A4%E7%81%AB%E7%81%BD%E5%A0%B1%E5%91%8A)
+- [國安警首引「非法操練罪」拘9男](https://www1.hkej.com/dailynews/politics/article/4273148/%E5%9C%8B%E5%AE%89%E8%AD%A6%E9%A6%96%E5%BC%95%E3%80%8C%E9%9D%9E%E6%B3%95%E6%93%8D%E7%B7%B4%E7%BD%AA%E3%80%8D%E6%8B%989%E7%94%B7)
+- [火災死者家屬獲三層心理支援](https://www1.hkej.com/dailynews/views/article/4273154/%E7%81%AB%E7%81%BD%E6%AD%BB%E8%80%85%E5%AE%B6%E5%B1%AC%E7%8D%B2%E4%B8%89%E5%B1%A4%E5%BF%83%E7%90%86%E6%94%AF%E6%8F%B4)
+- [透骨透肉透身心](https://www1.hkej.com/dailynews/culture/article/4270944/%E9%80%8F%E9%AA%A8%E9%80%8F%E8%82%89%E9%80%8F%E8%BA%AB%E5%BF%83)
+- [陸啟康料調查非一帆風順](https://www1.hkej.com/dailynews/politics/article/4273146/%E9%99%B8%E5%95%9F%E5%BA%B7%E6%96%99%E8%AA%BF%E6%9F%A5%E9%9D%9E%E4%B8%80%E5%B8%86%E9%A2%A8%E9%A0%86)
+- [清華學者：火災揭示本港現代化不全面](https://www1.hkej.com/dailynews/views/article/4273153/%E6%B8%85%E8%8F%AF%E5%AD%B8%E8%80%85%EF%BC%9A%E7%81%AB%E7%81%BD%E6%8F%AD%E7%A4%BA%E6%9C%AC%E6%B8%AF%E7%8F%BE%E4%BB%A3%E5%8C%96%E4%B8%8D%E5%85%A8%E9%9D%A2)
+- [林哲玄：屢稱單一事件難服眾](https://www1.hkej.com/dailynews/politics/article/4273147/%E6%9E%97%E5%93%B2%E7%8E%84%EF%BC%9A%E5%B1%A2%E7%A8%B1%E5%96%AE%E4%B8%80%E4%BA%8B%E4%BB%B6%E9%9B%A3%E6%9C%8D%E7%9C%BE)

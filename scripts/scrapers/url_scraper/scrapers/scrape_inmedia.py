@@ -46,5 +46,4 @@ def scrape():
             print(e)
             pass
     driver.close()
-    print(results)
     return ("獨立媒體", results)
