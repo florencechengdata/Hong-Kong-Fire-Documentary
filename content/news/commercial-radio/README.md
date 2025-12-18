@@ -505,3 +505,11 @@
 - [消息：廉署拘捕宏福苑新舊業主立案法團主席調查](https://www.881903.com/news/local/2610647/) [Original](https://www.881903.com/news/local/2610647/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消息廉署拘捕宏福苑新舊業主立案法團主席調查/){.md-button .hkfd-news-button}
 - [毛樂禮：沈春耀關心大埔火災　相信政府會妥善處理](https://www.881903.com/news/local/2610591/) [Original](https://www.881903.com/news/local/2610591/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮沈春耀關心大埔火災-相信政府會妥善處理/){.md-button .hkfd-news-button}
 - [習近平晤李家超無提及「全力支持」   譚耀宗：不可能不支持](https://www.881903.com/news/local/2610574/) [Original](https://www.881903.com/news/local/2610574/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平晤李家超無提及全力支持-譚耀宗不可能不支持/){.md-button .hkfd-news-button}
+
+
+### 2025-12-18
+- [宏福苑業主可獲30萬租金補助   業主及租戶搬遷補助5萬](https://www.881903.com/news/local/2610809/) [Original](https://www.881903.com/news/local/2610809/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑業主可獲30萬租金補助-業主及租戶搬遷補助5萬/){.md-button .hkfd-news-button}
+- [殉職消防何偉豪設靈 　李家超及梁振英等弔唁](https://www.881903.com/news/local/2610821/) [Original](https://www.881903.com/news/local/2610821/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/殉職消防何偉豪設靈-李家超及梁振英等弔唁/){.md-button .hkfd-news-button}
+- [醫管局：17名宏福苑大火傷者仍留醫](https://www.881903.com/news/local/2610822/) [Original](https://www.881903.com/news/local/2610822/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/醫管局17名宏福苑大火傷者仍留醫/){.md-button .hkfd-news-button}
+- [大律師公會將就火災設研究小組　初步方向包括就圍標訂專屬罪行](https://www.881903.com/news/local/2610780/) [Original](https://www.881903.com/news/local/2610780/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大律師公會將就火災設研究小組-初步方向包括就圍標訂專屬罪行/){.md-button .hkfd-news-button}
+- [元朗錦綉花園業主請願　要求修例助成立業主立案法團](https://www.881903.com/news/local/2610760/) [Original](https://www.881903.com/news/local/2610760/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/元朗錦綉花園業主請願-要求修例助成立業主立案法團/){.md-button .hkfd-news-button}

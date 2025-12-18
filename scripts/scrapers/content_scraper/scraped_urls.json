@@ -37184,7 +37184,546 @@
       "source_file": "content/news/mingpao/README.md",
       "scraped_at": "2025-12-17T23:15:05.056559",
       "archive_path": "content\\news\\mingpao\\archive\\時事中文災難中的守望相助宏福苑世紀大火"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4277710/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E4%B8%A8%E6%94%BF%E5%BA%9C%3A%E8%BC%83%E9%95%B7%E6%9C%9F%E5%AE%89%E7%BD%AE%E5%8F%97%E5%BD%B1%E9%9F%BF%E5%B1%85%E6%B0%91%E5%96%AE%E4%BD%8D%E4%BE%9B%E6%87%89%E8%B6%B3%E5%A4%A0": {
+      "title": "宏福苑火災丨政府:較長期安置受影響居民單位供應足夠",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-18T23:29:03.179980",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑火災丨政府較長期安置受影響居民單位供應足夠"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4277319/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E4%B8%A8%E9%86%AB%E7%AE%A1%E5%B1%80%E5%85%A9%E5%90%8D%E5%93%A1%E5%B7%A5%E7%BD%B9%E9%9B%A3+%E4%BB%8D%E6%9C%8917%E5%90%8D%E5%82%B7%E8%80%85%E7%95%99%E9%86%AB": {
+      "title": "宏福苑火災丨醫管局兩名員工罹難 仍有17名傷者留醫",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-18T23:29:52.194301",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑火災丨醫管局兩名員工罹難-仍有17名傷者留醫"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4277010/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E6%A5%AD%E4%B8%BB%E7%8D%B2%E7%99%BC%E6%94%BE%E6%AF%8F%E5%B9%B415%E8%90%AC%E7%A7%9F%E9%87%91%E8%A3%9C%E5%8A%A9+%E7%82%BA%E6%9C%9F2%E5%B9%B4": {
+      "title": "宏福苑大火丨業主獲發放每年15萬租金補助 為期2年",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-18T23:30:25.273178",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨業主獲發放每年15萬租金補助-為期2年"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4276610/%E5%BB%89%E7%BD%B2%E6%8B%98%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%AB%8B%E6%A1%88%E6%B3%95%E5%9C%98%E6%96%B0%E8%88%8A%E4%B8%BB%E5%B8%AD": {
+      "title": "廉署拘宏福苑立案法團新舊主席",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-18T23:30:33.552159",
+      "archive_path": "content\\news\\hkej\\archive\\廉署拘宏福苑立案法團新舊主席"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4276877/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E6%B0%91%E9%9D%92%E5%B1%802000%E7%A6%8F%E8%A2%8B%E8%B4%88%E7%81%BD%E6%B0%91+%E5%86%80%E8%A7%A3%E7%87%83%E7%9C%89%E4%B9%8B%E6%80%A5": {
+      "title": "宏福苑大火丨民青局2000福袋贈災民 冀解燃眉之急",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-18T23:30:36.099671",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨民青局2000福袋贈災民-冀解燃眉之急"
+    },
+    "https://www.881903.com/news/local/2610809/": {
+      "title": "宏福苑業主可獲30萬租金補助   業主及租戶搬遷補助5萬",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-18T23:30:36.188475",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑業主可獲30萬租金補助-業主及租戶搬遷補助5萬"
+    },
+    "https://www1.hkej.com/dailynews/commentary/article/4276613/%E4%B8%AD%E5%A4%AE%E6%8C%87%E7%A4%BA%E3%80%8C%E6%8A%93%E7%B7%8A%E8%90%BD%E5%AF%A6%E3%80%8D%E8%99%95%E7%90%86%E7%81%AB%E7%81%BD+%E6%83%B9%E5%AE%98%E5%A0%B4%E6%94%BF%E5%9C%88%E7%8C%9C%E6%B8%AC": {
+      "title": "中央指示「抓緊落實」處理火災 惹官場政圈猜測",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-18T23:30:41.987832",
+      "archive_path": "content\\news\\hkej\\archive\\中央指示抓緊落實處理火災-惹官場政圈猜測"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4276784/%E4%BF%A1%E8%A7%80%E9%BB%9E%E4%B8%A8%E4%B8%AD%E5%A4%AE%E6%8C%87%E7%A4%BA%E3%80%8C%E6%8A%93%E7%B7%8A%E8%90%BD%E5%AF%A6%E3%80%8D%E8%99%95%E7%90%86%E7%81%AB%E7%81%BD+%E6%83%B9%E5%AE%98%E5%A0%B4%E6%94%BF%E5%9C%88%E7%8C%9C%E6%B8%AC": {
+      "title": "信觀點丨中央指示「抓緊落實」處理火災 惹官場政圈猜測",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-18T23:30:44.270418",
+      "archive_path": "content\\news\\hkej\\archive\\信觀點丨中央指示抓緊落實處理火災-惹官場政圈猜測"
+    },
+    "https://www.dotdotnews.com/a/202512/18/AP69440db6e4b0c32d4f63a7ce.html": {
+      "title": "宏福苑五級火｜租戶應急屋免租至明年5月　業主有冇份？房屋局回覆點新聞",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2025-12-18T23:30:46.525947",
+      "archive_path": "content\\news\\dotdotnews\\archive\\宏福苑五級火租戶應急屋免租至明年5月-業主有冇份房屋局回覆點新聞"
+    },
+    "https://www.881903.com/news/local/2610821/": {
+      "title": "殉職消防何偉豪設靈 　李家超及梁振英等弔唁",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-18T23:30:47.844414",
+      "archive_path": "content\\news\\commercial-radio\\archive\\殉職消防何偉豪設靈-李家超及梁振英等弔唁"
+    },
+    "https://www1.hkej.com/dailynews/investment/article/4276533/%E5%9C%8D%E6%A8%99%E7%A6%8D%E6%82%A3%E7%89%BD%E9%80%A3%E5%BB%A3+%E6%8E%A2%E8%A8%8E%E6%AD%90%E7%BE%8E%E6%A1%88%E4%BE%8B": {
+      "title": "圍標禍患牽連廣 探討歐美案例",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-18T23:30:49.317715",
+      "archive_path": "content\\news\\hkej\\archive\\圍標禍患牽連廣-探討歐美案例"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4276771/%E5%80%99%E4%BB%BB%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E4%BA%A4%E6%B5%81%E6%9C%83%E4%B8%A8%E9%99%B3%E5%9C%8B%E5%9F%BA%E5%86%80%E5%8A%A9%E7%89%B9%E5%8D%80%E6%94%BF%E5%BA%9C%E6%8F%90%E5%8D%87%E7%AE%A1%E6%B2%BB%E6%95%88%E8%83%BD": {
+      "title": "候任立法會議員交流會丨陳國基冀助特區政府提升管治效能",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-18T23:30:50.399596",
+      "archive_path": "content\\news\\hkej\\archive\\候任立法會議員交流會丨陳國基冀助特區政府提升管治效能"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E6%94%BF%E5%BA%9C%EF%BC%9A%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1%E5%90%91%E7%A7%9F%E6%88%B6%E6%8F%90%E4%BE%9B%E7%8F%BE%E9%87%91%E8%A3%9C%E5%8A%A9-%E4%B9%8B%E5%BE%8C%E5%B0%87%E9%9B%86%E4%B8%AD%E6%94%AF%E6%8F%B4%E6%A5%AD%E4%B8%BB": {
+      "title": "【宏福苑五級火】政府：最後一次向租戶提供現金補助 之後將集中支援業主",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2025-12-18T23:33:29.495350",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火政府最後一次向租戶提供現金補助-之後將集中支援業主"
+    },
+    "https://hongkongfp.com/?p=547764": {
+      "title": "Wall St Journal seeks halt to Hong Kong press union head’s termination suit over ‘abuse’ of court system",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2025-12-18T23:33:29.669623",
+      "archive_path": "content\\news\\hkfp\\archive\\wall-st-journal-seeks-halt-to-hong-kong-press-union-heads-termination-suit-over"
+    },
+    "https://www.dotdotnews.com/a/202512/18/AP69440cafe4b0c32d4f63a7ba.html": {
+      "title": "宏福苑五級火｜以歌聲撫慰災民心靈　古巨基獲34位歌手合作送暖",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2025-12-18T23:33:31.119741",
+      "archive_path": "content\\news\\dotdotnews\\archive\\宏福苑五級火以歌聲撫慰災民心靈-古巨基獲34位歌手合作送暖"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/421151/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%AE%89%E8%81%B7%E6%B6%88%E9%98%B2%E5%93%A1%E8%A8%AD%E9%9D%88-%E5%A5%B3%E5%8F%8B%E9%80%81%E8%8A%B1%E5%9C%88-%E7%97%9B%E5%BE%B9": {
+      "title": "宏福苑大火｜殉職消防員設靈　女友送花圈：痛徹心扉　市民：港人應永記他",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-18T23:33:31.177826",
+      "archive_path": "content\\news\\i-cable\\archive\\宏福苑大火殉職消防員設靈-女友送花圈痛徹心扉-市民港人應永記他"
+    },
+    "https://www.881903.com/news/local/2610822/": {
+      "title": "醫管局：17名宏福苑大火傷者仍留醫",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-18T23:33:33.320701",
+      "archive_path": "content\\news\\commercial-radio\\archive\\醫管局17名宏福苑大火傷者仍留醫"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/421117/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E9%86%AB%E7%AE%A1%E5%B1%80%E6%88%90%E7%AB%8B%E7%B7%8A%E6%80%A5%E6%8F%B4%E5%8A%A9%E5%9F%BA%E9%87%91-%E6%94%AF%E6%8F%B4%E7%BD%B9%E9%9B%A3": {
+      "title": "宏福苑大火｜醫管局成立緊急援助基金　支援罹難和受影響員工",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-18T23:33:44.778587",
+      "archive_path": "content\\news\\i-cable\\archive\\宏福苑大火醫管局成立緊急援助基金-支援罹難和受影響員工"
+    },
+    "https://www.881903.com/news/local/2610780/": {
+      "title": "大律師公會將就火災設研究小組　初步方向包括就圍標訂專屬罪行",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-18T23:33:56.203259",
+      "archive_path": "content\\news\\commercial-radio\\archive\\大律師公會將就火災設研究小組-初步方向包括就圍標訂專屬罪行"
+    },
+    "https://www.dotdotnews.com/a/202512/18/AP69422b62e4b0c32d4f63812a.html": {
+      "title": "（有片）議會新面孔｜回歸後首位警隊出身議員　陳祖光支持獨立委員會徹查大埔火災",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2025-12-18T23:34:13.232013",
+      "archive_path": "content\\news\\dotdotnews\\archive\\有片議會新面孔回歸後首位警隊出身議員-陳祖光支持獨立委員會徹查大埔火災"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/421114/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%AE%89%E8%81%B7%E6%B6%88%E9%98%B2%E5%93%A1%E4%BD%95%E5%81%89%E8%B1%AA%E8%A8%AD%E9%9D%88-%E6%98%8E%E6%97%A9%E8%88%89%E6%AE%AF": {
+      "title": "宏福苑大火｜殉職消防員何偉豪設靈　明早舉殯　移送浩園安葬",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-18T23:34:19.544071",
+      "archive_path": "content\\news\\i-cable\\archive\\宏福苑大火殉職消防員何偉豪設靈-明早舉殯-移送浩園安葬"
+    },
+    "https://www.881903.com/news/local/2610760/": {
+      "title": "元朗錦綉花園業主請願　要求修例助成立業主立案法團",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-18T23:34:25.871091",
+      "archive_path": "content\\news\\commercial-radio\\archive\\元朗錦綉花園業主請願-要求修例助成立業主立案法團"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/421009/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%94%BF%E5%BA%9C-%E5%90%91%E6%A5%AD%E4%B8%BB%E7%99%BC%E6%94%BE%E6%AF%8F%E5%B9%B415%E8%90%AC": {
+      "title": "宏福苑大火｜政府：向業主發放每年15萬元租金補助　業主、租戶各獲5萬元搬遷補助",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-18T23:34:33.146760",
+      "archive_path": "content\\news\\i-cable\\archive\\宏福苑大火政府向業主發放每年15萬元租金補助-業主租戶各獲5萬元搬遷補助"
+    },
+    "https://www.dotdotnews.com/a/202512/18/AP6943c201e4b0c32d4f63a0f5.html": {
+      "title": "（有片）宏福苑五級火｜卓永興：12·22起向業主派發每年15萬租金補助　另設一次性5萬搬遷補助",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2025-12-18T23:34:44.861308",
+      "archive_path": "content\\news\\dotdotnews\\archive\\有片宏福苑五級火卓永興1222起向業主派發每年15萬租金補助-另設一次性5萬搬遷補助"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/420931/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E5%8E%BB%E5%B9%B4%E8%88%87%E9%BB%83%E7%A2%A7%E5%AC%8C%E7%8F%BE%E8%BA%AB%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E6%A2%85%E5%B0%91%E5%B3%B0": {
+      "title": "宏福苑大火｜去年與黃碧嬌現身業主大會　梅少峰重申：民建聯沒參與大維修招標",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-18T23:34:55.809184",
+      "archive_path": "content\\news\\i-cable\\archive\\宏福苑大火去年與黃碧嬌現身業主大會-梅少峰重申民建聯沒參與大維修招標"
+    },
+    "https://www.dotdotnews.com/a/202512/18/AP6943bd07e4b0c32d4f63a07e.html": {
+      "title": "點直播｜政府交代大埔宏福苑援助基金最新運作情況｜12月18日",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2025-12-18T23:34:57.976588",
+      "archive_path": "content\\news\\dotdotnews\\archive\\點直播政府交代大埔宏福苑援助基金最新運作情況12月18日"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/420964/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%A2%85%E5%B0%91%E5%B3%B0-%E5%B1%85%E6%B0%91%E5%82%BE%E5%90%91%E5%8E%9F%E5%9D%80%E6%88%96%E9%99%84%E8%BF%91%E9%87%8D%E5%BB%BA": {
+      "title": "宏福苑大火｜梅少峰：居民傾向原址或附近重建　測量師學會倡立新例統一收購業權",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-18T23:35:02.897114",
+      "archive_path": "content\\news\\i-cable\\archive\\宏福苑大火梅少峰居民傾向原址或附近重建-測量師學會倡立新例統一收購業權"
+    },
+    "https://www.dotdotnews.com/a/202512/18/AP6943cdf3e4b0c32d4f63a2c4.html": {
+      "title": "點聞1分鐘｜跨年倒數移師中環　煙花匯演環節取消　港鐵口岸擬延長服務時間",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2025-12-18T23:35:04.575118",
+      "archive_path": "content\\news\\dotdotnews\\archive\\點聞1分鐘跨年倒數移師中環-煙花匯演環節取消-港鐵口岸擬延長服務時間"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/420969/%E6%94%BF%E7%B6%93chat-%E5%A4%A7%E5%9F%94%E5%8D%80%E8%AD%B0%E5%93%A1%E6%A2%85%E5%B0%91%E5%B3%B0-%E9%A6%99%E6%B8%AF%E6%B8%AC%E9%87%8F%E5%B8%AB%E5%AD%B8%E6%9C%83%E5%80%99%E4%BB%BB": {
+      "title": "政經CHAT｜大埔區議員梅少峰、香港測量師學會候任會長溫偉明　探討宏福苑居民安置方案",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-18T23:35:10.703526",
+      "archive_path": "content\\news\\i-cable\\archive\\政經chat大埔區議員梅少峰香港測量師學會候任會長溫偉明-探討宏福苑居民安置方案"
+    },
+    "https://hongkongfp.com/?p=547751": {
+      "title": "Tai Po fire: Flat owners to receive rental subsidy; anti-graft agency nabs current, former chairs of owners’ corporation",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2025-12-18T23:35:13.136579",
+      "archive_path": "content\\news\\hkfp\\archive\\tai-po-fire-flat-owners-to-receive-rental-subsidy-anti-graft-agency-nabs"
+    },
+    "https://news.now.com/home/local/player?newsId=629921": {
+      "title": "宏福苑五級火災｜大埔宏福苑援助基金總額38億元",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:35:16.703712",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災大埔宏福苑援助基金總額38億元"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1836635-20251218.htm?archive_date=2025-12-18": {
+      "title": "Wang Fuk Court owners get rental subsidy for two years",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-18T23:35:17.110288",
+      "archive_path": "content\\news\\rthk\\archive\\wang-fuk-court-owners-get-rental-subsidy-for-two-years"
+    },
+    "https://news.now.com/home/local/player?newsId=630024": {
+      "title": "宏福苑五級火災｜宏福苑業主獲每年15萬租金補助　業主租戶同獲5萬元搬遷補助",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:35:26.892263",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災宏福苑業主獲每年15萬租金補助-業主租戶同獲5萬元搬遷補助"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836674-20251218.htm?archive_date=2025-12-18": {
+      "title": "宏福苑五級火｜何偉豪設靈　李家超、梁振英和曾蔭權等致意",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-18T23:35:38.305173",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火何偉豪設靈-李家超梁振英和曾蔭權等致意"
+    },
+    "https://news.now.com/home/local/player?newsId=630051": {
+      "title": "宏福苑五級火災｜宏福苑業主家屬認為租金補助有效減輕經濟壓力",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:35:39.888063",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災宏福苑業主家屬認為租金補助有效減輕經濟壓力"
+    },
+    "https://hongkongfp.com/?p=547675": {
+      "title": "Hong Kong cancels New Year’s Eve fireworks; alternative countdown event to convey ‘positive energy’",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2025-12-18T23:35:45.314149",
+      "archive_path": "content\\news\\hkfp\\archive\\hong-kong-cancels-new-years-eve-fireworks-alternative-countdown-event-to-convey"
+    },
+    "https://news.now.com/home/local/player?newsId=630049": {
+      "title": "即日焦點｜宏福苑業主獲每年15萬租金補助／宏福苑火災殉職消防員何偉豪設靈",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:35:50.039391",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點宏福苑業主獲每年15萬租金補助宏福苑火災殉職消防員何偉豪設靈"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836653-20251218.htm?archive_date=2025-12-18": {
+      "title": "宏福苑五級火｜基金累積38億元已用12億　政府稱要用得其所",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-18T23:36:00.526158",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火基金累積38億元已用12億-政府稱要用得其所"
+    },
+    "https://news.now.com/home/local/player?newsId=630045": {
+      "title": "宏福苑五級火災｜醫管局為宏福苑受災員工籌得逾1400萬　將向兩離世員工家屬及53名失去家園員工發援助",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:36:00.592422",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災醫管局為宏福苑受災員工籌得逾1400萬-將向兩離世員工家屬及53名失去家園員工發援助"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251218/s00001/1766059119790": {
+      "title": "大埔宏福苑五級火｜殉職消防員何偉豪設靈",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:36:40.980864",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火殉職消防員何偉豪設靈"
+    },
+    "https://news.now.com/home/local/player?newsId=630044": {
+      "title": "宏福苑五級火災｜殉職消防員何偉豪設靈　李家超楊恩健等到靈堂致意",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:36:42.475770",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災殉職消防員何偉豪設靈-李家超楊恩健等到靈堂致意"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836646-20251218.htm?archive_date=2025-12-18": {
+      "title": "宏福苑業主獲發每年15萬元租金補助　為期兩年",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-18T23:36:42.537424",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑業主獲發每年15萬元租金補助-為期兩年"
+    },
+    "https://news.tvbs.com.tw/life/3076441": {
+      "title": "香港大火／消防員何偉豪設靈！女友心型花圈「字句令人鼻酸」",
+      "source": "tvbs",
+      "source_file": "content/news/tvbs/README.md",
+      "scraped_at": "2025-12-18T23:36:42.589092",
+      "archive_path": "content\\news\\tvbs\\archive\\香港大火消防員何偉豪設靈女友心型花圈字句令人鼻酸"
+    },
+    "https://news.now.com/home/local/player?newsId=630043": {
+      "title": "宏福苑五級火災｜醫管局為宏福苑受災員工籌得逾1400萬",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:36:55.251842",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災醫管局為宏福苑受災員工籌得逾1400萬"
+    },
+    "https://news.tvbs.com.tw/entertainment/3076334": {
+      "title": "莫文蔚、古巨基開嗓「為港祈福」　維港跨年煙火喊卡",
+      "source": "tvbs",
+      "source_file": "content/news/tvbs/README.md",
+      "scraped_at": "2025-12-18T23:36:55.581614",
+      "archive_path": "content\\news\\tvbs\\archive\\莫文蔚古巨基開嗓為港祈福-維港跨年煙火喊卡"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836644-20251218.htm?archive_date=2025-12-18": {
+      "title": "宏福苑五級火｜兩名員工罹難　醫管局將向家屬發100萬元恩恤金",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-18T23:36:56.065113",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火兩名員工罹難-醫管局將向家屬發100萬元恩恤金"
+    },
+    "https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251218/s00002/1766052306606": {
+      "title": "大埔宏福苑五級火｜OneDegree舉辦聖誕慈善義賣  全數義賣收益兩倍捐贈愛協  支援受災寵物",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:36:59.524537",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火onedegree舉辦聖誕慈善義賣-全數義賣收益兩倍捐贈愛協-支援受災寵物"
+    },
+    "https://news.now.com/home/local/player?newsId=630042": {
+      "title": "宏福苑五級火災｜殉職消防員何偉豪設靈　李家超梁振英等到場致意",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:37:01.726842",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災殉職消防員何偉豪設靈-李家超梁振英等到場致意"
+    },
+    "https://news.tvbs.com.tw/china/3075753": {
+      "title": "跳欄逃生！香港大火「傷勢最重」倖存者曝逃生瞬間：鞋底都燒熔了",
+      "source": "tvbs",
+      "source_file": "content/news/tvbs/README.md",
+      "scraped_at": "2025-12-18T23:37:02.726872",
+      "archive_path": "content\\news\\tvbs\\archive\\跳欄逃生香港大火傷勢最重倖存者曝逃生瞬間鞋底都燒熔了"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251218/s00001/1766047528446": {
+      "title": "政府向大埔宏福苑業主發放每年15萬元租金補助 為期兩年 另提供一筆過5萬元搬遷補助",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:37:05.552921",
+      "archive_path": "content\\news\\mingpao\\archive\\政府向大埔宏福苑業主發放每年15萬元租金補助-為期兩年-另提供一筆過5萬元搬遷補助"
+    },
+    "https://news.now.com/home/local/player?newsId=630036": {
+      "title": "宏福苑五級火災｜殉職消防員何偉豪紅磡世界殯儀館設靈",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:37:07.890017",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災殉職消防員何偉豪紅磡世界殯儀館設靈"
+    },
+    "https://news.tvbs.com.tw/china/3075488": {
+      "title": "宏福苑大火陷貪污、工安疑雲！廉政署「再捕2人」均拒回應",
+      "source": "tvbs",
+      "source_file": "content/news/tvbs/README.md",
+      "scraped_at": "2025-12-18T23:37:11.192568",
+      "archive_path": "content\\news\\tvbs\\archive\\宏福苑大火陷貪污工安疑雲廉政署再捕2人均拒回應"
+    },
+    "https://news.now.com/home/local/player?newsId=630026": {
+      "title": "宏福苑五級火災｜醫管局為宏福苑受災員工籌得逾1400萬",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:37:22.904962",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災醫管局為宏福苑受災員工籌得逾1400萬-1"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251218/s00001/1765994458853": {
+      "title": "淘寶棚網不對辦 檢測報告疑偽造 安全標籤假 內容移花接木 本地商：行內乏查核意識",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:37:28.384971",
+      "archive_path": "content\\news\\mingpao\\archive\\淘寶棚網不對辦-檢測報告疑偽造-安全標籤假-內容移花接木-本地商行內乏查核意識"
+    },
+    "https://news.now.com/home/local/player?newsId=630016": {
+      "title": "原片｜政府：宏福苑受影響業主獲每年15萬元租金補助為期兩年　業主及租戶均獲5萬元搬遷補助",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:37:31.521314",
+      "archive_path": "content\\news\\now-news\\archive\\原片政府宏福苑受影響業主獲每年15萬元租金補助為期兩年-業主及租戶均獲5萬元搬遷補助"
+    },
+    "https://news.now.com/home/local/player?newsId=630019": {
+      "title": "宏福苑五級火災｜殉職消防員何偉豪設靈",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:37:37.728914",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災殉職消防員何偉豪設靈"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836642-20251218.htm?archive_date=2025-12-18": {
+      "title": "宏福苑五級火｜消防隊目何偉豪設靈　女友致花圈寫上「痛徹心扉」",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-18T23:37:37.786107",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火消防隊目何偉豪設靈-女友致花圈寫上痛徹心扉"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251218/s00001/1765994459340": {
+      "title": "淘寳商家：宏福火後「非國家標準」棚網不再送證書",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:37:37.983032",
+      "archive_path": "content\\news\\mingpao\\archive\\淘寳商家宏福火後非國家標準棚網不再送證書"
+    },
+    "https://news.now.com/home/local/player?newsId=630018": {
+      "title": "宏福苑五級火災｜宏福苑業主獲發每年15萬租金補助　業主租戶同獲一次性5萬元搬遷補助",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:38:01.816662",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災宏福苑業主獲發每年15萬租金補助-業主租戶同獲一次性5萬元搬遷補助"
+    },
+    "https://news.now.com/home/local/player?newsId=630003": {
+      "title": "大律師公會最後一日訪京　與港澳辦八局局長楊曉山會面",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:38:13.662683",
+      "archive_path": "content\\news\\now-news\\archive\\大律師公會最後一日訪京-與港澳辦八局局長楊曉山會面"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251218/s00001/1765994459736": {
+      "title": "消息：廉署拘宏福苑新舊法團主席 兩人拒回應",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:38:15.058186",
+      "archive_path": "content\\news\\mingpao\\archive\\消息廉署拘宏福苑新舊法團主席-兩人拒回應"
+    },
+    "https://news.now.com/home/local/player?newsId=629963": {
+      "title": "政府舉行立法會候任議員交流會　陳國基冀議員勇於擔當助政府推動改革",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:38:19.932184",
+      "archive_path": "content\\news\\now-news\\archive\\政府舉行立法會候任議員交流會-陳國基冀議員勇於擔當助政府推動改革"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251218/s00001/1765994460039": {
+      "title": "粉嶺營舍限明日搬 災民遷洪水橋 嘆未能原區安置 民青局：單位供應足夠",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:38:23.112021",
+      "archive_path": "content\\news\\mingpao\\archive\\粉嶺營舍限明日搬-災民遷洪水橋-嘆未能原區安置-民青局單位供應足夠"
+    },
+    "https://news.now.com/home/local/player?newsId=629925": {
+      "title": "晨早新聞重點｜除夕煙花匯演取消／美俄周末在邁阿密討論俄烏和平方案",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-18T23:38:25.807279",
+      "archive_path": "content\\news\\now-news\\archive\\晨早新聞重點除夕煙花匯演取消美俄周末在邁阿密討論俄烏和平方案"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251218/s00001/1765994460264": {
+      "title": "護主逃生災後解僱 外傭獲延長簽證",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:38:29.368084",
+      "archive_path": "content\\news\\mingpao\\archive\\護主逃生災後解僱-外傭獲延長簽證"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251218/s00002/1765994464150": {
+      "title": "無權設法團 換喉5億元 錦綉花園小業主民政總署請願",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:38:36.589605",
+      "archive_path": "content\\news\\mingpao\\archive\\無權設法團-換喉5億元-錦綉花園小業主民政總署請願"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836627-20251218.htm?archive_date=2025-12-18": {
+      "title": "宏福苑五級火｜租戶可獲5萬元搬遷補助　基金未來集中支援業主",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-18T23:38:36.676249",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火租戶可獲5萬元搬遷補助-基金未來集中支援業主"
+    },
+    "https://news.mingpao.com/pns/%e5%a8%9b%e6%a8%82/article/20251218/s00016/1765990270772": {
+      "title": "「紅眼」姜濤彈跳勁歌熱舞登場 認曾想推遲開騷 盼助觀眾釋放情緒",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:38:42.640252",
+      "archive_path": "content\\news\\mingpao\\archive\\紅眼姜濤彈跳勁歌熱舞登場-認曾想推遲開騷-盼助觀眾釋放情緒"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836624-20251218.htm?archive_date=2025-12-18": {
+      "title": "宏福苑五級火｜業主獲每年15萬租金補助為期兩年　5萬搬遷補助",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-18T23:38:46.111718",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火業主獲每年15萬租金補助為期兩年-5萬搬遷補助"
+    },
+    "https://news.tvb.com/tc/pearlnews/69416c38a8d97e781d8e93dd/TVB%20News-President-Xi-affirms-CEs-work-and-offered-condolences-to-Tai-Po-fire-victims": {
+      "title": "President Xi affirms CE's work and offered condolences to Tai Po fire victims",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-18T23:38:51.959847",
+      "archive_path": "content\\news\\tvb\\archive\\president-xi-affirms-ces-work-and-offered-condolences-to-tai-po-fire-victims-1"
+    },
+    "https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20251218/s00012/1765987446213": {
+      "title": "聞風筆動：宏福火後高官外訪暫歇 聖誕假後料逐步復常   ／文：李先知",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:38:53.446683",
+      "archive_path": "content\\news\\mingpao\\archive\\聞風筆動宏福火後高官外訪暫歇-聖誕假後料逐步復常-文李先知"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836605-20251218.htm?archive_date=2025-12-18": {
+      "title": "宏福苑五級火｜卓永興等官員下午就援助基金見傳媒",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-18T23:38:56.135615",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火卓永興等官員下午就援助基金見傳媒"
+    },
+    "https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20251218/s00012/1765987455184": {
+      "title": "姚潔凝：公職人員須以公共利益為依歸",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:38:59.879496",
+      "archive_path": "content\\news\\mingpao\\archive\\姚潔凝公職人員須以公共利益為依歸"
+    },
+    "https://news.tvb.com/tc/pearlnews/6942c424a8d97e781d99edb6/TVB%20News-14-ICAC-arrests-since-Tai-Po-fire-but-no-charges-yet": {
+      "title": "14 ICAC arrests since Tai Po fire but no charges yet",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-18T23:39:00.604524",
+      "archive_path": "content\\news\\tvb\\archive\\14-icac-arrests-since-tai-po-fire-but-no-charges-yet"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836517-20251218.htm?archive_date=2025-12-18": {
+      "title": "宏福苑五級火｜援助基金生活津貼已處理1917宗個案",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-18T23:39:03.537385",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火援助基金生活津貼已處理1917宗個案"
+    },
+    "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20251218/s00011/1765987449500": {
+      "title": "你識唔識：大埔宏福苑五級火 成立獨立委員會調查",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-18T23:39:06.067083",
+      "archive_path": "content\\news\\mingpao\\archive\\你識唔識大埔宏福苑五級火-成立獨立委員會調查"
+    },
+    "https://news.tvb.com/tc/pearlnews/6943f34ab392e5851f15c5c9/TVB-News-Government-begins-distribution-of-relief-payments-to-Tai-Po-fire-victims": {
+      "title": "Government begins distribution of relief payments to Tai Po fire victims",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-18T23:39:08.043668",
+      "archive_path": "content\\news\\tvb\\archive\\government-begins-distribution-of-relief-payments-to-tai-po-fire-victims"
     }
   },
-  "last_updated": "2025-12-17T23:15:05.056631"
+  "last_updated": "2025-12-18T23:39:08.043721"
 }
