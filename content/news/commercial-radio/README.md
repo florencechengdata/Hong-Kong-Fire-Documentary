@@ -477,3 +477,31 @@
 - [宏福苑5級火｜議員促檢討招標機制　為法團成員設居住年期門檻](https://www.881903.com/news/local/2610101/)
 - [民建聯得票大減　陳克勤：每區候選人增且政綱與民建聯類似](https://www.881903.com/news/local/2610117/)
 - [當局向宏福苑居民提供中醫義診　至明年2月底](https://www.881903.com/news/local/2610113/)
+
+
+### 2025-12-15
+- [宏福苑5級火｜110名外傭已獲2萬元特別補助](https://www.881903.com/news/local/2610310/) [Original](https://www.881903.com/news/local/2610310/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火110名外傭已獲2萬元特別補助/){.md-button .hkfd-news-button}
+- [闖沙田馬場賽道男子  獲准保釋候查](https://www.881903.com/news/local/2610313/) [Original](https://www.881903.com/news/local/2610313/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/闖沙田馬場賽道男子-獲准保釋候查/){.md-button .hkfd-news-button}
+- [消防處周五為殉職的何偉豪舉行最高榮譽喪禮](https://www.881903.com/news/local/2610277/) [Original](https://www.881903.com/news/local/2610277/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處周五為殉職的何偉豪舉行最高榮譽喪禮/){.md-button .hkfd-news-button}
+- [宏業未支薪予二判　逾30名碧瑤灣搭棚工遭欠薪約180萬元](https://www.881903.com/news/local/2610237/) [Original](https://www.881903.com/news/local/2610237/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業未支薪予二判-逾30名碧瑤灣搭棚工遭欠薪約180萬元/){.md-button .hkfd-news-button}
+- [李家超啟程赴京述職　將匯報宏福苑火災等民生情況](https://www.881903.com/news/local/2610235/) [Original](https://www.881903.com/news/local/2610235/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超啟程赴京述職-將匯報宏福苑火災等民生情況/){.md-button .hkfd-news-button}
+
+
+### 2025-12-15
+- [殘特奧會晚上在深圳閉幕　 共超創15項世界紀錄](https://www.881903.com/news/local/2610316/) [Original](https://www.881903.com/news/local/2610316/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/殘特奧會晚上在深圳閉幕-共超創15項世界紀錄/){.md-button .hkfd-news-button}
+- [李家超抵京　料明日向習近平述職](https://www.881903.com/news/local/2610317/) [Original](https://www.881903.com/news/local/2610317/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超抵京-料明日向習近平述職/){.md-button .hkfd-news-button}
+
+### 2025-12-16
+- [李家超稱向習近平匯報4方面情況　包括黎智英案](https://www.881903.com/news/local/2610493/) [Original](https://www.881903.com/news/local/2610493/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超稱向習近平匯報4方面情況-包括黎智英案/){.md-button .hkfd-news-button}
+- [消防處調配人手加強巡查大廈消防裝置](https://www.881903.com/news/local/2610498/) [Original](https://www.881903.com/news/local/2610498/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處調配人手加強巡查大廈消防裝置/){.md-button .hkfd-news-button}
+- [習近平聽取李家超述職　提到宏福苑重大火災令人痛心](https://www.881903.com/news/local/2610451/) [Original](https://www.881903.com/news/local/2610451/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平聽取李家超述職-提到宏福苑重大火災令人痛心/){.md-button .hkfd-news-button}
+- [胡英明取消赴多哈出席會議　留港監督五級火調查工作](https://www.881903.com/news/local/2610416/) [Original](https://www.881903.com/news/local/2610416/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/胡英明取消赴多哈出席會議-留港監督五級火調查工作/){.md-button .hkfd-news-button}
+- [宏福苑業主立案法團押後原定明晚全體委員會議](https://www.881903.com/news/local/2610402/) [Original](https://www.881903.com/news/local/2610402/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑業主立案法團押後原定明晚全體委員會議/){.md-button .hkfd-news-button}
+- [李家超料下午向習近平述職　交代本港政經情況](https://www.881903.com/news/local/2610386/) [Original](https://www.881903.com/news/local/2610386/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超料下午向習近平述職-交代本港政經情況/){.md-button .hkfd-news-button}
+
+
+### 2025-12-17
+- [房協澄清宏福苑居民應急住屋安排沒居住期限](https://www.881903.com/news/local/2610664/) [Original](https://www.881903.com/news/local/2610664/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協澄清宏福苑居民應急住屋安排沒居住期限/){.md-button .hkfd-news-button}
+- [消息：廉署拘捕宏福苑新舊業主立案法團主席調查](https://www.881903.com/news/local/2610647/) [Original](https://www.881903.com/news/local/2610647/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消息廉署拘捕宏福苑新舊業主立案法團主席調查/){.md-button .hkfd-news-button}
+- [毛樂禮：沈春耀關心大埔火災　相信政府會妥善處理](https://www.881903.com/news/local/2610591/) [Original](https://www.881903.com/news/local/2610591/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮沈春耀關心大埔火災-相信政府會妥善處理/){.md-button .hkfd-news-button}
+- [習近平晤李家超無提及「全力支持」   譚耀宗：不可能不支持](https://www.881903.com/news/local/2610574/) [Original](https://www.881903.com/news/local/2610574/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平晤李家超無提及全力支持-譚耀宗不可能不支持/){.md-button .hkfd-news-button}

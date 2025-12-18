@@ -682,3 +682,39 @@
 - [李家超周一赴京述職　向習近平匯報宏福苑善後](https://news.now.com/home/local/player?newsId=629522)
 - [宏福苑五級火災｜卜國明：維修達某銀碼應強制用「招標妥」　並加強其顧問功能](https://news.now.com/home/local/player?newsId=629499)
 - [宏福苑五級火災｜方國珊：建議改革大廈維修工程招標制度　從市建局「招標妥」平台著手](https://news.now.com/home/local/player?newsId=629491)
+
+
+### 2025-12-15
+- [李家超抵京述職](https://news.now.com/home/local/player?newsId=629660) [Original](https://news.now.com/home/local/player?newsId=629660){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超抵京述職/){.md-button .hkfd-news-button}
+- [巨型充氣樂園登陸西九草坪　主辦單位望為港帶來正能量](https://news.now.com/home/local/player?newsId=629659) [Original](https://news.now.com/home/local/player?newsId=629659){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/巨型充氣樂園登陸西九草坪-主辦單位望為港帶來正能量/){.md-button .hkfd-news-button}
+- [西九藝術公園大草坪設巨型充氣樂園](https://news.now.com/home/local/player?newsId=629648) [Original](https://news.now.com/home/local/player?newsId=629648){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/西九藝術公園大草坪設巨型充氣樂園/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜消防處周五為殉職消防員何偉豪舉行最高榮譽喪禮](https://news.now.com/home/local/player?newsId=629645) [Original](https://news.now.com/home/local/player?newsId=629645){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災消防處周五為殉職消防員何偉豪舉行最高榮譽喪禮/){.md-button .hkfd-news-button}
+- [薄扶林碧瑤灣大維修由宏業承辦　工人追薪涉款逾百萬元](https://news.now.com/home/local/player?newsId=629630) [Original](https://news.now.com/home/local/player?newsId=629630){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/薄扶林碧瑤灣大維修由宏業承辦-工人追薪涉款逾百萬元/){.md-button .hkfd-news-button}
+- [時事全方位｜災後心理支援(二)](https://news.now.com/home/local/player?newsId=629578) [Original](https://news.now.com/home/local/player?newsId=629578){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位災後心理支援二/){.md-button .hkfd-news-button}
+- [時事全方位｜災後心理支援(一)](https://news.now.com/home/local/player?newsId=629577) [Original](https://news.now.com/home/local/player?newsId=629577){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位災後心理支援一/){.md-button .hkfd-news-button}
+- [時事全方位｜調查宏福苑火災(二)](https://news.now.com/home/local/player?newsId=629567) [Original](https://news.now.com/home/local/player?newsId=629567){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位調查宏福苑火災二/){.md-button .hkfd-news-button}
+- [時事全方位｜調查宏福苑火災(一)](https://news.now.com/home/local/player?newsId=629566) [Original](https://news.now.com/home/local/player?newsId=629566){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位調查宏福苑火災一/){.md-button .hkfd-news-button}
+
+
+### 2025-12-15
+- [宏福苑五級火災｜受火災影響外傭可留港三個月找新僱主](https://news.now.com/home/local/player?newsId=629669) [Original](https://news.now.com/home/local/player?newsId=629669){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災受火災影響外傭可留港三個月找新僱主/){.md-button .hkfd-news-button}
+
+### 2025-12-16
+- [李家超向習近平述職　習近平充分肯定李家超及特區政府工作　並向宏福苑災民致慰問](https://news.now.com/home/local/player?newsId=629793) [Original](https://news.now.com/home/local/player?newsId=629793){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超向習近平述職-習近平充分肯定李家超及特區政府工作-並向宏福苑災民致慰問/){.md-button .hkfd-news-button}
+- [習近平就大埔火災指示李家超　落實查出真相問責到底(楊佩詩報道)](https://news.now.com/home/local/player?newsId=629796) [Original](https://news.now.com/home/local/player?newsId=629796){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平就大埔火災指示李家超-落實查出真相問責到底楊佩詩報道/){.md-button .hkfd-news-button}
+- [即日焦點｜李家超向習近平述職　習近平充分肯定李家超及特區政府工作　向宏福苑居民及家屬致慰問](https://news.now.com/home/local/player?newsId=629795) [Original](https://news.now.com/home/local/player?newsId=629795){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點李家超向習近平述職-習近平充分肯定李家超及特區政府工作-向宏福苑居民及家屬致慰問/){.md-button .hkfd-news-button}
+- [消防處推動自願性消防警鐘測試](https://news.now.com/home/local/player?newsId=629786) [Original](https://news.now.com/home/local/player?newsId=629786){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處推動自願性消防警鐘測試/){.md-button .hkfd-news-button}
+- [習近平充分肯定李家超及特區政府工作　並向大埔宏福苑受災居民及家屬致以慰問](https://news.now.com/home/local/player?newsId=629779) [Original](https://news.now.com/home/local/player?newsId=629779){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平充分肯定李家超及特區政府工作-並向大埔宏福苑受災居民及家屬致以慰問/){.md-button .hkfd-news-button}
+- [李家超在北京向習近平述職　習近平充分肯定李家超及特區政府工作](https://news.now.com/home/local/player?newsId=629775) [Original](https://news.now.com/home/local/player?newsId=629775){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超在北京向習近平述職-習近平充分肯定李家超及特區政府工作/){.md-button .hkfd-news-button}
+- [習近平：充分肯定李家超及特區政府工作](https://news.now.com/home/local/player?newsId=629759) [Original](https://news.now.com/home/local/player?newsId=629759){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平充分肯定李家超及特區政府工作/){.md-button .hkfd-news-button}
+
+
+### 2025-12-17
+- [宏福苑五級大火｜消息指廉署拘捕宏福苑業主立案法團新舊主席　早前多人涉案被捕](https://news.now.com/home/local/player?newsId=629912) [Original](https://news.now.com/home/local/player?newsId=629912){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級大火消息指廉署拘捕宏福苑業主立案法團新舊主席-早前多人涉案被捕/){.md-button .hkfd-news-button}
+- [即日焦點｜除夕跨年倒數活動取消煙花匯演／據了解廉署拘捕宏福苑法團新舊主席](https://news.now.com/home/local/player?newsId=629914) [Original](https://news.now.com/home/local/player?newsId=629914){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點除夕跨年倒數活動取消煙花匯演據了解廉署拘捕宏福苑法團新舊主席/){.md-button .hkfd-news-button}
+- [房協澄清：宏福苑居民應急住屋無居住期限](https://news.now.com/home/local/player?newsId=629909) [Original](https://news.now.com/home/local/player?newsId=629909){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協澄清宏福苑居民應急住屋無居住期限/){.md-button .hkfd-news-button}
+- [宏福苑五級大火｜消息指廉署拘捕宏福苑業主立案法團新舊主席](https://news.now.com/home/local/player?newsId=629901) [Original](https://news.now.com/home/local/player?newsId=629901){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級大火消息指廉署拘捕宏福苑業主立案法團新舊主席/){.md-button .hkfd-news-button}
+- [新一期居屋8316伙　明年第二季接受申請](https://news.now.com/home/local/player?newsId=629891) [Original](https://news.now.com/home/local/player?newsId=629891){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新一期居屋8316伙-明年第二季接受申請/){.md-button .hkfd-news-button}
+- [李家超述職｜劉兆佳：習近平充分肯定是傳遞鼓舞及信任訊息](https://news.now.com/home/local/player?newsId=629841) [Original](https://news.now.com/home/local/player?newsId=629841){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超述職劉兆佳習近平充分肯定是傳遞鼓舞及信任訊息/){.md-button .hkfd-news-button}
+- [據了解新一期居屋涉8300伙　首度與綠置居及白居二明年第二季同步申請](https://news.now.com/home/local/player?newsId=629840) [Original](https://news.now.com/home/local/player?newsId=629840){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/據了解新一期居屋涉8300伙-首度與綠置居及白居二明年第二季同步申請/){.md-button .hkfd-news-button}
+- [晨早新聞重點｜澤連斯基稱俄烏和平計劃方案將於數天內敲定／習近平讚揚李家超勇於擔當](https://news.now.com/home/local/player?newsId=629798) [Original](https://news.now.com/home/local/player?newsId=629798){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點澤連斯基稱俄烏和平計劃方案將於數天內敲定習近平讚揚李家超勇於擔當/){.md-button .hkfd-news-button}
