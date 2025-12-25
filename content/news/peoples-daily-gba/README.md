@@ -238,3 +238,21 @@
 
 ### 2025-12-20
 - [香港大埔宏福苑火灾独立委员会展开工作](http://gba.people.cn/n1/2025/1220/c42272-40628599.html) [Original](http://gba.people.cn/n1/2025/1220/c42272-40628599.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾独立委员会展开工作/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [新华社香港12月20日电 香港特区政府20日公布的跟进大埔火灾最新情况显示，特区政府成立的“大埔宏福苑援助基金”总额约为40亿港元。
+截至20日上午，共有581名居民安置在特区政府民政及青年事务局协调的酒店房间，559名市民安置在青年宿舍/营舍；另有3513名居民现住在特区政府房屋局的过渡性房屋、房协项目或屯门宝田中转房屋的单位。](http://gba.people.cn/n1/2025/1221/c42272-40628650.html)
+
+
+### 2025-12-22
+- [香港“大埔宏福苑援助基金”总额增至约40亿港元](http://gba.people.cn/n1/2025/1222/c42272-40628954.html) [Original](http://gba.people.cn/n1/2025/1222/c42272-40628954.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑援助基金总额增至约40亿港元/){.md-button .hkfd-news-button}
+
+
+### 2025-12-23
+- [新华社香港12月22日电 香港特区政府22日公布的跟进大埔火灾最新情况显示，特区政府成立的“大埔宏福苑援助基金”总额约为41亿港元。
+截至22日上午，共有516名居民居于特区政府民政及青年事务局协调的酒店房间，568名市民居于青年宿舍/营舍；另有3513名居民现居于特区政府房屋局的过渡性房屋、香港房屋协会（房协）项目或屯门宝田中转房屋的单位。](http://gba.people.cn/n1/2025/1223/c42272-40630371.html)
+
+
+### 2025-12-24
+- [香港大埔宏福苑火灾独立委员会视察屋苑现场](http://gba.people.cn/n1/2025/1224/c42272-40631226.html) [Original](http://gba.people.cn/n1/2025/1224/c42272-40631226.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾独立委员会视察屋苑现场/){.md-button .hkfd-news-button}

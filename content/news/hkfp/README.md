@@ -156,5 +156,33 @@
 
 
 ### 2025-12-20
-- [HKFP Monitor Dec 20, 2025: Tracking Hong Kong gov’t’s reactions to foreign media; Jimmy Lai’s 855-page ruling](https://hongkongfp.com/?p=548014)
-- [After deadly Tai Po fire, Hong Kong’s urban redevelopment body has no room for complacency](https://hongkongfp.com/?p=547480)
+- [HKFP Monitor Dec 20, 2025: Tracking Hong Kong gov’t’s reactions to foreign media; Jimmy Lai’s 855-page ruling](https://hongkongfp.com/?p=548014) [Original](https://hongkongfp.com/?p=548014){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-dec-20-2025-tracking-hong-kong-govts-reactions-to-foreign-media/){.md-button .hkfd-news-button}
+- [After deadly Tai Po fire, Hong Kong’s urban redevelopment body has no room for complacency](https://hongkongfp.com/?p=547480) [Original](https://hongkongfp.com/?p=547480){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/after-deadly-tai-po-fire-hong-kongs-urban-redevelopment-body-has-no-room-for/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [Tai Po fire: Domestic workers pick up the pieces amid emotional trauma, job loss](https://hongkongfp.com/?p=547369) [Original](https://hongkongfp.com/?p=547369){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-domestic-workers-pick-up-the-pieces-amid-emotional-trauma-job-loss/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [Tai Po fire: Death toll climbs to 161 as forensic tests show remains belonged to 2 people](https://hongkongfp.com/?p=548084) [Original](https://hongkongfp.com/?p=548084){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-death-toll-climbs-to-161-as-forensic-tests-show-remains-belonged-to/){.md-button .hkfd-news-button}
+
+### 2025-12-22
+- [Hong Kong press union head denies money was ‘primary motivation’ for suing former employer Wall St Journal](https://hongkongfp.com/?p=548222) [Original](https://hongkongfp.com/?p=548222){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-press-union-head-denies-money-was-primary-motivation-for-suing-former/){.md-button .hkfd-news-button}
+- [Tai Po fire: First remains of Indonesian, Filipina domestic workers repatriated; 8 others expected this week](https://hongkongfp.com/?p=548129) [Original](https://hongkongfp.com/?p=548129){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-first-remains-of-indonesian-filipina-domestic-workers-repatriated-8/){.md-button .hkfd-news-button}
+
+
+### 2025-12-22
+- [Tai Po blaze: NGO backtracks on rule for displaced residents to leave appliances in temporary housing](https://hongkongfp.com/?p=548201) [Original](https://hongkongfp.com/?p=548201){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-blaze-ngo-backtracks-on-rule-for-displaced-residents-to-leave-appliances/){.md-button .hkfd-news-button}
+
+### 2025-12-23
+- [University of Hong Kong denies fire vigil venue, citing instability, ‘force majeure’](https://hongkongfp.com/?p=548333) [Original](https://hongkongfp.com/?p=548333){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/university-of-hong-kong-denies-fire-vigil-venue-citing-instability-force-majeure/){.md-button .hkfd-news-button}
+
+
+### 2025-12-23
+- [Running for union chair is ‘legally protected right,’ reporter Selina Cheng says in trial against former employer](https://hongkongfp.com/?p=548381) [Original](https://hongkongfp.com/?p=548381){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/running-for-union-chair-is-legally-protected-right-reporter-selina-cheng-says/){.md-button .hkfd-news-button}
+
+### 2025-12-24
+- [3 men from engineering firm arrested over use of suspected forged documents in gov’t projects](https://hongkongfp.com/?p=548447) [Original](https://hongkongfp.com/?p=548447){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/3-men-from-engineering-firm-arrested-over-use-of-suspected-forged-documents-in/){.md-button .hkfd-news-button}
+- [Tai Po fire: Remains of 5 more Indonesian domestic workers repatriated](https://hongkongfp.com/?p=548437) [Original](https://hongkongfp.com/?p=548437){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-remains-of-5-more-indonesian-domestic-workers-repatriated/){.md-button .hkfd-news-button}
+- [Chinese University of Hong Kong college student unions suspend operations over school’s recognition](https://hongkongfp.com/?p=548446) [Original](https://hongkongfp.com/?p=548446){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/chinese-university-of-hong-kong-college-student-unions-suspend-operations-over/){.md-button .hkfd-news-button}

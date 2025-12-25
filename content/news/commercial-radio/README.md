@@ -530,8 +530,46 @@
 - [大埔宏福苑援助基金累計增至40億元](https://www.881903.com/news/local/2611144/) [Original](https://www.881903.com/news/local/2611144/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑援助基金累計增至40億元/){.md-button .hkfd-news-button}
 - [律師會於啟德「啟福居」為宏福苑家庭提供免費法律意見](https://www.881903.com/news/local/2611142/) [Original](https://www.881903.com/news/local/2611142/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/律師會於啟德啟福居為宏福苑家庭提供免費法律意見/){.md-button .hkfd-news-button}
 - [宏福苑大火｜大埔浸信會公立學校　下學年使用前基正小學校舍](https://www.881903.com/news/local/2611101/) [Original](https://www.881903.com/news/local/2611101/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火大埔浸信會公立學校-下學年使用前基正小學校舍/){.md-button .hkfd-news-button}
-- [警務處副處長葉雲龍：火災善後困難重重　需為逝者守公義](https://www.881903.com/news/local/2611065/)
+- [警務處副處長葉雲龍：火災善後困難重重　需為逝者守公義](https://www.881903.com/news/local/2611065/) [Original](https://www.881903.com/news/local/2611065/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警務處副處長葉雲龍火災善後困難重重-需為逝者守公義/){.md-button .hkfd-news-button}
 - [麥美娟籲大埔區業主勿「趁火打劫」](https://www.881903.com/news/local/2611076/) [Original](https://www.881903.com/news/local/2611076/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟籲大埔區業主勿趁火打劫/){.md-button .hkfd-news-button}
 - [大埔民政專員穿黑白緊身裙出席路祭　對引起關注致歉](https://www.881903.com/news/local/2611071/) [Original](https://www.881903.com/news/local/2611071/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔民政專員穿黑白緊身裙出席路祭-對引起關注致歉/){.md-button .hkfd-news-button}
 - [宏福苑大火｜一具遺體上發現多一人DNA　增至161死](https://www.881903.com/news/local/2611067/) [Original](https://www.881903.com/news/local/2611067/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火一具遺體上發現多一人dna-增至161死/){.md-button .hkfd-news-button}
 - [宏福苑大火｜葉劉淑儀：政府應檢討內部是否權責不清](https://www.881903.com/news/local/2611063/) [Original](https://www.881903.com/news/local/2611063/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火葉劉淑儀政府應檢討內部是否權責不清/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [善導會：宏福苑居民搬離「善樓」時 可按需要帶走傢電](https://www.881903.com/news/local/2611208/) [Original](https://www.881903.com/news/local/2611208/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/善導會宏福苑居民搬離善樓時-可按需要帶走傢電/){.md-button .hkfd-news-button}
+- [冬至市民花逾千元做節　稱大火事件啟發要珍惜團聚機會](https://www.881903.com/news/local/2611191/) [Original](https://www.881903.com/news/local/2611191/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/冬至市民花逾千元做節-稱大火事件啟發要珍惜團聚機會/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜麥美娟：合安非取代法團權力　不會放生持責者](https://www.881903.com/news/local/2611177/) [Original](https://www.881903.com/news/local/2611177/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火麥美娟合安非取代法團權力-不會放生持責者/){.md-button .hkfd-news-button}
+- [曾國衞：立法會選舉順利舉行　正分類無效票暫不評估原因](https://www.881903.com/news/local/2611181/) [Original](https://www.881903.com/news/local/2611181/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞立法會選舉順利舉行-正分類無效票暫不評估原因/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [宏福苑5級火丨一名罹難外傭遺體被運返印尼](https://www.881903.com/news/local/2611248/) [Original](https://www.881903.com/news/local/2611248/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火丨一名罹難外傭遺體被運返印尼/){.md-button .hkfd-news-button}
+
+### 2025-12-22
+- [醫衞局明起向宏福苑災民  提供免費鑲配假牙及口腔治療服務](https://www.881903.com/news/local/2611404/) [Original](https://www.881903.com/news/local/2611404/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/醫衞局明起向宏福苑災民-提供免費鑲配假牙及口腔治療服務/){.md-button .hkfd-news-button}
+- [消防處： 大廈維修工程人員無權關閉消防裝置](https://www.881903.com/news/local/2611399/) [Original](https://www.881903.com/news/local/2611399/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處-大廈維修工程人員無權關閉消防裝置/){.md-button .hkfd-news-button}
+- [蔡若蓮：正提速翻新基正小學　讓埔浸盡快全面復常](https://www.881903.com/news/local/2611372/) [Original](https://www.881903.com/news/local/2611372/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/蔡若蓮正提速翻新基正小學-讓埔浸盡快全面復常/){.md-button .hkfd-news-button}
+- [港大聯院會取消宏福苑悼念活動　港大：與學生代表保持溝通](https://www.881903.com/news/local/2611345/) [Original](https://www.881903.com/news/local/2611345/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/港大聯院會取消宏福苑悼念活動-港大與學生代表保持溝通/){.md-button .hkfd-news-button}
+- [善導會：原本禁災民帶走捐贈傢電　是希望讓下一戶受惠](https://www.881903.com/news/local/2611313/) [Original](https://www.881903.com/news/local/2611313/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/善導會原本禁災民帶走捐贈傢電-是希望讓下一戶受惠/){.md-button .hkfd-news-button}
+- [物管業：政府解散宏褔苑現有法團管委會適時及恰當](https://www.881903.com/news/local/2611298/) [Original](https://www.881903.com/news/local/2611298/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/物管業政府解散宏褔苑現有法團管委會適時及恰當/){.md-button .hkfd-news-button}
+- [宏福苑火災｜台灣團隊來港協助修復遺體　冀助家屬告別摯親](https://www.881903.com/news/local/2611347/) [Original](https://www.881903.com/news/local/2611347/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災台灣團隊來港協助修復遺體-冀助家屬告別摯親/){.md-button .hkfd-news-button}
+
+
+### 2025-12-23
+- [陳謳明發表聖誕文告　指大埔火災看見香港人耀眼光輝](https://www.881903.com/news/local/2611561/) [Original](https://www.881903.com/news/local/2611561/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳謳明發表聖誕文告-指大埔火災看見香港人耀眼光輝/){.md-button .hkfd-news-button}
+- [黃偉綸：冀以組合拳方式　讓宏福苑居民選擇住宿安排](https://www.881903.com/news/local/2611542/) [Original](https://www.881903.com/news/local/2611542/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸冀以組合拳方式-讓宏福苑居民選擇住宿安排/){.md-button .hkfd-news-button}
+- [宏福苑居民領租金補助需承諾不遷回單位](https://www.881903.com/news/local/2611522/) [Original](https://www.881903.com/news/local/2611522/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民領租金補助需承諾不遷回單位/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜獨立委員會首次到現場視察](https://www.881903.com/news/local/2611473/) [Original](https://www.881903.com/news/local/2611473/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火獨立委員會首次到現場視察/){.md-button .hkfd-news-button}
+- [工權會：今年職業死亡數字達118人　接年增55%](https://www.881903.com/news/local/2611464/) [Original](https://www.881903.com/news/local/2611464/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工權會今年職業死亡數字達118人-接年增55/){.md-button .hkfd-news-button}
+- [周守仁樞機發表聖誕文告　指火災讓人意識生命脆弱](https://www.881903.com/news/local/2611480/) [Original](https://www.881903.com/news/local/2611480/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周守仁樞機發表聖誕文告-指火災讓人意識生命脆弱/){.md-button .hkfd-news-button}
+- [博愛醫院：宏福苑災民遷出過渡性房屋時  可帶走可移動物資](https://www.881903.com/news/local/2611411/) [Original](https://www.881903.com/news/local/2611411/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/博愛醫院宏福苑災民遷出過渡性房屋時-可帶走可移動物資/){.md-button .hkfd-news-button}
+
+
+### 2025-12-24
+- [宏福苑5級火丨多1人涉誤殺　為外牆工程分判商負責人](https://www.881903.com/news/local/2611723/) [Original](https://www.881903.com/news/local/2611723/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火丨多1人涉誤殺-為外牆工程分判商負責人/){.md-button .hkfd-news-button}
+- [消防處巡查132幢商廈　提出53宗檢控](https://www.881903.com/news/local/2611718/) [Original](https://www.881903.com/news/local/2611718/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處巡查132幢商廈-提出53宗檢控/){.md-button .hkfd-news-button}
+- [中環巨型聖誕樹吸引大批人打卡　內地遊客稱香港聖誕氣氛濃厚](https://www.881903.com/news/local/2611704/) [Original](https://www.881903.com/news/local/2611704/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中環巨型聖誕樹吸引大批人打卡-內地遊客稱香港聖誕氣氛濃厚/){.md-button .hkfd-news-button}
+- [宏福苑5級火丨警方再確認兩隻貓狗遺骸](https://www.881903.com/news/local/2611686/) [Original](https://www.881903.com/news/local/2611686/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火丨警方再確認兩隻貓狗遺骸/){.md-button .hkfd-news-button}
+- [餐飲業料聖誕假期餐廳營業額較去年跌一成](https://www.881903.com/news/local/2611641/) [Original](https://www.881903.com/news/local/2611641/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/餐飲業料聖誕假期餐廳營業額較去年跌一成/){.md-button .hkfd-news-button}
