@@ -573,3 +573,9 @@
 - [中環巨型聖誕樹吸引大批人打卡　內地遊客稱香港聖誕氣氛濃厚](https://www.881903.com/news/local/2611704/) [Original](https://www.881903.com/news/local/2611704/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中環巨型聖誕樹吸引大批人打卡-內地遊客稱香港聖誕氣氛濃厚/){.md-button .hkfd-news-button}
 - [宏福苑5級火丨警方再確認兩隻貓狗遺骸](https://www.881903.com/news/local/2611686/) [Original](https://www.881903.com/news/local/2611686/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火丨警方再確認兩隻貓狗遺骸/){.md-button .hkfd-news-button}
 - [餐飲業料聖誕假期餐廳營業額較去年跌一成](https://www.881903.com/news/local/2611641/) [Original](https://www.881903.com/news/local/2611641/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/餐飲業料聖誕假期餐廳營業額較去年跌一成/){.md-button .hkfd-news-button}
+
+
+### 2025-12-25
+- [宏福苑5級火｜廣福商場聖誕氣氛不再　商戶對前路感茫然](https://www.881903.com/news/local/2611751/) [Original](https://www.881903.com/news/local/2611751/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火廣福商場聖誕氣氛不再-商戶對前路感茫然/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜災民冀盡快安排長期居所　寄語珍惜身邊人](https://www.881903.com/news/local/2611806/) [Original](https://www.881903.com/news/local/2611806/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火災民冀盡快安排長期居所-寄語珍惜身邊人/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜65傷者已出院　仍有14人留院情況穩定](https://www.881903.com/news/local/2611750/) [Original](https://www.881903.com/news/local/2611750/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火65傷者已出院-仍有14人留院情況穩定/){.md-button .hkfd-news-button}

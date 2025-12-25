@@ -4291,3 +4291,38 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-12-25 00:09:31 | ERROR    | Future exception was never retrieved
 future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
 playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-25 00:10:05 | INFO     | ============================================================
+2025-12-25 00:10:05 | INFO     | News Scraper Daemon Starting
+2025-12-25 00:10:05 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-25 00:10:05 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-25 00:10:05 | INFO     | Sync interval: 10 minutes
+2025-12-25 00:10:05 | INFO     | PR interval: 60 minutes
+2025-12-25 00:10:05 | INFO     | ============================================================
+2025-12-25 00:10:05 | INFO     | gh CLI authenticated
+2025-12-25 00:10:05 | INFO     | Setting up git remotes...
+2025-12-25 00:10:05 | INFO     | Configured origin remote
+2025-12-25 00:10:06 | INFO     | gh CLI authenticated
+2025-12-25 00:10:06 | INFO     | ----------------------------------------
+2025-12-25 00:10:06 | INFO     | Running periodic health check...
+2025-12-25 00:10:06 | INFO     | gh CLI authenticated
+2025-12-25 00:10:07 | INFO     | Health check passed
+2025-12-25 00:10:07 | INFO     | ----------------------------------------
+2025-12-25 00:10:07 | INFO     | Starting sync cycle...
+2025-12-25 00:10:07 | INFO     | Syncing with upstream...
+2025-12-25 00:10:07 | INFO     | Already up to date with upstream
+2025-12-25 00:10:07 | INFO     | Running scraper...
+2025-12-25 00:10:08 | INFO     | Found 10 new URLs to scrape
+2025-12-25 00:11:03 | INFO     | Updated cumulative stats: 1933 success, 96 failed across 17 cycles
+2025-12-25 00:11:03 | INFO     | Scraper results: 9 success, 1 failed
+2025-12-25 00:11:03 | INFO     | Committing changes...
+2025-12-25 00:11:04 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-25 00:11
+2025-12-25 00:11:08 | INFO     | Pushed to origin successfully
+2025-12-25 00:11:08 | INFO     | Sync cycle complete
+2025-12-25 00:11:08 | INFO     | ----------------------------------------
+2025-12-25 00:11:08 | INFO     | Starting PR cycle...
+2025-12-25 00:11:09 | INFO     | Pushed to origin successfully
+2025-12-25 00:11:09 | INFO     | Managing PR...
+2025-12-25 00:11:10 | INFO     | PR #23 exists, updating description with fresh stats...
+2025-12-25 00:11:14 | INFO     | Updated PR #23 with fresh stats
+2025-12-25 00:11:14 | INFO     | PR cycle complete
+2025-12-25 00:11:14 | INFO     | Run once mode, exiting...

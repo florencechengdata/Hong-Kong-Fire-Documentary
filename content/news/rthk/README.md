@@ -878,3 +878,14 @@
 ### 2025-12-24
 - [宏福苑五級火｜警方再拘一男涉誤殺　為外牆工程分判商負責人](https://news.rthk.hk/rthk/ch/component/k2/1837428-20251224.htm?archive_date=2025-12-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837428-20251224.htm?archive_date=2025-12-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火警方再拘一男涉誤殺-為外牆工程分判商負責人/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜逾4600多名居民住在酒店、青年宿舍或過渡屋等](https://news.rthk.hk/rthk/ch/component/k2/1837413-20251224.htm?archive_date=2025-12-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837413-20251224.htm?archive_date=2025-12-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火逾4600多名居民住在酒店青年宿舍或過渡屋等/){.md-button .hkfd-news-button}
+
+
+### 2025-12-24
+- [One more arrest over Wang Fuk Court inferno](https://news.rthk.hk/rthk/en/component/k2/1837430-20251224.htm?archive_date=2025-12-24) [Original](https://news.rthk.hk/rthk/en/component/k2/1837430-20251224.htm?archive_date=2025-12-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/one-more-arrest-over-wang-fuk-court-inferno/){.md-button .hkfd-news-button}
+
+### 2025-12-25
+- [宏福苑五級火｜康健中心熱線至本月23日累計接逾176人次來電](https://news.rthk.hk/rthk/ch/component/k2/1837518-20251225.htm?archive_date=2025-12-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837518-20251225.htm?archive_date=2025-12-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火康健中心熱線至本月23日累計接逾176人次來電/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜逾300私家醫生義診　有需要居民可求診助復元](https://news.rthk.hk/rthk/ch/component/k2/1837517-20251225.htm?archive_date=2025-12-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837517-20251225.htm?archive_date=2025-12-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火逾300私家醫生義診-有需要居民可求診助復元/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜有災民稱專屬社工可供情緒支援和處理生活所需](https://news.rthk.hk/rthk/ch/component/k2/1837488-20251225.htm?archive_date=2025-12-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837488-20251225.htm?archive_date=2025-12-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火有災民稱專屬社工可供情緒支援和處理生活所需/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜醫衞局至今約為1600名受影響居民提供醫療服務](https://news.rthk.hk/rthk/ch/component/k2/1837482-20251225.htm?archive_date=2025-12-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837482-20251225.htm?archive_date=2025-12-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火醫衞局至今約為1600名受影響居民提供醫療服務/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜專屬社工支援生活所需　居民稱減徬徨將開展新生活](https://news.rthk.hk/rthk/ch/component/k2/1837457-20251225.htm?archive_date=2025-12-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837457-20251225.htm?archive_date=2025-12-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火專屬社工支援生活所需-居民稱減徬徨將開展新生活/){.md-button .hkfd-news-button}
