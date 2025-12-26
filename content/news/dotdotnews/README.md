@@ -277,3 +277,12 @@
 ### 2025-12-24
 - [消防巡查132棟商廈派376張通知書　另揪57廈無做年檢](https://www.dotdotnews.com/a/202512/24/AP694be3b2e4b0c32d4f642932.html) [Original](https://www.dotdotnews.com/a/202512/24/AP694be3b2e4b0c32d4f642932.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防巡查132棟商廈派376張通知書-另揪57廈無做年檢/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜警驗DNA發現1貓1狗遺骸　愛協聯絡飼主稍後領回](https://www.dotdotnews.com/a/202512/24/AP694bb0a5e4b0c32d4f6424c1.html) [Original](https://www.dotdotnews.com/a/202512/24/AP694bb0a5e4b0c32d4f6424c1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火警驗dna發現1貓1狗遺骸-愛協聯絡飼主稍後領回/){.md-button .hkfd-news-button}
+
+
+### 2025-12-25
+- [Wang Fuk Court fire | 65 victims discharged after fire; mental health hotline receives over 660 related calls](https://english.dotdotnews.com/a/202512/25/AP694cb0c6e4b0c32d4f643261.html) [Original](https://english.dotdotnews.com/a/202512/25/AP694cb0c6e4b0c32d4f643261.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-fire-65-victims-discharged-after-fire-mental-health-hotline/){.md-button .hkfd-news-button}
+
+
+### 2025-12-25
+- [飛常觀點｜立法會履新先解宏福苑善後　更要持續解決民生急難愁盼](https://www.dotdotnews.com/a/202512/25/AP694ce5b1e4b0c32d4f643740.html) [Original](https://www.dotdotnews.com/a/202512/25/AP694ce5b1e4b0c32d4f643740.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/飛常觀點立法會履新先解宏福苑善後-更要持續解決民生急難愁盼/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜消防處各工協會嚴厲譴責網上有人散布不實言論](https://www.dotdotnews.com/a/202512/25/AP694d22b1e4b0c32d4f643c16.html) [Original](https://www.dotdotnews.com/a/202512/25/AP694d22b1e4b0c32d4f643c16.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火消防處各工協會嚴厲譴責網上有人散布不實言論/){.md-button .hkfd-news-button}

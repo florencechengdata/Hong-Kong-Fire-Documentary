@@ -186,3 +186,7 @@
 - [3 men from engineering firm arrested over use of suspected forged documents in gov’t projects](https://hongkongfp.com/?p=548447) [Original](https://hongkongfp.com/?p=548447){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/3-men-from-engineering-firm-arrested-over-use-of-suspected-forged-documents-in/){.md-button .hkfd-news-button}
 - [Tai Po fire: Remains of 5 more Indonesian domestic workers repatriated](https://hongkongfp.com/?p=548437) [Original](https://hongkongfp.com/?p=548437){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-remains-of-5-more-indonesian-domestic-workers-repatriated/){.md-button .hkfd-news-button}
 - [Chinese University of Hong Kong college student unions suspend operations over school’s recognition](https://hongkongfp.com/?p=548446) [Original](https://hongkongfp.com/?p=548446){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/chinese-university-of-hong-kong-college-student-unions-suspend-operations-over/){.md-button .hkfd-news-button}
+
+
+### 2025-12-25
+- [Best of HKFP 2025: Our top features and most popular stories of the year](https://hongkongfp.com/?p=548330) [Original](https://hongkongfp.com/?p=548330){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/best-of-hkfp-2025-our-top-features-and-most-popular-stories-of-the-year/){.md-button .hkfd-news-button}
