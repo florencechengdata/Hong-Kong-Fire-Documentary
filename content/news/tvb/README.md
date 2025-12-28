@@ -1095,3 +1095,8 @@
 
 ### 2025-12-26
 - [Psychologist says mental support was provided for firemen deployed to Tai Po fire](https://news.tvb.com/tc/pearlnews/694e88bad6adf87a9bbd4adf/TVB%20News-Psychologist-says-mental-support-was-provided-for-firemen-deployed-to-Tai-Po-fire) [Original](https://news.tvb.com/tc/pearlnews/694e88bad6adf87a9bbd4adf/TVB%20News-Psychologist-says-mental-support-was-provided-for-firemen-deployed-to-Tai-Po-fire){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/psychologist-says-mental-support-was-provided-for-firemen-deployed-to-tai-po-1/){.md-button .hkfd-news-button}
+
+
+### 2025-12-28
+- [Gaza reports new death toll at 414 there since Oct 11th ceasefire agreement](https://news.tvb.com/tc/pearlnews/69512126d6adf87a9bd25c29/TVB-News-Gaza-reports-new-death-toll-at-414-there-since-Oct-11th-ceasefire-agreement) [Original](https://news.tvb.com/tc/pearlnews/69512126d6adf87a9bd25c29/TVB-News-Gaza-reports-new-death-toll-at-414-there-since-Oct-11th-ceasefire-agreement){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/gaza-reports-new-death-toll-at-414-there-since-oct-11th-ceasefire-agreement/){.md-button .hkfd-news-button}
+- [Thailand, Cambodia halt border conflict with second ceasefire](https://news.tvb.com/tc/pearlnews/694feae8d6adf87a9bc88053/TVB%20News-Thailand%2C-Cambodia-halt-border-conflict-with-second-ceasefire) [Original](https://news.tvb.com/tc/pearlnews/694feae8d6adf87a9bc88053/TVB%20News-Thailand%2C-Cambodia-halt-border-conflict-with-second-ceasefire){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/thailand-cambodia-halt-border-conflict-with-second-ceasefire/){.md-button .hkfd-news-button}
