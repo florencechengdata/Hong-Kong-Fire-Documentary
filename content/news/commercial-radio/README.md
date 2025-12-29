@@ -591,3 +591,10 @@
 
 ### 2025-12-28
 - [各界取消聖誕聯歡活動　派對房間及到會生意減20至40%](https://www.881903.com/news/local/2611980/) [Original](https://www.881903.com/news/local/2611980/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/各界取消聖誕聯歡活動-派對房間及到會生意減20至40/){.md-button .hkfd-news-button}
+
+
+### 2025-12-29
+- [旅發局：跨年倒數將結合歌手演出及燈光匯演](https://www.881903.com/news/local/2612149/) [Original](https://www.881903.com/news/local/2612149/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/旅發局跨年倒數將結合歌手演出及燈光匯演/){.md-button .hkfd-news-button}
+- [新思維提交預算案建議　倡設緊急情況專項基金](https://www.881903.com/news/local/2612117/) [Original](https://www.881903.com/news/local/2612117/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新思維提交預算案建議-倡設緊急情況專項基金/){.md-button .hkfd-news-button}
+- [飲食界梁進：市民外遊及旅客消費模式轉變　影響聖誕檔期生意](https://www.881903.com/news/local/2612124/) [Original](https://www.881903.com/news/local/2612124/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/飲食界梁進市民外遊及旅客消費模式轉變-影響聖誕檔期生意/){.md-button .hkfd-news-button}
+- [逾百宏福苑居民聯署　要求政府原址重建](https://www.881903.com/news/local/2612113/) [Original](https://www.881903.com/news/local/2612113/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾百宏福苑居民聯署-要求政府原址重建/){.md-button .hkfd-news-button}

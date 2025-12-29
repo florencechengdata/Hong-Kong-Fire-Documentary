@@ -835,3 +835,9 @@
 
 ### 2025-12-27
 - [指定實驗室驗市面棚網八成不合格　燃燒時間逾40秒超標十倍](https://news.now.com/home/local/player?newsId=630888) [Original](https://news.now.com/home/local/player?newsId=630888){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/指定實驗室驗市面棚網八成不合格-燃燒時間逾40秒超標十倍/){.md-button .hkfd-news-button}
+
+
+### 2025-12-29
+- [宏福苑五級火災｜過百居民冀協助原址重建　政府：正聽取和歸納災民的不同意見](https://news.now.com/home/local/player?newsId=631119) [Original](https://news.now.com/home/local/player?newsId=631119){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災過百居民冀協助原址重建-政府正聽取和歸納災民的不同意見/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜宏業獲授權簽署人張玉濤在屋宇署名冊中除名](https://news.now.com/home/local/player?newsId=631080) [Original](https://news.now.com/home/local/player?newsId=631080){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災宏業獲授權簽署人張玉濤在屋宇署名冊中除名/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜過百居民聯署向李家超等官員發信　冀協助原址重建](https://news.now.com/home/local/player?newsId=631044) [Original](https://news.now.com/home/local/player?newsId=631044){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災過百居民聯署向李家超等官員發信-冀協助原址重建/){.md-button .hkfd-news-button}

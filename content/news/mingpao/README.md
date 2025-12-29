@@ -1549,3 +1549,10 @@
 - [【Emily】嘉道理農場安頓近60災民 仲顧埋災寵](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251227/s00002/1766770664571) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251227/s00002/1766770664571){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/emily嘉道理農場安頓近60災民-仲顧埋災寵/){.md-button .hkfd-news-button}
 - [災後一月 / 林妙茵](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251227/s00018/1766768430437) [Original](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251227/s00018/1766768430437){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/災後一月-林妙茵/){.md-button .hkfd-news-button}
 
+### 20251228
+- [指定實驗所：八成送驗棚網不合格 有燃燒時間超標10倍](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251228/s00002/1766857766665) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251228/s00002/1766857766665){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/指定實驗所八成送驗棚網不合格-有燃燒時間超標10倍/){.md-button .hkfd-news-button}
+
+### 20251229
+- [宏業獲授權人歸零 業界：須全停工  一離職一被捕  影響30工程  議員促政府早介入](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251229/s00001/1766944821663) [Original](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251229/s00001/1766944821663){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業獲授權人歸零-業界須全停工-一離職一被捕-影響30工程-議員促政府早介入/){.md-button .hkfd-news-button}
+- [疫後慈善捐款跌  平台免費助訂創新籌款方法  鼓勵企業捐貨  稱可雙贏](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251229/s00001/1766944822050) [Original](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251229/s00001/1766944822050){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/疫後慈善捐款跌-平台免費助訂創新籌款方法-鼓勵企業捐貨-稱可雙贏/){.md-button .hkfd-news-button}
+- [陳展鴻：設授權書電子收集平台  從根源上完善大廈管理](https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20251229/s00012/1766940486903) [Original](https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20251229/s00012/1766940486903){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳展鴻設授權書電子收集平台-從根源上完善大廈管理/){.md-button .hkfd-news-button}

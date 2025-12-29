@@ -199,3 +199,10 @@
 ### 2025-12-27
 - [Tai Po fire: Disasters affect not only humans – why pet evacuation planning is essential](https://hongkongfp.com/?p=547840) [Original](https://hongkongfp.com/?p=547840){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-disasters-affect-not-only-humans-why-pet-evacuation-planning-is/){.md-button .hkfd-news-button}
 - [2025 in Pictures: Sporting landmarks, panda twins, record-breaking weather and LGBT+ setbacks](https://hongkongfp.com/?p=543114) [Original](https://hongkongfp.com/?p=543114){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/2025-in-pictures-sporting-landmarks-panda-twins-record-breaking-weather-and/){.md-button .hkfd-news-button}
+
+
+### 2025-12-28
+- [Third college student union at Chinese University of Hong Kong suspends operations in a week](https://hongkongfp.com/?p=548763) [Original](https://hongkongfp.com/?p=548763){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/third-college-student-union-at-chinese-university-of-hong-kong-suspends/){.md-button .hkfd-news-button}
+
+### 2025-12-29
+- [Over 2.3 million outbound trips made by Hong Kong residents over Christmas, long weekend as city sees slow business](https://hongkongfp.com/?p=548783) [Original](https://hongkongfp.com/?p=548783){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/over-23-million-outbound-trips-made-by-hong-kong-residents-over-christmas-long/){.md-button .hkfd-news-button}
