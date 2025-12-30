@@ -206,3 +206,7 @@
 
 ### 2025-12-29
 - [Over 2.3 million outbound trips made by Hong Kong residents over Christmas, long weekend as city sees slow business](https://hongkongfp.com/?p=548783) [Original](https://hongkongfp.com/?p=548783){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/over-23-million-outbound-trips-made-by-hong-kong-residents-over-christmas-long/){.md-button .hkfd-news-button}
+
+
+### 2025-12-30
+- [5 taxi drivers arrested over fake claims to ride-hailing company offering free rides for Tai Po fire victims](https://hongkongfp.com/?p=548951) [Original](https://hongkongfp.com/?p=548951){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/5-taxi-drivers-arrested-over-fake-claims-to-ride-hailing-company-offering-free/){.md-button .hkfd-news-button}

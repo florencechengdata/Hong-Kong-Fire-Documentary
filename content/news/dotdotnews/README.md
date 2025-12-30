@@ -292,3 +292,11 @@
 - [（有片）宏福苑五級火｜港台聯手遺體修復：與時間賽跑　讓破碎的告別變得「完整」](https://www.dotdotnews.com/a/202512/26/AP694cb6e9e4b0c32d4f6432cd.html) [Original](https://www.dotdotnews.com/a/202512/26/AP694cb6e9e4b0c32d4f6432cd.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火港台聯手遺體修復與時間賽跑-讓破碎的告別變得完整/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜援助基金已推出11個項目　總承擔額約12億元](https://www.dotdotnews.com/a/202512/26/AP694e8b22e4b0c32d4f644efb.html) [Original](https://www.dotdotnews.com/a/202512/26/AP694e8b22e4b0c32d4f644efb.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火援助基金已推出11個項目-總承擔額約12億元/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜甯漢豪：明年提建築物條例修訂草案　竹棚過渡金屬棚不會「一刀切」](https://www.dotdotnews.com/a/202512/26/AP694e835fe4b0c32d4f644e9a.html) [Original](https://www.dotdotnews.com/a/202512/26/AP694e835fe4b0c32d4f644e9a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火甯漢豪明年提建築物條例修訂草案-竹棚過渡金屬棚不會一刀切/){.md-button .hkfd-news-button}
+
+
+### 2025-12-30
+- [2025 year in review of entertainment: Keung To's sea accident, Barbie Hsu's passing, premiere of The Queen of News 2, and more](https://english.dotdotnews.com/a/202512/30/AP69533eeee4b0c32d4f648f77.html) [Original](https://english.dotdotnews.com/a/202512/30/AP69533eeee4b0c32d4f648f77.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/2025-year-in-review-of-entertainment-keung-tos-sea-accident-barbie-hsus-passing/){.md-button .hkfd-news-button}
+
+
+### 2025-12-27
+- [點聲｜香港消防處英勇擔當　慎防有人「以災亂港」](https://www.dotdotnews.com/a/202512/27/AP694fa185e4b0c32d4f645ca1.html) [Original](https://www.dotdotnews.com/a/202512/27/AP694fa185e4b0c32d4f645ca1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點聲香港消防處英勇擔當-慎防有人以災亂港/){.md-button .hkfd-news-button}

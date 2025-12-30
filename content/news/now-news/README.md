@@ -841,3 +841,8 @@
 - [宏福苑五級火災｜過百居民冀協助原址重建　政府：正聽取和歸納災民的不同意見](https://news.now.com/home/local/player?newsId=631119) [Original](https://news.now.com/home/local/player?newsId=631119){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災過百居民冀協助原址重建-政府正聽取和歸納災民的不同意見/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜宏業獲授權簽署人張玉濤在屋宇署名冊中除名](https://news.now.com/home/local/player?newsId=631080) [Original](https://news.now.com/home/local/player?newsId=631080){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災宏業獲授權簽署人張玉濤在屋宇署名冊中除名/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜過百居民聯署向李家超等官員發信　冀協助原址重建](https://news.now.com/home/local/player?newsId=631044) [Original](https://news.now.com/home/local/player?newsId=631044){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災過百居民聯署向李家超等官員發信-冀協助原址重建/){.md-button .hkfd-news-button}
+
+
+### 2025-12-30
+- [疑偽造紀錄訛稱參與宏福苑義載　五名的士司機被捕](https://news.now.com/home/local/player?newsId=631210) [Original](https://news.now.com/home/local/player?newsId=631210){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/疑偽造紀錄訛稱參與宏福苑義載-五名的士司機被捕/){.md-button .hkfd-news-button}
+- [羅淑佩：跨年不辦煙花匯演改辦光影匯仍能推廣香港](https://news.now.com/home/local/player?newsId=631174) [Original](https://news.now.com/home/local/player?newsId=631174){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩跨年不辦煙花匯演改辦光影匯仍能推廣香港/){.md-button .hkfd-news-button}

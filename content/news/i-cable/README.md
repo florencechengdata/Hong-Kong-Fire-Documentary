@@ -436,3 +436,7 @@
 
 ### 2025年12月28日
 - [走過2025｜兩掛十號波、多人追風逐浪被捕　世紀黑雨連落11小時　宏福苑五級火至少釀161死](https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/422733/%E8%B5%B0%E9%81%8E2025-%E5%85%A9%E6%8E%9B%E5%8D%81%E8%99%9F%E6%B3%A2-%E5%A4%9A%E4%BA%BA%E8%BF%BD%E9%A2%A8%E9%80%90%E6%B5%AA%E8%A2%AB%E6%8D%95-%E4%B8%96%E7%B4%80%E9%BB%91) [Original](https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/422733/%E8%B5%B0%E9%81%8E2025-%E5%85%A9%E6%8E%9B%E5%8D%81%E8%99%9F%E6%B3%A2-%E5%A4%9A%E4%BA%BA%E8%BF%BD%E9%A2%A8%E9%80%90%E6%B5%AA%E8%A2%AB%E6%8D%95-%E4%B8%96%E7%B4%80%E9%BB%91){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/走過2025兩掛十號波多人追風逐浪被捕-世紀黑雨連落11小時-宏福苑五級火至少釀161死/){.md-button .hkfd-news-button}
+
+
+### 2025年12月30日
+- [宏福苑大火｜涉偽造義載紀錄騙3,000元車費　5的士司機被捕](https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/424254/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%B6%89%E5%81%BD%E9%80%A0%E7%BE%A9%E8%BC%89%E7%B4%80%E9%8C%84%E9%A8%993000%E5%85%83%E8%BB%8A%E8%B2%BB-5%E7%9A%84%E5%A3%AB%E5%8F%B8) [Original](https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/424254/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%B6%89%E5%81%BD%E9%80%A0%E7%BE%A9%E8%BC%89%E7%B4%80%E9%8C%84%E9%A8%993000%E5%85%83%E8%BB%8A%E8%B2%BB-5%E7%9A%84%E5%A3%AB%E5%8F%B8){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火涉偽造義載紀錄騙3000元車費-5的士司機被捕/){.md-button .hkfd-news-button}

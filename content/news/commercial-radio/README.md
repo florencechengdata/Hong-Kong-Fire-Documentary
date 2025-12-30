@@ -598,3 +598,9 @@
 - [新思維提交預算案建議　倡設緊急情況專項基金](https://www.881903.com/news/local/2612117/) [Original](https://www.881903.com/news/local/2612117/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新思維提交預算案建議-倡設緊急情況專項基金/){.md-button .hkfd-news-button}
 - [飲食界梁進：市民外遊及旅客消費模式轉變　影響聖誕檔期生意](https://www.881903.com/news/local/2612124/) [Original](https://www.881903.com/news/local/2612124/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/飲食界梁進市民外遊及旅客消費模式轉變-影響聖誕檔期生意/){.md-button .hkfd-news-button}
 - [逾百宏福苑居民聯署　要求政府原址重建](https://www.881903.com/news/local/2612113/) [Original](https://www.881903.com/news/local/2612113/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾百宏福苑居民聯署-要求政府原址重建/){.md-button .hkfd-news-button}
+
+
+### 2025-12-30
+- [逾百宏福苑居民聯署要求原址重建　政府：已收悉並正歸納災民意見](https://www.881903.com/news/local/2612337/) [Original](https://www.881903.com/news/local/2612337/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾百宏福苑居民聯署要求原址重建-政府已收悉並正歸納災民意見/){.md-button .hkfd-news-button}
+- [警拘5名的士司機  圖騙取的士平台義載宏福苑災民車資](https://www.881903.com/news/local/2612302/) [Original](https://www.881903.com/news/local/2612302/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警拘5名的士司機-圖騙取的士平台義載宏福苑災民車資/){.md-button .hkfd-news-button}
+- [羅淑佩：聖誕訪港海外旅客破紀錄　反映香港韌性](https://www.881903.com/news/local/2612237/) [Original](https://www.881903.com/news/local/2612237/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩聖誕訪港海外旅客破紀錄-反映香港韌性/){.md-button .hkfd-news-button}
