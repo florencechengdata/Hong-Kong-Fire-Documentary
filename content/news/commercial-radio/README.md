@@ -604,3 +604,8 @@
 - [逾百宏福苑居民聯署要求原址重建　政府：已收悉並正歸納災民意見](https://www.881903.com/news/local/2612337/) [Original](https://www.881903.com/news/local/2612337/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾百宏福苑居民聯署要求原址重建-政府已收悉並正歸納災民意見/){.md-button .hkfd-news-button}
 - [警拘5名的士司機  圖騙取的士平台義載宏福苑災民車資](https://www.881903.com/news/local/2612302/) [Original](https://www.881903.com/news/local/2612302/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警拘5名的士司機-圖騙取的士平台義載宏福苑災民車資/){.md-button .hkfd-news-button}
 - [羅淑佩：聖誕訪港海外旅客破紀錄　反映香港韌性](https://www.881903.com/news/local/2612237/) [Original](https://www.881903.com/news/local/2612237/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩聖誕訪港海外旅客破紀錄-反映香港韌性/){.md-button .hkfd-news-button}
+
+
+### 2025-12-31
+- [李家超總結2025年  指充滿考驗又展現韌性](https://www.881903.com/news/local/2612497/) [Original](https://www.881903.com/news/local/2612497/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超總結2025年-指充滿考驗又展現韌性/){.md-button .hkfd-news-button}
+- [大埔區議員：有宏福苑居民冀原區安置　將於下周區議會表達意見](https://www.881903.com/news/local/2612423/) [Original](https://www.881903.com/news/local/2612423/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔區議員有宏福苑居民冀原區安置-將於下周區議會表達意見/){.md-button .hkfd-news-button}

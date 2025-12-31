@@ -210,3 +210,7 @@
 
 ### 2025-12-30
 - [5 taxi drivers arrested over fake claims to ride-hailing company offering free rides for Tai Po fire victims](https://hongkongfp.com/?p=548951) [Original](https://hongkongfp.com/?p=548951){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/5-taxi-drivers-arrested-over-fake-claims-to-ride-hailing-company-offering-free/){.md-button .hkfd-news-button}
+
+
+### 2025-12-31
+- [Year in review: Landmark events and major stories in Hong Kong in 2025](https://hongkongfp.com/?p=548830) [Original](https://hongkongfp.com/?p=548830){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/year-in-review-landmark-events-and-major-stories-in-hong-kong-in-2025/){.md-button .hkfd-news-button}

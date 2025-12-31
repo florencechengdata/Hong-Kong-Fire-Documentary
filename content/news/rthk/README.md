@@ -902,3 +902,8 @@
 
 ### 2025-12-27
 - [宏福苑五級火｜蕭澤宇稱有地產代理免費為災民尋租盤　感謝貢獻](https://news.rthk.hk/rthk/ch/component/k2/1837672-20251227.htm?archive_date=2025-12-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837672-20251227.htm?archive_date=2025-12-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火蕭澤宇稱有地產代理免費為災民尋租盤-感謝貢獻/){.md-button .hkfd-news-button}
+
+
+### 2025-12-31
+- [宏福苑五級火｜紅十字會心理支援服務逾2500人次](https://news.rthk.hk/rthk/ch/component/k2/1838090-20251231.htm?archive_date=2025-12-31) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838090-20251231.htm?archive_date=2025-12-31){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火紅十字會心理支援服務逾2500人次/){.md-button .hkfd-news-button}
+- [【思念‧回憶‧同行】｜大埔宏福苑居民盼「重見家圓」](https://news.rthk.hk/rthk/ch/component/k2/1838091-20251231.htm?archive_date=2025-12-31) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838091-20251231.htm?archive_date=2025-12-31){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/思念回憶同行大埔宏福苑居民盼重見家圓/){.md-button .hkfd-news-button}

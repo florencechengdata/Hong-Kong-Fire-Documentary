@@ -42868,7 +42868,126 @@
       "source_file": "content/news/tvb/README.md",
       "scraped_at": "2025-12-30T22:23:03.150194",
       "archive_path": "content\\news\\tvb\\archive\\117-wang-fuk-court-residents-wrote-to-ce-asking-for-rebuilding-on-original-site"
+    },
+    "https://hongkongfp.com/?p=548830": {
+      "title": "Year in review: Landmark events and major stories in Hong Kong in 2025",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2025-12-31T22:04:49.520620",
+      "archive_path": "content\\news\\hkfp\\archive\\year-in-review-landmark-events-and-major-stories-in-hong-kong-in-2025"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1838090-20251231.htm?archive_date=2025-12-31": {
+      "title": "宏福苑五級火｜紅十字會心理支援服務逾2500人次",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-31T22:04:54.100511",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火紅十字會心理支援服務逾2500人次"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1838091-20251231.htm?archive_date=2025-12-31": {
+      "title": "【思念‧回憶‧同行】｜大埔宏福苑居民盼「重見家圓」",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-31T22:05:00.687564",
+      "archive_path": "content\\news\\rthk\\archive\\思念回憶同行大埔宏福苑居民盼重見家圓"
+    },
+    "https://news.tvb.com/tc/taipofire/6953c625d6adf87a9be89d51/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E8%AD%A6%E6%96%B9%E6%8B%985%E5%90%8D%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F-%E6%B6%89%E5%81%BD%E9%80%A0%E7%BE%A9%E8%BC%89%E7%81%BD%E6%B0%91%E8%A1%8C%E8%BB%8A%E7%B4%80%E9%8C%84%E5%9C%96%E9%A8%99%E5%A0%B1%E9%8A%B7": {
+      "title": "宏福苑五級火｜警方拘5名的士司機 涉偽造義載災民行車紀錄圖騙報銷 宏福苑五級火 1天前",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-31T22:05:06.095189",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火警方拘5名的士司機-涉偽造義載災民行車紀錄圖騙報銷-宏福苑五級火-1天前"
+    },
+    "https://news.tvb.com/tc/taipofire/6953df10d6adf87a9be99010/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%99%82%E4%BA%8B%E5%A4%9A%E9%9D%A2%E7%9D%87%EF%BD%9C%E6%9C%89%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%96%99%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%90%84%E5%BA%A7%E5%9C%B0%E5%9F%BA%E5%8F%AF%E9%87%8D%E7%94%A8-%E9%87%8D%E5%BB%BA%E6%88%96%E9%9C%80%E9%80%BE%E5%9B%9B%E5%B9%B4": {
+      "title": "時事多面睇｜有工程師料宏福苑各座地基可重用 重建或需逾四年 宏福苑五級火 23小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-31T22:05:12.347073",
+      "archive_path": "content\\news\\tvb\\archive\\時事多面睇有工程師料宏福苑各座地基可重用-重建或需逾四年-宏福苑五級火-23小時前-粵"
+    },
+    "https://news.tvb.com/tc/pearlnews/6953da0bd6adf87a9be95bad/TVB%20News-Tourism-sector-awaits-government-decision-on-Lunar-New-Year-fireworks-display": {
+      "title": "Tourism sector awaits government decision on Lunar New Year fireworks display",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-31T22:05:18.716028",
+      "archive_path": "content\\news\\tvb\\archive\\tourism-sector-awaits-government-decision-on-lunar-new-year-fireworks-display"
+    },
+    "https://news.now.com/home/local/player?newsId=631252": {
+      "title": "即日焦點｜西環邨居民2029年全邨搬　馬頭圍邨分兩期搬遷／解放軍圍台軍演第二日　展開奪控要港等演練",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-31T22:05:20.830465",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點西環邨居民2029年全邨搬-馬頭圍邨分兩期搬遷解放軍圍台軍演第二日-展開奪控要港等演練"
+    },
+    "https://news.tvb.com/tc/pearlnews/6953db1ed6adf87a9be96ee4/TVB%20News-China-conducts-second-day-of-live-fire-drills-around-Taiwan": {
+      "title": "China conducts second day of live-fire drills around Taiwan",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-31T22:05:27.514461",
+      "archive_path": "content\\news\\tvb\\archive\\china-conducts-second-day-of-live-fire-drills-around-taiwan"
+    },
+    "https://news.now.com/home/local/player?newsId=631332": {
+      "title": "原片轉載｜房屋局的2025年",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-31T22:05:27.694343",
+      "archive_path": "content\\news\\now-news\\archive\\原片轉載房屋局的2025年"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60308570/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E5%AE%8F%E6%A5%AD%E5%89%A9%E4%B8%80%E8%A2%AB%E6%8D%95%E7%8D%B2%E6%8E%88%E6%AC%8A%E7%B0%BD%E7%BD%B2%E4%BA%BA-27%E5%81%9C%E5%B7%A5%E5%B7%A5%E7%A8%8B%E6%9C%AA%E4%BA%A4%E6%94%B9%E5%96%84%E6%96%B9%E6%A1%88": {
+      "title": "宏福苑大火｜宏業剩一被捕獲授權簽署人　27停工工程未交改善方案",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2025-12-31T22:05:41.583953",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑大火宏業剩一被捕獲授權簽署人-27停工工程未交改善方案"
+    },
+    "https://www.881903.com/news/local/2612497/": {
+      "title": "李家超總結2025年  指充滿考驗又展現韌性",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-31T22:05:42.222700",
+      "archive_path": "content\\news\\commercial-radio\\archive\\李家超總結2025年-指充滿考驗又展現韌性"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251231/s00001/1767157002024": {
+      "title": "王岸然涉非法披露與國安會面內容及發煽動影片 申保釋被拒",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-31T22:05:42.503227",
+      "archive_path": "content\\news\\mingpao\\archive\\王岸然涉非法披露與國安會面內容及發煽動影片-申保釋被拒"
+    },
+    "https://www.881903.com/news/local/2612423/": {
+      "title": "大埔區議員：有宏福苑居民冀原區安置　將於下周區議會表達意見",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-31T22:05:48.015159",
+      "archive_path": "content\\news\\commercial-radio\\archive\\大埔區議員有宏福苑居民冀原區安置-將於下周區議會表達意見"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60308254/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E7%81%BD%E6%B0%91%E6%9C%88%E5%85%A73%E6%90%AC%E9%81%B7-%E7%BE%A9%E5%B7%A5%E5%9C%98%E9%9A%8A%E6%90%AC%E9%81%8B%E5%8A%A9%E5%BA%A6%E9%9B%A3%E9%97%9C-%E5%8A%A9%E4%BA%BA%E6%98%AF%E6%9C%AC%E8%83%BD": {
+      "title": "宏福苑大火｜災民月內3搬遷　義工團隊搬運助度難關：助人是本能",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2025-12-31T22:05:48.763948",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑大火災民月內3搬遷-義工團隊搬運助度難關助人是本能"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251231/s00002/1767113570256": {
+      "title": "再揭多兩工人宏福火罹難 累計7人",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-31T22:05:50.033092",
+      "archive_path": "content\\news\\mingpao\\archive\\再揭多兩工人宏福火罹難-累計7人"
+    },
+    "https://www.hk01.com/%E6%94%BF%E6%83%85/60308166/%E4%B8%80%E7%89%87%E7%A0%B4%E5%B1%80-%E5%AE%8F%E7%A6%8F%E7%81%AB-%E5%86%92%E7%89%8C%E6%B0%B4%E5%95%8F%E8%B2%AC%E8%B7%A8%E5%B9%B4-%E5%AD%AD%E9%A3%9B-%E6%99%82%E6%A9%9F%E5%BF%8C-%E6%8B%96%E5%AD%97%E8%A8%A3": {
+      "title": "一片破局｜宏福火、冒牌水問責跨年　「孭飛」時機忌「拖字訣」",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2025-12-31T22:05:54.033469",
+      "archive_path": "content\\news\\hk01\\archive\\一片破局宏福火冒牌水問責跨年-孭飛時機忌拖字訣"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60308295/%E7%BE%8E%E5%AD%9A%E6%96%B0%E9%82%A8%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%BF%85%E9%80%9F%E6%92%B2%E7%86%84-%E8%87%B3%E5%B0%9150%E4%BA%BA%E9%9C%80%E7%96%8F%E6%95%A3": {
+      "title": "美孚新邨單位冒煙起火　消防迅速撲熄　至少50人需疏散",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2025-12-31T22:05:59.951105",
+      "archive_path": "content\\news\\hk01\\archive\\美孚新邨單位冒煙起火-消防迅速撲熄-至少50人需疏散"
     }
   },
-  "last_updated": "2025-12-30T22:23:03.150252"
+  "last_updated": "2025-12-31T22:05:59.951175"
 }

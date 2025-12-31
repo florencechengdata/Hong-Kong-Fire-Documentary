@@ -846,3 +846,10 @@
 ### 2025-12-30
 - [疑偽造紀錄訛稱參與宏福苑義載　五名的士司機被捕](https://news.now.com/home/local/player?newsId=631210) [Original](https://news.now.com/home/local/player?newsId=631210){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/疑偽造紀錄訛稱參與宏福苑義載-五名的士司機被捕/){.md-button .hkfd-news-button}
 - [羅淑佩：跨年不辦煙花匯演改辦光影匯仍能推廣香港](https://news.now.com/home/local/player?newsId=631174) [Original](https://news.now.com/home/local/player?newsId=631174){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩跨年不辦煙花匯演改辦光影匯仍能推廣香港/){.md-button .hkfd-news-button}
+
+
+### 2025-12-30
+- [即日焦點｜西環邨居民2029年全邨搬　馬頭圍邨分兩期搬遷／解放軍圍台軍演第二日　展開奪控要港等演練](https://news.now.com/home/local/player?newsId=631252) [Original](https://news.now.com/home/local/player?newsId=631252){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點西環邨居民2029年全邨搬-馬頭圍邨分兩期搬遷解放軍圍台軍演第二日-展開奪控要港等演練/){.md-button .hkfd-news-button}
+
+### 2025-12-31
+- [原片轉載｜房屋局的2025年](https://news.now.com/home/local/player?newsId=631332) [Original](https://news.now.com/home/local/player?newsId=631332){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片轉載房屋局的2025年/){.md-button .hkfd-news-button}
