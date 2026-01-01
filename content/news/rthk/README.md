@@ -907,3 +907,8 @@
 ### 2025-12-31
 - [宏福苑五級火｜紅十字會心理支援服務逾2500人次](https://news.rthk.hk/rthk/ch/component/k2/1838090-20251231.htm?archive_date=2025-12-31) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838090-20251231.htm?archive_date=2025-12-31){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火紅十字會心理支援服務逾2500人次/){.md-button .hkfd-news-button}
 - [【思念‧回憶‧同行】｜大埔宏福苑居民盼「重見家圓」](https://news.rthk.hk/rthk/ch/component/k2/1838091-20251231.htm?archive_date=2025-12-31) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838091-20251231.htm?archive_date=2025-12-31){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/思念回憶同行大埔宏福苑居民盼重見家圓/){.md-button .hkfd-news-button}
+
+
+### 2026-01-01
+- [陳國基冀立法會與政府合作持續跟進宏福苑大火調查善後等工作](https://news.rthk.hk/rthk/ch/component/k2/1838262-20260101.htm?archive_date=2026-01-01) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838262-20260101.htm?archive_date=2026-01-01){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳國基冀立法會與政府合作持續跟進宏福苑大火調查善後等工作/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜截至前日67傷者先後康復出院12人情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1838246-20260101.htm?archive_date=2026-01-01) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838246-20260101.htm?archive_date=2026-01-01){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火截至前日67傷者先後康復出院12人情況穩定/){.md-button .hkfd-news-button}

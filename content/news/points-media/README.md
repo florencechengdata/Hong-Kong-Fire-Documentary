@@ -66,3 +66,7 @@
 
 ### 2025年12月29日
 - [【姚鈞豪】宏福火災一個月後：街坊聲音最緊要](https://points-media.com/%e6%94%bf%e6%b2%bb/%e3%80%90%e5%a7%9a%e9%88%9e%e8%b1%aa%e3%80%91%e5%ae%8f%e7%a6%8f%e7%81%ab%e7%81%bd%e4%b8%80%e5%80%8b%e6%9c%88%e5%be%8c%ef%bc%9a%e8%a1%97%e5%9d%8a%e8%81%b2%e9%9f%b3%e6%9c%80%e7%b7%8a%e8%a6%81/) [Original](https://points-media.com/%e6%94%bf%e6%b2%bb/%e3%80%90%e5%a7%9a%e9%88%9e%e8%b1%aa%e3%80%91%e5%ae%8f%e7%a6%8f%e7%81%ab%e7%81%bd%e4%b8%80%e5%80%8b%e6%9c%88%e5%be%8c%ef%bc%9a%e8%a1%97%e5%9d%8a%e8%81%b2%e9%9f%b3%e6%9c%80%e7%b7%8a%e8%a6%81/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/姚鈞豪宏福火災一個月後街坊聲音最緊要/){.md-button .hkfd-news-button}
+
+
+### 2025年12月31日
+- [2025 大事回顧｜大埔火災揭制度漏洞  國安法衝擊司法惹不滿 BN(O)承諾動搖](https://points-media.com/%e6%9c%80%e6%96%b0/2025-%e5%a4%a7%e4%ba%8b%e5%9b%9e%e9%a1%a7%ef%bd%9c%e5%a4%a7%e5%9f%94%e7%81%ab%e7%81%bd%e6%8f%ad%e5%88%b6%e5%ba%a6%e6%bc%8f%e6%b4%9e-%e5%9c%8b%e5%ae%89%e6%b3%95%e8%a1%9d%e6%93%8a%e5%8f%b8%e6%b3%95/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/2025-%e5%a4%a7%e4%ba%8b%e5%9b%9e%e9%a1%a7%ef%bd%9c%e5%a4%a7%e5%9f%94%e7%81%ab%e7%81%bd%e6%8f%ad%e5%88%b6%e5%ba%a6%e6%bc%8f%e6%b4%9e-%e5%9c%8b%e5%ae%89%e6%b3%95%e8%a1%9d%e6%93%8a%e5%8f%b8%e6%b3%95/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/2025-大事回顧大埔火災揭制度漏洞-國安法衝擊司法惹不滿-bno承諾動搖/){.md-button .hkfd-news-button}

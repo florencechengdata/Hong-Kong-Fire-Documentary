@@ -609,3 +609,11 @@
 ### 2025-12-31
 - [李家超總結2025年  指充滿考驗又展現韌性](https://www.881903.com/news/local/2612497/) [Original](https://www.881903.com/news/local/2612497/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超總結2025年-指充滿考驗又展現韌性/){.md-button .hkfd-news-button}
 - [大埔區議員：有宏福苑居民冀原區安置　將於下周區議會表達意見](https://www.881903.com/news/local/2612423/) [Original](https://www.881903.com/news/local/2612423/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔區議員有宏福苑居民冀原區安置-將於下周區議會表達意見/){.md-button .hkfd-news-button}
+
+
+### 2025-12-31
+- [李家超新年賀詞  新一年聚焦增進民生福祉及強化創科驅動](https://www.881903.com/news/local/2612545/) [Original](https://www.881903.com/news/local/2612545/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超新年賀詞-新一年聚焦增進民生福祉及強化創科驅動/){.md-button .hkfd-news-button}
+
+### 2026-01-01
+- [中大紀律委員會下周開會  跟進宏福苑聯署被捕學生](https://www.881903.com/news/local/2612600/) [Original](https://www.881903.com/news/local/2612600/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中大紀律委員會下周開會-跟進宏福苑聯署被捕學生/){.md-button .hkfd-news-button}
+- [宏福苑大火｜最少67名傷者已出院　12人情況穩定](https://www.881903.com/news/local/2612585/) [Original](https://www.881903.com/news/local/2612585/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火最少67名傷者已出院-12人情況穩定/){.md-button .hkfd-news-button}

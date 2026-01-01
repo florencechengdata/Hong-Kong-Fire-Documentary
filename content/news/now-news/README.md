@@ -853,3 +853,11 @@
 
 ### 2025-12-31
 - [原片轉載｜房屋局的2025年](https://news.now.com/home/local/player?newsId=631332) [Original](https://news.now.com/home/local/player?newsId=631332){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片轉載房屋局的2025年/){.md-button .hkfd-news-button}
+
+
+### 2025-12-31
+- [迎接2026｜李家超發表新年賀詞　來年繼續支援宏福苑災民及加快公營房屋建設](https://news.now.com/home/local/player?newsId=631383) [Original](https://news.now.com/home/local/player?newsId=631383){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/迎接2026李家超發表新年賀詞-來年繼續支援宏福苑災民及加快公營房屋建設/){.md-button .hkfd-news-button}
+
+### 2026-01-01
+- [時事全方位重點提要｜1月2日](https://news.now.com/home/local/player?newsId=631462) [Original](https://news.now.com/home/local/player?newsId=631462){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位重點提要1月2日/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜多名議員冀盡快處理災民安置等問題](https://news.now.com/home/local/player?newsId=631460) [Original](https://news.now.com/home/local/player?newsId=631460){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災多名議員冀盡快處理災民安置等問題/){.md-button .hkfd-news-button}

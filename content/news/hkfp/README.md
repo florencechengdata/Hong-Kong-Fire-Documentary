@@ -214,3 +214,7 @@
 
 ### 2025-12-31
 - [Year in review: Landmark events and major stories in Hong Kong in 2025](https://hongkongfp.com/?p=548830) [Original](https://hongkongfp.com/?p=548830){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/year-in-review-landmark-events-and-major-stories-in-hong-kong-in-2025/){.md-button .hkfd-news-button}
+
+
+### 2026-01-01
+- [Explainer: How deadly Tai Po fire brings to light bid-rigging epidemic in Hong Kong renovation industry](https://hongkongfp.com/?p=548902) [Original](https://hongkongfp.com/?p=548902){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/explainer-how-deadly-tai-po-fire-brings-to-light-bid-rigging-epidemic-in-hong/){.md-button .hkfd-news-button}
