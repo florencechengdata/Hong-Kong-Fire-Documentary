@@ -912,3 +912,9 @@
 ### 2026-01-01
 - [陳國基冀立法會與政府合作持續跟進宏福苑大火調查善後等工作](https://news.rthk.hk/rthk/ch/component/k2/1838262-20260101.htm?archive_date=2026-01-01) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838262-20260101.htm?archive_date=2026-01-01){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳國基冀立法會與政府合作持續跟進宏福苑大火調查善後等工作/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜截至前日67傷者先後康復出院12人情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1838246-20260101.htm?archive_date=2026-01-01) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838246-20260101.htm?archive_date=2026-01-01){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火截至前日67傷者先後康復出院12人情況穩定/){.md-button .hkfd-news-button}
+
+
+### 2026-01-02
+- [宏福苑五級火｜元旦及聖誕節宏仁閣尋回生還貓隻　愛協稱奇蹟](https://news.rthk.hk/rthk/ch/component/k2/1838405-20260102.htm?archive_date=2026-01-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838405-20260102.htm?archive_date=2026-01-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火元旦及聖誕節宏仁閣尋回生還貓隻-愛協稱奇蹟/){.md-button .hkfd-news-button}
+- [謝邱安儀：宏福苑大火後社會哀傷　六成零售商會員稱生意受影響](https://news.rthk.hk/rthk/ch/component/k2/1838403-20260102.htm?archive_date=2026-01-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838403-20260102.htm?archive_date=2026-01-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/謝邱安儀宏福苑大火後社會哀傷-六成零售商會員稱生意受影響/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜法援署署長陳澤銘稱短期推措施協助災民申請法援](https://news.rthk.hk/rthk/ch/component/k2/1838332-20260102.htm?archive_date=2026-01-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838332-20260102.htm?archive_date=2026-01-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火法援署署長陳澤銘稱短期推措施協助災民申請法援/){.md-button .hkfd-news-button}

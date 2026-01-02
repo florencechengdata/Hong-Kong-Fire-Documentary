@@ -300,3 +300,7 @@
 
 ### 2025-12-27
 - [點聲｜香港消防處英勇擔當　慎防有人「以災亂港」](https://www.dotdotnews.com/a/202512/27/AP694fa185e4b0c32d4f645ca1.html) [Original](https://www.dotdotnews.com/a/202512/27/AP694fa185e4b0c32d4f645ca1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點聲香港消防處英勇擔當-慎防有人以災亂港/){.md-button .hkfd-news-button}
+
+
+### 2026-01-02
+- [宏福苑五級火｜災後一個月再現奇跡！宏仁閣兩隻貓獲救](https://www.dotdotnews.com/a/202601/02/AP6957a596e4b0c32d4f64dfde.html) [Original](https://www.dotdotnews.com/a/202601/02/AP6957a596e4b0c32d4f64dfde.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災後一個月再現奇跡宏仁閣兩隻貓獲救/){.md-button .hkfd-news-button}

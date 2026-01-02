@@ -218,3 +218,10 @@
 
 ### 2026-01-01
 - [Explainer: How deadly Tai Po fire brings to light bid-rigging epidemic in Hong Kong renovation industry](https://hongkongfp.com/?p=548902) [Original](https://hongkongfp.com/?p=548902){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/explainer-how-deadly-tai-po-fire-brings-to-light-bid-rigging-epidemic-in-hong/){.md-button .hkfd-news-button}
+
+
+### 2026-01-01
+- [Hong Kong’s Foreign Correspondents’ Club granted new 3-year lease at historic Central location, gov’t says](https://hongkongfp.com/?p=549144) [Original](https://hongkongfp.com/?p=549144){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kongs-foreign-correspondents-club-granted-new-3-year-lease-at-historic/){.md-button .hkfd-news-button}
+
+### 2026-01-02
+- [Anti-graft agency arrests 21 over housing estate renovation projects in Kwun Tong](https://hongkongfp.com/?p=549343) [Original](https://hongkongfp.com/?p=549343){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/anti-graft-agency-arrests-21-over-housing-estate-renovation-projects-in-kwun/){.md-button .hkfd-news-button}

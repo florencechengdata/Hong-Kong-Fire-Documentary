@@ -861,3 +861,10 @@
 ### 2026-01-01
 - [時事全方位重點提要｜1月2日](https://news.now.com/home/local/player?newsId=631462) [Original](https://news.now.com/home/local/player?newsId=631462){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位重點提要1月2日/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜多名議員冀盡快處理災民安置等問題](https://news.now.com/home/local/player?newsId=631460) [Original](https://news.now.com/home/local/player?newsId=631460){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災多名議員冀盡快處理災民安置等問題/){.md-button .hkfd-news-button}
+
+
+### 2026-01-02
+- [宏福苑大火｜多兩隻貓獲救　愛協准擺更多捕貓籠](https://news.now.com/home/local/player?newsId=631599) [Original](https://news.now.com/home/local/player?newsId=631599){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火多兩隻貓獲救-愛協准擺更多捕貓籠/){.md-button .hkfd-news-button}
+- [時事全方位｜議會新丁(二)](https://news.now.com/home/local/player?newsId=631544) [Original](https://news.now.com/home/local/player?newsId=631544){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位議會新丁二/){.md-button .hkfd-news-button}
+- [時事全方位｜議會新丁(一)](https://news.now.com/home/local/player?newsId=631543) [Original](https://news.now.com/home/local/player?newsId=631543){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位議會新丁一/){.md-button .hkfd-news-button}
+- [法援署署長陳澤銘履新　已就宏福苑火災成立專責小組　助災民申請法援](https://news.now.com/home/local/player?newsId=631513) [Original](https://news.now.com/home/local/player?newsId=631513){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/法援署署長陳澤銘履新-已就宏福苑火災成立專責小組-助災民申請法援/){.md-button .hkfd-news-button}
