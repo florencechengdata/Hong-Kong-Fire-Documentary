@@ -371,3 +371,7 @@
 - [莫文蔚、古巨基開嗓「為港祈福」　維港跨年煙火喊卡](https://news.tvbs.com.tw/entertainment/3076334) [Original](https://news.tvbs.com.tw/entertainment/3076334){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/莫文蔚古巨基開嗓為港祈福-維港跨年煙火喊卡/){.md-button .hkfd-news-button}
 - [跳欄逃生！香港大火「傷勢最重」倖存者曝逃生瞬間：鞋底都燒熔了](https://news.tvbs.com.tw/china/3075753) [Original](https://news.tvbs.com.tw/china/3075753){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/跳欄逃生香港大火傷勢最重倖存者曝逃生瞬間鞋底都燒熔了/){.md-button .hkfd-news-button}
 - [宏福苑大火陷貪污、工安疑雲！廉政署「再捕2人」均拒回應](https://news.tvbs.com.tw/china/3075488) [Original](https://news.tvbs.com.tw/china/3075488){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火陷貪污工安疑雲廉政署再捕2人均拒回應/){.md-button .hkfd-news-button}
+
+
+### 2025-12-30
+- [香港大火／大埔大火後抽查棚網　竟「2成不合格」遇火即瞬燃](https://news.tvbs.com.tw/china/3086187) [Original](https://news.tvbs.com.tw/china/3086187){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大火大埔大火後抽查棚網-竟2成不合格遇火即瞬燃/){.md-button .hkfd-news-button}

@@ -591,3 +591,29 @@
 
 ### 2025-12-28
 - [各界取消聖誕聯歡活動　派對房間及到會生意減20至40%](https://www.881903.com/news/local/2611980/) [Original](https://www.881903.com/news/local/2611980/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/各界取消聖誕聯歡活動-派對房間及到會生意減20至40/){.md-button .hkfd-news-button}
+
+
+### 2025-12-29
+- [旅發局：跨年倒數將結合歌手演出及燈光匯演](https://www.881903.com/news/local/2612149/) [Original](https://www.881903.com/news/local/2612149/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/旅發局跨年倒數將結合歌手演出及燈光匯演/){.md-button .hkfd-news-button}
+- [新思維提交預算案建議　倡設緊急情況專項基金](https://www.881903.com/news/local/2612117/) [Original](https://www.881903.com/news/local/2612117/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新思維提交預算案建議-倡設緊急情況專項基金/){.md-button .hkfd-news-button}
+- [飲食界梁進：市民外遊及旅客消費模式轉變　影響聖誕檔期生意](https://www.881903.com/news/local/2612124/) [Original](https://www.881903.com/news/local/2612124/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/飲食界梁進市民外遊及旅客消費模式轉變-影響聖誕檔期生意/){.md-button .hkfd-news-button}
+- [逾百宏福苑居民聯署　要求政府原址重建](https://www.881903.com/news/local/2612113/) [Original](https://www.881903.com/news/local/2612113/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾百宏福苑居民聯署-要求政府原址重建/){.md-button .hkfd-news-button}
+
+
+### 2025-12-30
+- [逾百宏福苑居民聯署要求原址重建　政府：已收悉並正歸納災民意見](https://www.881903.com/news/local/2612337/) [Original](https://www.881903.com/news/local/2612337/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾百宏福苑居民聯署要求原址重建-政府已收悉並正歸納災民意見/){.md-button .hkfd-news-button}
+- [警拘5名的士司機  圖騙取的士平台義載宏福苑災民車資](https://www.881903.com/news/local/2612302/) [Original](https://www.881903.com/news/local/2612302/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警拘5名的士司機-圖騙取的士平台義載宏福苑災民車資/){.md-button .hkfd-news-button}
+- [羅淑佩：聖誕訪港海外旅客破紀錄　反映香港韌性](https://www.881903.com/news/local/2612237/) [Original](https://www.881903.com/news/local/2612237/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩聖誕訪港海外旅客破紀錄-反映香港韌性/){.md-button .hkfd-news-button}
+
+
+### 2025-12-31
+- [李家超總結2025年  指充滿考驗又展現韌性](https://www.881903.com/news/local/2612497/) [Original](https://www.881903.com/news/local/2612497/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超總結2025年-指充滿考驗又展現韌性/){.md-button .hkfd-news-button}
+- [大埔區議員：有宏福苑居民冀原區安置　將於下周區議會表達意見](https://www.881903.com/news/local/2612423/) [Original](https://www.881903.com/news/local/2612423/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔區議員有宏福苑居民冀原區安置-將於下周區議會表達意見/){.md-button .hkfd-news-button}
+
+
+### 2025-12-31
+- [李家超新年賀詞  新一年聚焦增進民生福祉及強化創科驅動](https://www.881903.com/news/local/2612545/) [Original](https://www.881903.com/news/local/2612545/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超新年賀詞-新一年聚焦增進民生福祉及強化創科驅動/){.md-button .hkfd-news-button}
+
+### 2026-01-01
+- [中大紀律委員會下周開會  跟進宏福苑聯署被捕學生](https://www.881903.com/news/local/2612600/) [Original](https://www.881903.com/news/local/2612600/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中大紀律委員會下周開會-跟進宏福苑聯署被捕學生/){.md-button .hkfd-news-button}
+- [宏福苑大火｜最少67名傷者已出院　12人情況穩定](https://www.881903.com/news/local/2612585/) [Original](https://www.881903.com/news/local/2612585/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火最少67名傷者已出院-12人情況穩定/){.md-button .hkfd-news-button}

@@ -835,3 +835,29 @@
 
 ### 2025-12-27
 - [指定實驗室驗市面棚網八成不合格　燃燒時間逾40秒超標十倍](https://news.now.com/home/local/player?newsId=630888) [Original](https://news.now.com/home/local/player?newsId=630888){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/指定實驗室驗市面棚網八成不合格-燃燒時間逾40秒超標十倍/){.md-button .hkfd-news-button}
+
+
+### 2025-12-29
+- [宏福苑五級火災｜過百居民冀協助原址重建　政府：正聽取和歸納災民的不同意見](https://news.now.com/home/local/player?newsId=631119) [Original](https://news.now.com/home/local/player?newsId=631119){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災過百居民冀協助原址重建-政府正聽取和歸納災民的不同意見/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜宏業獲授權簽署人張玉濤在屋宇署名冊中除名](https://news.now.com/home/local/player?newsId=631080) [Original](https://news.now.com/home/local/player?newsId=631080){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災宏業獲授權簽署人張玉濤在屋宇署名冊中除名/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜過百居民聯署向李家超等官員發信　冀協助原址重建](https://news.now.com/home/local/player?newsId=631044) [Original](https://news.now.com/home/local/player?newsId=631044){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災過百居民聯署向李家超等官員發信-冀協助原址重建/){.md-button .hkfd-news-button}
+
+
+### 2025-12-30
+- [疑偽造紀錄訛稱參與宏福苑義載　五名的士司機被捕](https://news.now.com/home/local/player?newsId=631210) [Original](https://news.now.com/home/local/player?newsId=631210){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/疑偽造紀錄訛稱參與宏福苑義載-五名的士司機被捕/){.md-button .hkfd-news-button}
+- [羅淑佩：跨年不辦煙花匯演改辦光影匯仍能推廣香港](https://news.now.com/home/local/player?newsId=631174) [Original](https://news.now.com/home/local/player?newsId=631174){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩跨年不辦煙花匯演改辦光影匯仍能推廣香港/){.md-button .hkfd-news-button}
+
+
+### 2025-12-30
+- [即日焦點｜西環邨居民2029年全邨搬　馬頭圍邨分兩期搬遷／解放軍圍台軍演第二日　展開奪控要港等演練](https://news.now.com/home/local/player?newsId=631252) [Original](https://news.now.com/home/local/player?newsId=631252){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點西環邨居民2029年全邨搬-馬頭圍邨分兩期搬遷解放軍圍台軍演第二日-展開奪控要港等演練/){.md-button .hkfd-news-button}
+
+### 2025-12-31
+- [原片轉載｜房屋局的2025年](https://news.now.com/home/local/player?newsId=631332) [Original](https://news.now.com/home/local/player?newsId=631332){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片轉載房屋局的2025年/){.md-button .hkfd-news-button}
+
+
+### 2025-12-31
+- [迎接2026｜李家超發表新年賀詞　來年繼續支援宏福苑災民及加快公營房屋建設](https://news.now.com/home/local/player?newsId=631383) [Original](https://news.now.com/home/local/player?newsId=631383){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/迎接2026李家超發表新年賀詞-來年繼續支援宏福苑災民及加快公營房屋建設/){.md-button .hkfd-news-button}
+
+### 2026-01-01
+- [時事全方位重點提要｜1月2日](https://news.now.com/home/local/player?newsId=631462) [Original](https://news.now.com/home/local/player?newsId=631462){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位重點提要1月2日/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜多名議員冀盡快處理災民安置等問題](https://news.now.com/home/local/player?newsId=631460) [Original](https://news.now.com/home/local/player?newsId=631460){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災多名議員冀盡快處理災民安置等問題/){.md-button .hkfd-news-button}

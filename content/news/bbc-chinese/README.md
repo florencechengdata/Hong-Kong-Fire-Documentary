@@ -66,3 +66,7 @@
 
 ### 2025-12-26
 - [<![CDATA[香港宏福苑大火一個月，災民在安置與搬遷漂流中尋找新家]]>](https://www.bbc.com/zhongwen/articles/cvg1d0d0z0zo/trad)
+
+
+### 2025-12-30
+- [<![CDATA[關稅戰再起、九三閱兵、「大罷免」、宏福苑大火——回顧2025年的兩岸三地]]>](https://www.bbc.com/zhongwen/articles/cy5gdp4nx2vo/trad)

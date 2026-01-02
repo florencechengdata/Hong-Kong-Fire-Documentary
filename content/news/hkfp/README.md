@@ -199,3 +199,22 @@
 ### 2025-12-27
 - [Tai Po fire: Disasters affect not only humans – why pet evacuation planning is essential](https://hongkongfp.com/?p=547840) [Original](https://hongkongfp.com/?p=547840){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-disasters-affect-not-only-humans-why-pet-evacuation-planning-is/){.md-button .hkfd-news-button}
 - [2025 in Pictures: Sporting landmarks, panda twins, record-breaking weather and LGBT+ setbacks](https://hongkongfp.com/?p=543114) [Original](https://hongkongfp.com/?p=543114){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/2025-in-pictures-sporting-landmarks-panda-twins-record-breaking-weather-and/){.md-button .hkfd-news-button}
+
+
+### 2025-12-28
+- [Third college student union at Chinese University of Hong Kong suspends operations in a week](https://hongkongfp.com/?p=548763) [Original](https://hongkongfp.com/?p=548763){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/third-college-student-union-at-chinese-university-of-hong-kong-suspends/){.md-button .hkfd-news-button}
+
+### 2025-12-29
+- [Over 2.3 million outbound trips made by Hong Kong residents over Christmas, long weekend as city sees slow business](https://hongkongfp.com/?p=548783) [Original](https://hongkongfp.com/?p=548783){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/over-23-million-outbound-trips-made-by-hong-kong-residents-over-christmas-long/){.md-button .hkfd-news-button}
+
+
+### 2025-12-30
+- [5 taxi drivers arrested over fake claims to ride-hailing company offering free rides for Tai Po fire victims](https://hongkongfp.com/?p=548951) [Original](https://hongkongfp.com/?p=548951){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/5-taxi-drivers-arrested-over-fake-claims-to-ride-hailing-company-offering-free/){.md-button .hkfd-news-button}
+
+
+### 2025-12-31
+- [Year in review: Landmark events and major stories in Hong Kong in 2025](https://hongkongfp.com/?p=548830) [Original](https://hongkongfp.com/?p=548830){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/year-in-review-landmark-events-and-major-stories-in-hong-kong-in-2025/){.md-button .hkfd-news-button}
+
+
+### 2026-01-01
+- [Explainer: How deadly Tai Po fire brings to light bid-rigging epidemic in Hong Kong renovation industry](https://hongkongfp.com/?p=548902) [Original](https://hongkongfp.com/?p=548902){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/explainer-how-deadly-tai-po-fire-brings-to-light-bid-rigging-epidemic-in-hong/){.md-button .hkfd-news-button}
