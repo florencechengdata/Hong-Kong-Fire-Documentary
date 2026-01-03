@@ -304,3 +304,7 @@
 
 ### 2026-01-02
 - [宏福苑五級火｜災後一個月再現奇跡！宏仁閣兩隻貓獲救](https://www.dotdotnews.com/a/202601/02/AP6957a596e4b0c32d4f64dfde.html) [Original](https://www.dotdotnews.com/a/202601/02/AP6957a596e4b0c32d4f64dfde.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災後一個月再現奇跡宏仁閣兩隻貓獲救/){.md-button .hkfd-news-button}
+
+
+### 2026-01-03
+- [宏福苑五級火│律師會諮詢櫃位增至7個　已處理125求助個案](https://www.dotdotnews.com/a/202601/03/AP6958e727e4b0c32d4f64f34d.html) [Original](https://www.dotdotnews.com/a/202601/03/AP6958e727e4b0c32d4f64f34d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火律師會諮詢櫃位增至7個-已處理125求助個案/){.md-button .hkfd-news-button}

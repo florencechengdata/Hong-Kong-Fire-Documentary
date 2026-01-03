@@ -868,3 +868,7 @@
 - [時事全方位｜議會新丁(二)](https://news.now.com/home/local/player?newsId=631544) [Original](https://news.now.com/home/local/player?newsId=631544){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位議會新丁二/){.md-button .hkfd-news-button}
 - [時事全方位｜議會新丁(一)](https://news.now.com/home/local/player?newsId=631543) [Original](https://news.now.com/home/local/player?newsId=631543){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位議會新丁一/){.md-button .hkfd-news-button}
 - [法援署署長陳澤銘履新　已就宏福苑火災成立專責小組　助災民申請法援](https://news.now.com/home/local/player?newsId=631513) [Original](https://news.now.com/home/local/player?newsId=631513){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/法援署署長陳澤銘履新-已就宏福苑火災成立專責小組-助災民申請法援/){.md-button .hkfd-news-button}
+
+
+### 2026-01-03
+- [宏福苑五級火災｜消防處特刊悼念殉職消防員何偉豪](https://news.now.com/home/local/player?newsId=631671) [Original](https://news.now.com/home/local/player?newsId=631671){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災消防處特刊悼念殉職消防員何偉豪/){.md-button .hkfd-news-button}

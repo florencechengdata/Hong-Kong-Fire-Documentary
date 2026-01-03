@@ -225,3 +225,7 @@
 
 ### 2026-01-02
 - [Anti-graft agency arrests 21 over housing estate renovation projects in Kwun Tong](https://hongkongfp.com/?p=549343) [Original](https://hongkongfp.com/?p=549343){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/anti-graft-agency-arrests-21-over-housing-estate-renovation-projects-in-kwun/){.md-button .hkfd-news-button}
+
+
+### 2026-01-03
+- [HKFP Monitor Jan 3, 2026: More student unions halt operations, mixed reactions to ‘contractual partners’ system](https://hongkongfp.com/?p=549434) [Original](https://hongkongfp.com/?p=549434){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-3-2026-more-student-unions-halt-operations-mixed-reactions-to/){.md-button .hkfd-news-button}

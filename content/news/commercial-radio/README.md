@@ -622,3 +622,7 @@
 ### 2026-01-02
 - [愛協於宏福苑災場救出兩隻貓　獲准下周擺放更多捕貓籠](https://www.881903.com/news/local/2612707/) [Original](https://www.881903.com/news/local/2612707/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/愛協於宏福苑災場救出兩隻貓-獲准下周擺放更多捕貓籠/){.md-button .hkfd-news-button}
 - [法援署新任署長陳澤銘：已成立專責組　協助宏福苑災民](https://www.881903.com/news/local/2612645/) [Original](https://www.881903.com/news/local/2612645/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/法援署新任署長陳澤銘已成立專責組-協助宏福苑災民/){.md-button .hkfd-news-button}
+
+
+### 2026-01-03
+- [羅淑佩：與江旻憓有交流　期望提出新見解](https://www.881903.com/news/local/2612780/) [Original](https://www.881903.com/news/local/2612780/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩與江旻憓有交流-期望提出新見解/){.md-button .hkfd-news-button}
