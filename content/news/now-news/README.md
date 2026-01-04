@@ -872,3 +872,10 @@
 
 ### 2026-01-03
 - [宏福苑五級火災｜消防處特刊悼念殉職消防員何偉豪](https://news.now.com/home/local/player?newsId=631671) [Original](https://news.now.com/home/local/player?newsId=631671){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災消防處特刊悼念殉職消防員何偉豪/){.md-button .hkfd-news-button}
+
+
+### 2026-01-04
+- [宏福苑五級火災｜居民需月底前遷出青年宿舍　長者哭訴再受搬遷之苦](https://news.now.com/home/local/player?newsId=631740) [Original](https://news.now.com/home/local/player?newsId=631740){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災居民需月底前遷出青年宿舍-長者哭訴再受搬遷之苦/){.md-button .hkfd-news-button}
+- [石硤尾邨火警釀一死八傷　消防指起火單位焚燒嚴重有大量雜物](https://news.now.com/home/local/player?newsId=631735) [Original](https://news.now.com/home/local/player?newsId=631735){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/石硤尾邨火警釀一死八傷-消防指起火單位焚燒嚴重有大量雜物/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜受災業主可獲兩年租津　何啟明籲區內業主勿坐地起價](https://news.now.com/home/local/player?newsId=631724) [Original](https://news.now.com/home/local/player?newsId=631724){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災受災業主可獲兩年租津-何啟明籲區內業主勿坐地起價/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜何啟明籲大埔區業主勿坐地起價　災民可覓東鐵綫沿綫租盤　](https://news.now.com/home/local/player?newsId=631714) [Original](https://news.now.com/home/local/player?newsId=631714){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災何啟明籲大埔區業主勿坐地起價-災民可覓東鐵綫沿綫租盤/){.md-button .hkfd-news-button}

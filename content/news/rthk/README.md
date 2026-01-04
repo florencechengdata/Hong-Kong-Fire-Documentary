@@ -918,3 +918,11 @@
 - [宏福苑五級火｜元旦及聖誕節宏仁閣尋回生還貓隻　愛協稱奇蹟](https://news.rthk.hk/rthk/ch/component/k2/1838405-20260102.htm?archive_date=2026-01-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838405-20260102.htm?archive_date=2026-01-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火元旦及聖誕節宏仁閣尋回生還貓隻-愛協稱奇蹟/){.md-button .hkfd-news-button}
 - [謝邱安儀：宏福苑大火後社會哀傷　六成零售商會員稱生意受影響](https://news.rthk.hk/rthk/ch/component/k2/1838403-20260102.htm?archive_date=2026-01-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838403-20260102.htm?archive_date=2026-01-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/謝邱安儀宏福苑大火後社會哀傷-六成零售商會員稱生意受影響/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜法援署署長陳澤銘稱短期推措施協助災民申請法援](https://news.rthk.hk/rthk/ch/component/k2/1838332-20260102.htm?archive_date=2026-01-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838332-20260102.htm?archive_date=2026-01-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火法援署署長陳澤銘稱短期推措施協助災民申請法援/){.md-button .hkfd-news-button}
+
+
+### 2026-01-03
+- [宏福苑五級火｜消防處發布特刊讚揚何偉豪捨身為民情操高尚](https://news.rthk.hk/rthk/ch/component/k2/1838490-20260103.htm?archive_date=2026-01-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838490-20260103.htm?archive_date=2026-01-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火消防處發布特刊讚揚何偉豪捨身為民情操高尚/){.md-button .hkfd-news-button}
+
+### 2026-01-04
+- [宏福苑五級火｜警方因應需求調整傷亡查詢熱線服務時間](https://news.rthk.hk/rthk/ch/component/k2/1838548-20260104.htm?archive_date=2026-01-04) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838548-20260104.htm?archive_date=2026-01-04){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火警方因應需求調整傷亡查詢熱線服務時間/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜回應居民接月內遷離令　當局稱因應營運者房間供應](https://news.rthk.hk/rthk/ch/component/k2/1838541-20260104.htm?archive_date=2026-01-04) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838541-20260104.htm?archive_date=2026-01-04){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火回應居民接月內遷離令-當局稱因應營運者房間供應/){.md-button .hkfd-news-button}

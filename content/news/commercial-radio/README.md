@@ -626,3 +626,9 @@
 
 ### 2026-01-03
 - [羅淑佩：與江旻憓有交流　期望提出新見解](https://www.881903.com/news/local/2612780/) [Original](https://www.881903.com/news/local/2612780/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩與江旻憓有交流-期望提出新見解/){.md-button .hkfd-news-button}
+
+
+### 2026-01-04
+- [宏福苑災民入住兩周後被要求遷出青年宿舍　民青局：將酌情處理](https://www.881903.com/news/local/2612916/) [Original](https://www.881903.com/news/local/2612916/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑災民入住兩周後被要求遷出青年宿舍-民青局將酌情處理/){.md-button .hkfd-news-button}
+- [宏福苑火警傷亡查詢熱線明日起改為朝9晚6服務](https://www.881903.com/news/local/2612861/) [Original](https://www.881903.com/news/local/2612861/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火警傷亡查詢熱線明日起改為朝9晚6服務/){.md-button .hkfd-news-button}
+- [何啟明：將成立4間社區親子中心及2間留宿幼兒中心](https://www.881903.com/news/local/2612860/) [Original](https://www.881903.com/news/local/2612860/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何啟明將成立4間社區親子中心及2間留宿幼兒中心/){.md-button .hkfd-news-button}

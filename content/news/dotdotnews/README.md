@@ -308,3 +308,7 @@
 
 ### 2026-01-03
 - [宏福苑五級火│律師會諮詢櫃位增至7個　已處理125求助個案](https://www.dotdotnews.com/a/202601/03/AP6958e727e4b0c32d4f64f34d.html) [Original](https://www.dotdotnews.com/a/202601/03/AP6958e727e4b0c32d4f64f34d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火律師會諮詢櫃位增至7個-已處理125求助個案/){.md-button .hkfd-news-button}
+
+
+### 2026-01-04
+- [回應宏福苑居民接遷離令　當局稱因應營運者房間供應](https://www.dotdotnews.com/a/202601/04/AP695a58d3e4b0c32d4f650f73.html) [Original](https://www.dotdotnews.com/a/202601/04/AP695a58d3e4b0c32d4f650f73.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/回應宏福苑居民接遷離令-當局稱因應營運者房間供應/){.md-button .hkfd-news-button}
