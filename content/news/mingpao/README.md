@@ -1589,3 +1589,7 @@
 ### 20260104
 - [大埔宏福苑五級火｜警方傷亡查詢熱線明起調整服務時間](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260104/s00001/1767500944624) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260104/s00001/1767500944624){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑五級火警方傷亡查詢熱線明起調整服務時間/){.md-button .hkfd-news-button}
 - [走失逾月喜團聚 倖存貓偎主人安睡 獲愛協救出「新年願望成真」 冀可鼓勵灰心市民](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260104/s00002/1767463151638) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260104/s00002/1767463151638){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/走失逾月喜團聚-倖存貓偎主人安睡-獲愛協救出新年願望成真-冀可鼓勵灰心市民/){.md-button .hkfd-news-button}
+
+### 20260105
+- [充電器起火  石硤尾邨焚宅1死8傷  居民指大廈喉轆無水  消防沒發現不妥籲正確使用](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260105/s00002/1767550901248) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260105/s00002/1767550901248){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/充電器起火-石硤尾邨焚宅1死8傷-居民指大廈喉轆無水-消防沒發現不妥籲正確使用/){.md-button .hkfd-news-button}
+- [原地避難、水平移動優先 長者身障人士火場求生術](https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20260105/s00005/1767544336554) [Original](https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20260105/s00005/1767544336554){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原地避難水平移動優先-長者身障人士火場求生術/){.md-button .hkfd-news-button}

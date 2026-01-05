@@ -229,3 +229,11 @@
 
 ### 2026-01-03
 - [HKFP Monitor Jan 3, 2026: More student unions halt operations, mixed reactions to ‘contractual partners’ system](https://hongkongfp.com/?p=549434) [Original](https://hongkongfp.com/?p=549434){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-3-2026-more-student-unions-halt-operations-mixed-reactions-to/){.md-button .hkfd-news-button}
+
+
+### 2026-01-04
+- [1 dead, 8 injured in Hong Kong housing estate fire; authorities probe possible power fault](https://hongkongfp.com/?p=549550) [Original](https://hongkongfp.com/?p=549550){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/1-dead-8-injured-in-hong-kong-housing-estate-fire-authorities-probe-possible/){.md-button .hkfd-news-button}
+
+### 2026-01-05
+- [Residents displaced by Tai Po fire must leave youth hostels by end of January](https://hongkongfp.com/?p=549668) [Original](https://hongkongfp.com/?p=549668){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/residents-displaced-by-tai-po-fire-must-leave-youth-hostels-by-end-of-january/){.md-button .hkfd-news-button}
+- [Legal Aid Dep’t establishes task force to assist Tai Po fire victims](https://hongkongfp.com/?p=549395) [Original](https://hongkongfp.com/?p=549395){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/legal-aid-dept-establishes-task-force-to-assist-tai-po-fire-victims/){.md-button .hkfd-news-button}

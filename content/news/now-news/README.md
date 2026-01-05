@@ -879,3 +879,12 @@
 - [石硤尾邨火警釀一死八傷　消防指起火單位焚燒嚴重有大量雜物](https://news.now.com/home/local/player?newsId=631735) [Original](https://news.now.com/home/local/player?newsId=631735){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/石硤尾邨火警釀一死八傷-消防指起火單位焚燒嚴重有大量雜物/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜受災業主可獲兩年租津　何啟明籲區內業主勿坐地起價](https://news.now.com/home/local/player?newsId=631724) [Original](https://news.now.com/home/local/player?newsId=631724){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災受災業主可獲兩年租津-何啟明籲區內業主勿坐地起價/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜何啟明籲大埔區業主勿坐地起價　災民可覓東鐵綫沿綫租盤　](https://news.now.com/home/local/player?newsId=631714) [Original](https://news.now.com/home/local/player?newsId=631714){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災何啟明籲大埔區業主勿坐地起價-災民可覓東鐵綫沿綫租盤/){.md-button .hkfd-news-button}
+
+
+### 2026-01-04
+- [石硤尾邨美如樓火警一死八傷　初步相信與充電器起火有關](https://news.now.com/home/local/player?newsId=631763) [Original](https://news.now.com/home/local/player?newsId=631763){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/石硤尾邨美如樓火警一死八傷-初步相信與充電器起火有關/){.md-button .hkfd-news-button}
+- [即日焦點｜美軍突襲委內瑞拉　總統馬杜羅夫婦被押抵紐約／長假期後不少市民經各口岸回港](https://news.now.com/home/local/player?newsId=631753) [Original](https://news.now.com/home/local/player?newsId=631753){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點美軍突襲委內瑞拉-總統馬杜羅夫婦被押抵紐約長假期後不少市民經各口岸回港/){.md-button .hkfd-news-button}
+
+### 2026-01-05
+- [宏福苑大火｜屋苑法團向宏業付近1.8億元維修費　戶口結餘約1.1億元](https://news.now.com/home/local/player?newsId=631852) [Original](https://news.now.com/home/local/player?newsId=631852){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火屋苑法團向宏業付近18億元維修費-戶口結餘約11億元/){.md-button .hkfd-news-button}
+- [邵家輝：海外旅客升幅顯著　大埔火災氣氛緩和　料零售業表現回復平穩](https://news.now.com/home/local/player?newsId=631813) [Original](https://news.now.com/home/local/player?newsId=631813){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/邵家輝海外旅客升幅顯著-大埔火災氣氛緩和-料零售業表現回復平穩/){.md-button .hkfd-news-button}
