@@ -44051,7 +44051,623 @@
       "source_file": "content/news/tvb/README.md",
       "scraped_at": "2026-01-05T22:27:09.758481",
       "archive_path": "content\\news\\tvb\\archive\\fire-victims-at-wang-fuk-courts-resettlement-issue"
+    },
+    "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60310306/%E7%91%9E%E5%A3%AB%E9%85%92%E5%90%A7%E6%96%B0%E5%B9%B4%E5%A4%A7%E7%81%AB40%E6%AD%BB%E9%80%BE%E7%99%BE%E5%82%B7-5%E5%B9%B4%E6%9C%AA%E6%9C%89%E9%98%B2%E7%81%AB%E5%AE%89%E5%85%A8%E6%AA%A2%E6%9F%A5-%E5%B8%82%E9%95%B7%E9%81%93%E6%AD%89": {
+      "title": "瑞士酒吧新年大火40死逾百傷　5年未有防火安全檢查　市長道歉",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-06T22:41:00.403829",
+      "archive_path": "content\\news\\hk01\\archive\\瑞士酒吧新年大火40死逾百傷-5年未有防火安全檢查-市長道歉"
+    },
+    "https://www1.hkej.com/dailynews/commentary/article/4288910/AI%E5%B9%B4%E4%BB%A3+%E6%96%B0%E8%81%9E%E6%A5%AD10%E5%80%8B%E9%97%9C%E9%8D%B5%E8%A9%9E": {
+      "title": "AI年代 新聞業10個關鍵詞",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:00.470807",
+      "archive_path": "content\\news\\hkej\\archive\\ai年代-新聞業10個關鍵詞"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4290605/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E7%8F%BE%E5%B1%86%E6%B3%95%E5%9C%98%E7%AE%A1%E5%A7%94%E6%9C%83%E7%99%BC%E8%A1%A8%E5%B7%A5%E4%BD%9C%E5%A0%B1%E5%91%8A+%E6%8A%AB%E9%9C%B2%E7%B8%BD%E5%AD%98%E6%AC%BE%E9%80%BE1%E5%84%84": {
+      "title": "宏福苑大火丨現屆法團管委會發表工作報告 披露總存款逾1億",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:00.532645",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨現屆法團管委會發表工作報告-披露總存款逾1億"
+    },
+    "https://www.dotdotnews.com/a/202601/06/AP695ce1eae4b0c32d4f654010.html": {
+      "title": "點直播｜麥美娟就大埔宏福苑管理事宜見記者｜1月6日",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-01-06T22:41:02.139856",
+      "archive_path": "content\\news\\dotdotnews\\archive\\點直播麥美娟就大埔宏福苑管理事宜見記者1月6日"
+    },
+    "https://www.881903.com/news/local/2613203/": {
+      "title": "宏福苑5級火丨土地審裁處接納解散屋苑法團管委會　委任合安管理",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-06T22:41:02.877526",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑5級火丨土地審裁處接納解散屋苑法團管委會-委任合安管理"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60310281/%E5%A4%A9%E7%91%9E%E9%82%A8%E5%85%AB%E6%97%AC%E7%BF%81%E5%90%B8%E7%85%99%E7%87%92%E7%9D%80%E8%87%AA%E8%BA%AB%E7%BE%BD%E7%B5%A8-%E8%88%87%E5%AD%AB%E4%BB%94%E5%90%88%E5%8A%9B%E6%92%B2%E7%86%84-%E8%85%B3%E9%83%A8%E7%87%92%E5%82%B7%E9%80%81%E9%99%A2": {
+      "title": "天瑞邨八旬翁吸煙燒着自身羽絨　與孫仔合力撲熄　腳部燒傷送院",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-06T22:41:06.009551",
+      "archive_path": "content\\news\\hk01\\archive\\天瑞邨八旬翁吸煙燒着自身羽絨-與孫仔合力撲熄-腳部燒傷送院"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4291809/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E9%BB%83%E5%81%89%E7%B6%B8%3A%E7%A9%8D%E6%A5%B5%E7%A0%94%E7%A9%B6%E9%95%B7%E9%81%A0%E5%AE%89%E7%BD%AE%E6%96%B9%E6%A1%88+%E6%8C%89%E6%83%85%E7%90%86%E6%B3%95%E8%99%95%E7%90%86": {
+      "title": "宏福苑大火丨黃偉綸:積極研究長遠安置方案 按情理法處理",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:06.318089",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨黃偉綸積極研究長遠安置方案-按情理法處理"
+    },
+    "https://www1.hkej.com/dailynews/commentary/article/4288907/%E4%BF%9D%E5%AE%89%E6%BC%8F%E6%B4%9E%E5%9A%87%E7%85%9E%E9%A6%AC%E4%B8%BB+%E7%B8%AE%E7%B4%B0%E5%85%AC%E7%9C%BE%E5%B8%AD%E6%83%B9%E7%86%B1%E8%AD%B0": {
+      "title": "保安漏洞嚇煞馬主 縮細公眾席惹熱議",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:07.293689",
+      "archive_path": "content\\news\\hkej\\archive\\保安漏洞嚇煞馬主-縮細公眾席惹熱議"
+    },
+    "https://www.dotdotnews.com/a/202601/06/AP695d0360e4b0c32d4f65423b.html": {
+      "title": "點觀香港｜土審處批准解散宏福苑法團管委會　民青局解畫災民青年宿舍安排",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-01-06T22:41:07.917510",
+      "archive_path": "content\\news\\dotdotnews\\archive\\點觀香港土審處批准解散宏福苑法團管委會-民青局解畫災民青年宿舍安排"
+    },
+    "https://www.881903.com/news/local/2613249/": {
+      "title": "麥美娟：青年宿舍營運者會酌情處理未能遷出的宏福苑居民個案",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-06T22:41:08.195946",
+      "archive_path": "content\\news\\commercial-radio\\archive\\麥美娟青年宿舍營運者會酌情處理未能遷出的宏福苑居民個案"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60310210/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E5%AE%98%E5%87%86%E5%90%88%E5%AE%89%E6%8E%A5%E7%AE%A1%E6%B3%95%E5%9C%98-%E9%BA%A5%E7%BE%8E%E5%A8%9F%E6%AD%A1%E8%BF%8E%E8%A3%81%E6%B1%BA-%E4%B8%8D%E5%BD%B1%E9%9F%BF%E6%A5%AD%E4%B8%BB%E6%B1%BA%E5%AE%9A": {
+      "title": "宏福苑大火｜官准合安接管法團　麥美娟歡迎裁決　不影響業主決定",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-06T22:41:12.158149",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑大火官准合安接管法團-麥美娟歡迎裁決-不影響業主決定"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4291580/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E9%BA%A5%E7%BE%8E%E5%A8%9F%3A%E8%A7%A3%E6%95%A3%E6%B3%95%E5%9C%98%E7%AE%A1%E5%A7%94%E6%9C%83%E4%B8%8D%E5%BD%B1%E9%9F%BF%E6%A5%AD%E4%B8%BB%E6%9C%80%E7%B5%82%E6%B1%BA%E5%AE%9A%E6%AC%8A": {
+      "title": "宏福苑大火丨麥美娟:解散法團管委會不影響業主最終決定權",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:12.381079",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨麥美娟解散法團管委會不影響業主最終決定權"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4290395/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%B3%95%E5%9C%98%E7%99%BC183%E9%A0%81%E6%96%87%E4%BB%B6%E7%9B%BC%E8%AD%89%E6%B8%85%E7%99%BD": {
+      "title": "宏福苑法團發183頁文件盼證清白 指上屆資料缺失 任內與承建商多番角力",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:13.383331",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑法團發183頁文件盼證清白-指上屆資料缺失-任內與承建商多番角力"
+    },
+    "https://www.dotdotnews.com/a/202601/06/AP695cedabe4b0c32d4f6540e1.html": {
+      "title": "宏福苑五級火｜有居民被要求搬離青年宿舍？麥美娟：酌情處理　提供妥善住宿安排",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-01-06T22:41:13.845710",
+      "archive_path": "content\\news\\dotdotnews\\archive\\宏福苑五級火有居民被要求搬離青年宿舍麥美娟酌情處理-提供妥善住宿安排"
+    },
+    "https://www.881903.com/news/local/2613238/": {
+      "title": "麥美娟：解散法團管委會不影響宏福苑業主最終決定權",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-06T22:41:14.280744",
+      "archive_path": "content\\news\\commercial-radio\\archive\\麥美娟解散法團管委會不影響宏福苑業主最終決定權"
+    },
+    "https://www.hk01.com/%E6%94%BF%E6%83%85/60310238/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E8%87%AA%E7%94%B1%E9%BB%A8%E8%A6%8B%E9%BB%83%E5%81%89%E7%B6%B8%E6%8E%A2%E8%A8%8E%E9%95%B7%E9%81%A0%E5%AE%89%E7%BD%AE-%E5%80%A1%E7%A0%94%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E5%B7%A5%E7%A8%8B%E7%9B%A3%E7%9D%A3": {
+      "title": "宏福苑火災｜自由黨見黃偉綸探討長遠安置　倡研樓宇維修工程監督",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-06T22:41:17.382788",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火災自由黨見黃偉綸探討長遠安置-倡研樓宇維修工程監督"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4290985/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E6%B3%95%E5%BA%AD%E6%89%B9%E5%87%86%E8%A7%A3%E6%95%A3%E6%B3%95%E5%9C%98%E7%AE%A1%E5%A7%94%E6%9C%83+%E7%94%B1%E8%8F%AF%E6%87%8B%E5%AD%90%E4%BC%81%E5%90%88%E5%AE%89%E6%8E%A5%E7%AE%A1": {
+      "title": "宏福苑大火丨法庭批准解散法團管委會 由華懋子企合安接管",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:17.731166",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨法庭批准解散法團管委會-由華懋子企合安接管"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4290398/%E6%B6%88%E9%98%B2%E6%8B%8D%E7%89%87%E7%A4%BA%E7%AF%84+%E6%95%99%E6%BB%85%E7%81%AB%E5%9B%9B%E5%8F%A3%E8%A8%A3": {
+      "title": "消防拍片示範 教滅火四口訣",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:19.118490",
+      "archive_path": "content\\news\\hkej\\archive\\消防拍片示範-教滅火四口訣"
+    },
+    "https://www.dotdotnews.com/a/202601/06/AP695ce768e4b0c32d4f654050.html": {
+      "title": "（有片）宏福苑五級火｜華懋合安接管法團職能　麥美娟：不影響業主最終決定權",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-01-06T22:41:19.953344",
+      "archive_path": "content\\news\\dotdotnews\\archive\\有片宏福苑五級火華懋合安接管法團職能-麥美娟不影響業主最終決定權"
+    },
+    "https://www.881903.com/news/local/2613228/": {
+      "title": "民思政策：圍標貪腐已構成「制度失效」　籲針對嚴重罪行引入刑責",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-06T22:41:20.064949",
+      "archive_path": "content\\news\\commercial-radio\\archive\\民思政策圍標貪腐已構成制度失效-籲針對嚴重罪行引入刑責"
+    },
+    "https://www.hk01.com/%E6%94%BF%E6%83%85/60310214/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E5%A4%A7%E5%9F%94%E5%8D%80%E8%AD%B0%E6%9C%83%E8%A8%AD%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E7%B5%84-%E4%B8%BB%E5%B8%AD%E7%BE%85%E6%9B%89%E6%A5%93%E7%9B%BC%E8%A8%8E%E8%AB%96%E9%98%B2%E7%81%AB": {
+      "title": "宏福苑火災｜大埔區議會設大廈管理工作組　主席羅曉楓盼討論防火",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-06T22:41:22.713235",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火災大埔區議會設大廈管理工作組-主席羅曉楓盼討論防火"
+    },
+    "https://hongkongfp.com/?p=549817": {
+      "title": "Tai Po fire: Hong Kong court approves gov’t proposal to dissolve estate owners’ board",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-01-06T22:41:23.872177",
+      "archive_path": "content\\news\\hkfp\\archive\\tai-po-fire-hong-kong-court-approves-govt-proposal-to-dissolve-estate-owners"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4290991/%E6%B0%91%E6%80%9D%E7%A0%94%E7%A9%B6%E6%89%80%E5%80%A1%E5%9C%8D%E6%A8%99%E8%A1%8C%E7%82%BA%E5%88%91%E4%BA%8B%E5%8C%96": {
+      "title": "民思研究所倡圍標行為刑事化",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:23.942003",
+      "archive_path": "content\\news\\hkej\\archive\\民思研究所倡圍標行為刑事化"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E6%8D%B1%E8%B6%B3%E5%8D%8A%E4%B8%96%E4%BE%9B%E6%A8%93-%E7%81%BD%E5%BE%8C%E4%B8%89%E5%BA%A6%E6%90%AC%E9%81%B7%E4%BB%8D%E6%9C%AA%E8%83%BD%E8%A6%93%E9%95%B7%E6%9C%9F%E5%B1%85%E6%89%80%EF%BC%9A%E6%88%91%E6%B7%A8%E4%BF%82%E6%83%B3%E8%A6%81%E8%BF%94%E5%80%8B%E5%AE%B6": {
+      "title": "【宏福苑五級火】捱足半世供樓 災後三度搬遷仍未能覓長期居所：我淨係想要返個家",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-01-06T22:41:41.254924",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火捱足半世供樓-災後三度搬遷仍未能覓長期居所我淨係想要返個家"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4290396/%E8%A7%A3%E6%95%A3%E7%AE%A1%E5%A7%94%E6%9C%83%E4%BB%8A%E8%81%86%E8%A8%8A+%E6%A5%AD%E6%88%B6%E5%80%A1%E5%A2%9E%E4%BF%9D%E9%9A%9C": {
+      "title": "解散管委會今聆訊 業戶倡增保障",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:41.490260",
+      "archive_path": "content\\news\\hkej\\archive\\解散管委會今聆訊-業戶倡增保障"
+    },
+    "https://www.881903.com/news/local/2613151/": {
+      "title": "宏福苑火災｜大埔區議會商善後　暫未能安排居民返回單位",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-06T22:41:43.227782",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災大埔區議會商善後-暫未能安排居民返回單位"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60310204/%E7%AD%B2%E7%AE%95%E7%81%A3%E6%98%8E%E8%8F%AF%E5%A4%A7%E5%BB%88%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-%E5%99%B4%E5%87%BA%E6%A9%99%E9%BB%83%E8%89%B2%E7%83%88%E7%84%B0-%E9%BB%91%E7%85%99%E5%B8%AD%E6%8D%B2%E5%8D%8A%E7%A9%BA": {
+      "title": "筲箕灣明華大廈單位起火　噴出橙黃色烈焰　黑煙席捲半空",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-06T22:41:43.514550",
+      "archive_path": "content\\news\\hk01\\archive\\筲箕灣明華大廈單位起火-噴出橙黃色烈焰-黑煙席捲半空"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4290724/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E6%8D%B2%E5%85%A5%E7%81%AB%E7%81%BD%E7%88%AD%E8%AD%B0%E9%BB%83%E7%A2%A7%E5%AC%8C%E5%87%BA%E5%B8%AD%E5%A4%A7%E5%9F%94%E5%8D%80%E8%AD%B0%E6%9C%83%E5%A4%A7%E6%9C%83": {
+      "title": "宏福苑大火丨捲入火災爭議黃碧嬌出席大埔區議會大會",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:41:43.792669",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨捲入火災爭議黃碧嬌出席大埔區議會大會"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E9%BA%A5%E7%BE%8E%E5%A8%9F%E6%AD%A1%E8%BF%8E%E5%90%88%E5%AE%89%E6%8E%A5%E7%AE%A1-%E5%BC%B7%E8%AA%BF%E3%80%8C%E9%87%8D%E5%A4%A7%E6%B1%BA%E5%AE%9A%E3%80%8D%E4%BB%8D%E7%94%B1%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E8%A1%A8%E6%B1%BA": {
+      "title": "【宏福苑五級火】麥美娟歡迎合安接管 強調「重大決定」仍由業主大會表決",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-01-06T22:42:03.967695",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火麥美娟歡迎合安接管-強調重大決定仍由業主大會表決"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260106/s00001/1767699968222": {
+      "title": "有宏福苑災民住青年宿舍不足一個月被要求遷出 麥美娟：政府已推租金補助 青年宿舍會按實際情况酌情處理",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:42:05.660438",
+      "archive_path": "content\\news\\mingpao\\archive\\有宏福苑災民住青年宿舍不足一個月被要求遷出-麥美娟政府已推租金補助-青年宿舍會按實際情况酌情處理"
+    },
+    "https://news.now.com/home/local/player?newsId=632013": {
+      "title": "時事全方位重點提要｜1月7日",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:42:05.792184",
+      "archive_path": "content\\news\\now-news\\archive\\時事全方位重點提要1月7日"
+    },
+    "https://www.881903.com/news/local/2613162/": {
+      "title": "廠商會施榮恆：工展會銷售額約10億元　較上屆多5%",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-06T22:42:06.746804",
+      "archive_path": "content\\news\\commercial-radio\\archive\\廠商會施榮恆工展會銷售額約10億元-較上屆多5"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E5%9C%9F%E5%9C%B0%E5%AF%A9%E8%A3%81%E8%99%95%E6%89%B9%E5%87%86%E8%A7%A3%E6%95%A3%E6%B3%95%E5%9C%98%E7%AE%A1%E5%A7%94%E6%9C%83-%E9%BE%94%E5%A6%82%E5%BF%83%E6%85%88%E5%96%84%E6%9C%83%E5%8A%A0%E7%A2%BC%E6%8D%901%E5%8D%83%E8%90%AC%E4%BD%9C%E7%87%9F%E9%81%8B": {
+      "title": "【宏福苑五級火】土地審裁處批准解散法團管委會 龔如心慈善會加碼捐1千萬作營運",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-01-06T22:42:18.714154",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火土地審裁處批准解散法團管委會-龔如心慈善會加碼捐1千萬作營運"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4290397/%E6%8D%A8%E8%BA%AB%E6%95%91%E4%BA%BA%E8%91%89%E5%A4%AA%E5%91%8A%E5%88%A5%E7%A6%AE+%E5%A4%AB%E6%9C%9B%E4%BE%86%E7%94%9F%E7%BA%8C%E7%B7%A3": {
+      "title": "捨身救人葉太告別禮 夫望來生續緣",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-06T22:42:18.841226",
+      "archive_path": "content\\news\\hkej\\archive\\捨身救人葉太告別禮-夫望來生續緣"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1838813-20260106.htm?archive_date=2026-01-06": {
+      "title": "Govt welcomes court decision on Wang Fuk Court",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-06T22:42:20.325698",
+      "archive_path": "content\\news\\rthk\\archive\\govt-welcomes-court-decision-on-wang-fuk-court"
+    },
+    "https://news.now.com/home/local/player?newsId=632008": {
+      "title": "宏福苑五級火災｜麥美娟歡迎土審處裁決　全片重溫(二)",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:42:21.198531",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災麥美娟歡迎土審處裁決-全片重溫二"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260106/s00001/1767695895000": {
+      "title": "合安接管宏福苑法團管委會 麥美娟：合安將查法團帳目 重大事宜仍由業主決定",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:42:21.275948",
+      "archive_path": "content\\news\\mingpao\\archive\\合安接管宏福苑法團管委會-麥美娟合安將查法團帳目-重大事宜仍由業主決定"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E7%81%BD%E5%BE%8C%E9%A6%96%E9%96%8B%E5%8D%80%E8%AD%B0%E6%9C%83-%E9%BB%83%E7%A2%A7%E5%AC%8C%E8%B5%B0%E5%BE%8C%E9%96%80%E5%87%BA%E5%85%A5%E9%81%BF%E7%AD%94%E8%A8%98%E8%80%85-%E7%99%BC%E8%A8%80%E5%BE%8C%E7%96%91%E5%93%AD%E6%B3%A3": {
+      "title": "【宏福苑五級火】災後首開區議會 黃碧嬌走後門出入避答記者 發言後疑哭泣",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-01-06T22:43:53.166941",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火災後首開區議會-黃碧嬌走後門出入避答記者-發言後疑哭泣"
+    },
+    "https://news.tvb.com/tc/taipofire/695b8c5fc26d920e366c15aa/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%B7%A5%E5%B1%95%E6%9C%83%E9%96%89%E5%B9%95%E5%89%B5%E7%B4%84%E5%8D%81%E5%84%84%E7%B8%BD%E9%8A%B7%E5%94%AE%E9%A1%8D-%E6%9C%89%E6%AA%94%E4%B8%BB%E6%8C%87%E4%BB%8A%E5%B9%B4%E9%8A%B7%E6%83%85%E9%81%9C%E5%BE%80%E5%B9%B4": {
+      "title": "工展會閉幕創約十億總銷售額 有檔主指今年銷情遜往年 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:43:54.790682",
+      "archive_path": "content\\news\\tvb\\archive\\工展會閉幕創約十億總銷售額-有檔主指今年銷情遜往年-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=632007": {
+      "title": "宏福苑五級火災｜麥美娟歡迎土審處裁決　全片重溫(一)",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:43:55.622976",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災麥美娟歡迎土審處裁決-全片重溫一"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260106/s00001/1767690174999": {
+      "title": "黃偉綸見自由黨商宏福苑大火長遠重置安排",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:43:55.903209",
+      "archive_path": "content\\news\\mingpao\\archive\\黃偉綸見自由黨商宏福苑大火長遠重置安排"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1838798-20260106.htm?archive_date=2026-01-06": {
+      "title": "Lands Tribunal dissolves Wang Fuk Court owners' group",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-06T22:43:55.981640",
+      "archive_path": "content\\news\\rthk\\archive\\lands-tribunal-dissolves-wang-fuk-court-owners-group"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E5%B1%85%E6%B0%91%E9%97%9C%E6%B3%A8%E9%95%B7%E9%81%A0%E5%AE%89%E7%BD%AE%E6%99%82%E9%96%93%E8%A1%A8-%E8%A6%8F%E5%8A%83%E7%BD%B2%E7%A8%B1%E6%AD%A3%E6%94%B6%E9%9B%86%E6%84%8F%E8%A6%8B%E3%80%81%E6%9C%83%E8%80%83%E6%85%AE%E8%AE%93%E5%B1%85%E6%B0%91%E9%81%B8%E6%93%87%E6%96%B9%E6%A1%88": {
+      "title": "【宏福苑五級火】居民關注長遠安置時間表 規劃署稱正收集意見、會考慮讓居民選擇方案",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-01-06T22:44:32.278470",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火居民關注長遠安置時間表-規劃署稱正收集意見會考慮讓居民選擇方案"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260106/s00001/1767688728424": {
+      "title": "民思研究指本港圍標防賄條例面臨「制度失效」 湯家驊倡圍標刑事化並加重罰則",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:44:34.663769",
+      "archive_path": "content\\news\\mingpao\\archive\\民思研究指本港圍標防賄條例面臨制度失效-湯家驊倡圍標刑事化並加重罰則"
+    },
+    "https://news.now.com/home/local/player?newsId=632002": {
+      "title": "宏福苑法團管委會解散　麥美娟：合安管理公司接手大維修合約文件　查清帳目",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:44:35.085083",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑法團管委會解散-麥美娟合安管理公司接手大維修合約文件-查清帳目"
+    },
+    "https://news.tvb.com/tc/taipofire/695d0ed6bc0cbd9033a9f912/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E7%81%BD%E6%B0%91%E7%A8%B1%E5%85%A5%E4%BD%8F%E5%AE%BF%E8%88%8D%E6%9C%AA%E4%B8%80%E6%9C%88%E9%A0%88%E9%81%B7%E5%87%BA-%E9%BA%A5%E7%BE%8E%E5%A8%9F%E6%8C%87%E7%87%9F%E9%81%8B%E6%96%B9%E5%B0%87%E9%85%8C%E6%83%85%E8%99%95%E7%90%86": {
+      "title": "宏福苑五級火｜災民稱入住宿舍未一月須遷出 麥美娟指營運方將酌情處理 宏福苑五級火 58分鐘前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:44:35.416590",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火災民稱入住宿舍未一月須遷出-麥美娟指營運方將酌情處理-宏福苑五級火-58分鐘前-粵"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1838770-20260106.htm?archive_date=2026-01-06": {
+      "title": "Wang Fuk Court displaced to get rehousing options",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-06T22:44:35.485479",
+      "archive_path": "content\\news\\rthk\\archive\\wang-fuk-court-displaced-to-get-rehousing-options"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E5%9B%9E%E6%87%89%E9%9D%92%E5%B9%B4%E5%AE%BF%E8%88%8D%E3%80%8C%E9%80%90%E5%AE%A2%E4%BB%A4%E3%80%8D-%E9%BA%A5%E7%BE%8E%E5%A8%9F%E7%A8%B1%E9%85%8C%E6%83%85%E8%99%95%E7%90%86%E6%AF%8F%E4%B8%80%E5%80%8B%E6%A1%88": {
+      "title": "【宏福苑五級火】回應青年宿舍「逐客令」 麥美娟稱酌情處理每一個案",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-01-06T22:44:47.535185",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火回應青年宿舍逐客令-麥美娟稱酌情處理每一個案"
+    },
+    "https://news.tvb.com/tc/taipofire/695cfd4ebc0cbd9033a951b7/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%94%BF%E5%BA%9C%E6%8C%87%E5%90%88%E5%AE%89%E5%83%85%E6%9A%AB%E4%BB%A3%E7%AE%A1%E7%90%86%E8%81%B7%E8%83%BD-%E5%85%AC%E5%8F%B8%E5%B0%87%E8%81%98%E5%B0%88%E6%A5%AD%E4%BA%BA%E5%A3%AB%E6%9F%A5%E6%98%8E%E6%B3%95%E5%9C%98%E5%B8%B3%E7%9B%AE": {
+      "title": "宏福苑五級火｜政府指合安僅暫代管理職能 公司將聘專業人士查明法團帳目 宏福苑五級火 2小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:44:49.587272",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火政府指合安僅暫代管理職能-公司將聘專業人士查明法團帳目-宏福苑五級火-2小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=631994": {
+      "title": "宏福苑法團管委會解散　麥美娟指合安馬上展開管委會交接工作",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:44:49.741762",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑法團管委會解散-麥美娟指合安馬上展開管委會交接工作"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1838815-20260106.htm?archive_date=2026-01-06": {
+      "title": "宏福苑五級火｜麥美娟稱政府將提修例建議助業主會處理合約問題",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-06T22:44:49.890403",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火麥美娟稱政府將提修例建議助業主會處理合約問題"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260106/s00001/1767687183670": {
+      "title": "土地審裁處批准解散宏福苑法團管委會 華懋子企合安無限期接管 須每月向民青局匯報工作",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:44:50.242502",
+      "archive_path": "content\\news\\mingpao\\archive\\土地審裁處批准解散宏福苑法團管委會-華懋子企合安無限期接管-須每月向民青局匯報工作"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91-%E5%B1%85%E6%B0%91%E6%86%82%E8%B2%A1%E7%89%A9%E5%A4%B1%E7%AB%8A-%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%B7%A5%E7%A8%8B%E9%80%B2%E8%A1%8C%E4%B8%AD%E3%80%8C%E6%83%85%E6%B3%81%E8%A4%87%E9%9B%9C%E3%80%8D%E7%8F%BE%E9%9A%8E%E6%AE%B5%E6%9C%AA%E8%83%BD%E5%AE%89%E6%8E%92%E4%B8%8A%E6%A8%93%E6%94%B6%E6%8B%BE": {
+      "title": "【宏福苑五級火】 居民憂財物失竊 警方：工程進行中「情況複雜」現階段未能安排上樓收拾",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-01-06T22:45:00.609143",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火-居民憂財物失竊-警方工程進行中情況複雜現階段未能安排上樓收拾"
+    },
+    "https://news.now.com/home/local/player?newsId=631990": {
+      "title": "宏福苑五級火災｜政府申解散法團的管委會獲批　華懋旗下合安無限期接任屋苑管理人",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:45:02.973723",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災政府申解散法團的管委會獲批-華懋旗下合安無限期接任屋苑管理人"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1838814-20260106.htm?archive_date=2026-01-06": {
+      "title": "宏福苑五級火｜黃偉綸稱正積極研究長遠安置方案　按情理法處理",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-06T22:45:03.067529",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火黃偉綸稱正積極研究長遠安置方案-按情理法處理"
+    },
+    "https://news.tvb.com/tc/taipofire/695ce7ecc26d920e3677c3b4/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%90%88%E5%AE%89%E7%8D%B2%E5%87%86%E6%8E%A5%E7%AE%A1%E6%B3%95%E5%9C%98%E7%AE%A1%E5%A7%94%E6%9C%83-%E7%95%B6%E5%B1%80%E5%BC%B7%E8%AA%BF%E5%B1%8B%E8%8B%91%E7%AE%A1%E7%90%86%E6%A5%AD%E4%B8%BB%E6%9C%89%E6%AC%8A%E6%9C%80%E7%B5%82%E6%B1%BA%E5%AE%9A": {
+      "title": "宏福苑五級火｜合安獲准接管法團管委會 當局強調屋苑管理業主有權最終決定 宏福苑五級火 3小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:45:03.292206",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火合安獲准接管法團管委會-當局強調屋苑管理業主有權最終決定-宏福苑五級火-3小時前-粵"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260106/s00001/1767684107647": {
+      "title": "大埔宏福苑五級火｜法援署：已簡化受影響居民申請程序 否認「集齊一次過處理」",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:45:03.387761",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火法援署已簡化受影響居民申請程序-否認集齊一次過處理"
+    },
+    "https://news.now.com/home/local/player?newsId=631979": {
+      "title": "宏福苑五級火災｜政府申解散宏福苑法團管委會獲批　華懋旗下合安無限期接任屋苑管理人",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:45:08.774619",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災政府申解散宏福苑法團管委會獲批-華懋旗下合安無限期接任屋苑管理人"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1838803-20260106.htm?archive_date=2026-01-06": {
+      "title": "多名大埔區議員促政府公布宏福苑重置方案",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-06T22:45:09.610200",
+      "archive_path": "content\\news\\rthk\\archive\\多名大埔區議員促政府公布宏福苑重置方案"
+    },
+    "https://news.tvb.com/tc/taipofire/695ce1f4c26d920e36778f96/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E7%8F%BE%E5%A0%B4%EF%BD%9C%E5%9C%9F%E5%AF%A9%E8%99%95%E5%85%81%E8%AE%93%E5%90%88%E5%AE%89%E6%8E%A5%E7%AE%A1%E6%A5%AD%E4%B8%BB%E7%AB%8B%E6%A1%88%E6%B3%95%E5%9C%98%E7%AE%A1%E5%A7%94%E6%9C%83-%E9%BA%A5%E7%BE%8E%E5%A8%9F%E5%83%85%E6%9A%AB%E4%BB%A3%E7%AE%A1%E7%90%86%E8%81%B7%E8%83%BD": {
+      "title": "宏福苑五級火．現場｜土審處允讓合安接管業主立案法團管委會 麥美娟：僅暫代管理職能 宏福苑五級火 4小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:45:10.084971",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火現場土審處允讓合安接管業主立案法團管委會-麥美娟僅暫代管理職能-宏福苑五級火-4小時前-粵"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260106/s00001/1767685872652": {
+      "title": "大埔區議會本年首次會議關注宏福苑火災善後 有議員倡用頌雅路西公屋熟地重建",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:45:12.785576",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔區議會本年首次會議關注宏福苑火災善後-有議員倡用頌雅路西公屋熟地重建"
+    },
+    "https://news.now.com/home/local/player?newsId=631970": {
+      "title": "宏福苑五級火災｜大埔區議會開會跟進火災善後及支援工作",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:45:14.748201",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災大埔區議會開會跟進火災善後及支援工作"
+    },
+    "https://news.tvb.com/tc/taipofire/695cc83bc26d920e367697b1/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%94%BF%E5%BA%9C%E7%94%B3%E8%AB%8B%E8%A7%A3%E6%95%A3%E5%B1%8B%E8%8B%91%E6%A5%AD%E4%B8%BB%E7%AB%8B%E6%A1%88%E6%B3%95%E5%9C%98%E7%AE%A1%E5%A7%94%E6%9C%83-%E5%9C%9F%E5%AF%A9%E8%99%95%E9%A6%96%E6%AC%A1%E8%81%86%E8%A8%8A": {
+      "title": "宏福苑五級火｜政府申請解散屋苑業主立案法團管委會 土審處首次聆訊 宏福苑五級火 5小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:45:16.953602",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火政府申請解散屋苑業主立案法團管委會-土審處首次聆訊-宏福苑五級火-5小時前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1838809-20260106.htm?archive_date=2026-01-06": {
+      "title": "宏福苑五級火｜麥美娟：歡迎土審處裁決交由專業團隊接管屋苑管理",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-06T22:45:18.810729",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火麥美娟歡迎土審處裁決交由專業團隊接管屋苑管理"
+    },
+    "https://news.now.com/home/local/player?newsId=631938": {
+      "title": "宏福苑五級火災｜大埔區議會開會跟進火災善後等工作　議員關注居民何時能返家取物",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:45:20.215023",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災大埔區議會開會跟進火災善後等工作-議員關注居民何時能返家取物"
+    },
+    "https://news.tvb.com/tc/taipofire/695c9747c26d920e3674f63e/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%A4%9A%E5%90%8D%E5%A4%A7%E5%9F%94%E5%8D%80%E8%AD%B0%E5%93%A1%E4%BF%83%E4%BA%A4%E4%BB%A3%E9%87%8D%E5%BB%BA%E5%8F%8A%E5%AE%89%E7%BD%AE%E5%AE%89%E6%8E%92-%E6%94%BF%E5%BA%9C%E6%83%85%E7%90%86%E6%B3%95%E5%85%BC%E5%82%99%E8%99%95%E7%90%86": {
+      "title": "宏福苑五級火｜多名大埔區議員促交代重建及安置安排 政府：情理法兼備處理 宏福苑五級火 9小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:45:22.357167",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火多名大埔區議員促交代重建及安置安排-政府情理法兼備處理-宏福苑五級火-9小時前-粵"
+    },
+    "https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20260106/s00002/1767684644115": {
+      "title": "Google香港2025年度搜尋榜出爐 「宏福苑」成熱搜本地頭條榜首",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:45:22.675554",
+      "archive_path": "content\\news\\mingpao\\archive\\google香港2025年度搜尋榜出爐-宏福苑成熱搜本地頭條榜首"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1838794-20260106.htm?archive_date=2026-01-06": {
+      "title": "宏福苑五級火｜土審處頒令解散法團管委會　華懋旗下公司任管理人",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-06T22:45:24.858643",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火土審處頒令解散法團管委會-華懋旗下公司任管理人"
+    },
+    "https://news.now.com/home/local/player?newsId=631931": {
+      "title": "宏福苑五級火災｜大埔區議會開會跟進火災善後及支援工作",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:45:26.070171",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災大埔區議會開會跟進火災善後及支援工作-1"
+    },
+    "https://news.tvb.com/tc/taipofire/695c82b4c26d920e36743b5c/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%94%AF%E6%8F%B4%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B1%85%E6%B0%91%EF%BD%9CYMCA%E8%81%AF%E5%90%8C%E6%84%9B%E5%BE%B7%E5%9F%BA%E9%87%91%E6%9C%83-%E6%8F%90%E4%BE%9B%E5%85%8D%E8%B2%BB%E7%BE%A9%E8%A8%BA": {
+      "title": "支援大埔宏福苑居民｜YMCA聯同愛德基金會 提供免費義診 宏福苑五級火 11小時前",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:45:28.338435",
+      "archive_path": "content\\news\\tvb\\archive\\支援大埔宏福苑居民ymca聯同愛德基金會-提供免費義診-宏福苑五級火-11小時前"
+    },
+    "https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20260106/s00007/1767671334002": {
+      "title": "謝安琪好友母親宏福苑火災罹難 入行21年長文訴心聲 籲珍惜時間",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:45:30.134107",
+      "archive_path": "content\\news\\mingpao\\archive\\謝安琪好友母親宏福苑火災罹難-入行21年長文訴心聲-籲珍惜時間"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1838789-20260106.htm?archive_date=2026-01-06": {
+      "title": "宏福苑五級火｜政府提請解散法團管委會　指為保護居民權益",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-06T22:45:30.709907",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火政府提請解散法團管委會-指為保護居民權益"
+    },
+    "https://news.now.com/home/local/player?newsId=631897": {
+      "title": "採訪日誌｜大埔區議會跟進宏福苑火災善後等工作／天文台預料早上市區最低氣溫約12度",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-06T22:45:31.470673",
+      "archive_path": "content\\news\\now-news\\archive\\採訪日誌大埔區議會跟進宏福苑火災善後等工作天文台預料早上市區最低氣溫約12度"
+    },
+    "https://news.tvb.com/tc/taipofire/695c7765c26d920e3673de09/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%A4%A7%E5%9F%94%E5%8D%80%E8%AD%B0%E6%9C%83%E5%95%86%E5%96%84%E5%BE%8C%E5%B7%A5%E4%BD%9C-%E5%A4%9A%E5%90%8D%E5%8D%80%E8%AD%B0%E5%93%A1%E4%BF%83%E4%BA%A4%E4%BB%A3%E9%87%8D%E5%BB%BA%E6%99%82%E9%96%93%E8%A1%A8": {
+      "title": "宏福苑五級火｜大埔區議會商善後工作 多名區議員促交代重建時間表 宏福苑五級火 11小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:45:34.377727",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火大埔區議會商善後工作-多名區議員促交代重建時間表-宏福苑五級火-11小時前-粵"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260106/s00001/1767664105800": {
+      "title": "黃碧嬌出席大埔區議會及參與「大廈管理工作小組」 冀政府盡早在區內為宏福苑災民重建家園",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:45:36.136929",
+      "archive_path": "content\\news\\mingpao\\archive\\黃碧嬌出席大埔區議會及參與大廈管理工作小組-冀政府盡早在區內為宏福苑災民重建家園"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1838753-20260106.htm?archive_date=2026-01-06": {
+      "title": "宏福苑五級火｜大埔區議會研善後支援　黃碧嬌冀盡快公布重置方案",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-06T22:45:36.669641",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火大埔區議會研善後支援-黃碧嬌冀盡快公布重置方案"
+    },
+    "https://news.tvb.com/tc/taipofire/695bd27cc26d920e366ead47/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%B3%95%E5%9C%98%E5%AD%98%E6%AC%BE%E9%80%BE%E5%84%84%E5%85%83-%E5%85%88%E5%BE%8C%E5%90%91%E5%A4%A7%E7%B6%AD%E4%BF%AE%E6%89%BF%E8%BE%A6%E5%95%86%E5%AE%8F%E6%A5%AD%E6%94%AF%E4%BB%98%E8%BF%911.8%E5%84%84": {
+      "title": "宏福苑五級火｜法團存款逾億元 先後向大維修承辦商宏業支付近1.8億 宏福苑五級火 23小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:45:39.958349",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火法團存款逾億元-先後向大維修承辦商宏業支付近18億-宏福苑五級火-23小時前-粵"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260106/s00001/1767635210485": {
+      "title": "援法團  18區會設大廈管理工作小組  蒐意見助修例  或擴政府權力改授權票規定",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:45:41.847452",
+      "archive_path": "content\\news\\mingpao\\archive\\援法團-18區會設大廈管理工作小組-蒐意見助修例-或擴政府權力改授權票規定"
+    },
+    "https://news.tvb.com/tc/pearlnews/695bb721c26d920e366d9b63/TVB%20News-Fire-Department-shows-public-how-to-operate-hose-reel-in-an-emergency": {
+      "title": "Fire Department shows public how to operate hose reel in an emergency",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:45:45.864171",
+      "archive_path": "content\\news\\tvb\\archive\\fire-department-shows-public-how-to-operate-hose-reel-in-an-emergency-1"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260106/s00001/1767635210687": {
+      "title": "宏福法團管委稱已付宏業1.8億  總存款1.13億  斥有人「躲簾後」散謠",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:45:48.315343",
+      "archive_path": "content\\news\\mingpao\\archive\\宏福法團管委稱已付宏業18億-總存款113億-斥有人躲簾後散謠"
+    },
+    "https://news.tvb.com/tc/pearlnews/695d0523bc0cbd9033a99c80/TVB-News-Lands-Tribunal-dissolves-Wang-Fuk-Courts-owners-corporation": {
+      "title": "Lands Tribunal dissolves Wang Fuk Court's owners' corporation",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:45:51.723923",
+      "archive_path": "content\\news\\tvb\\archive\\lands-tribunal-dissolves-wang-fuk-courts-owners-corporation"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260106/s00001/1767635210925": {
+      "title": "葉太捨身救5命  機構助家屬辦告別式圓願",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:45:53.710062",
+      "archive_path": "content\\news\\mingpao\\archive\\葉太捨身救5命-機構助家屬辦告別式圓願"
+    },
+    "https://news.tvb.com/tc/pearlnews/695d0513bc0cbd9033a99c35/TVB-News-Wang-Fuk-Court-follow-up-work-discussed-byTai-Po-district-members": {
+      "title": "Wang Fuk Court follow-up work discussed byTai Po district members",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:45:58.237976",
+      "archive_path": "content\\news\\tvb\\archive\\wang-fuk-court-follow-up-work-discussed-bytai-po-district-members"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260106/s00001/1767635211113": {
+      "title": "居青年宿舍不足一月接遷令  災民嘆淪「人球」",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:45:59.769515",
+      "archive_path": "content\\news\\mingpao\\archive\\居青年宿舍不足一月接遷令-災民嘆淪人球"
+    },
+    "https://news.tvb.com/tc/pearlnews/695d0505bc0cbd9033a99b97/TVB%20News-Gunfire-near-Venezuelas-presidential-palace-a-false-alarm": {
+      "title": "Gunfire near Venezuela's presidential palace a 'false alarm'",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:46:03.649070",
+      "archive_path": "content\\news\\tvb\\archive\\gunfire-near-venezuelas-presidential-palace-a-false-alarm"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260106/s00002/1767635218180": {
+      "title": "救貓見證生命力 愛協成員：最好聖誕禮物 倡訂災後動物救援指引",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:46:05.272369",
+      "archive_path": "content\\news\\mingpao\\archive\\救貓見證生命力-愛協成員最好聖誕禮物-倡訂災後動物救援指引"
+    },
+    "https://news.tvb.com/tc/pearlnews/695c8d9cc26d920e36749fbf/TVB%20News-Gunfire-heard-in-Venezuelan-capital": {
+      "title": "Gunfire heard in Venezuelan capital",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-06T22:46:09.036315",
+      "archive_path": "content\\news\\tvb\\archive\\gunfire-heard-in-venezuelan-capital"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260106/s00002/1767635218491": {
+      "title": "65寵物仍失蹤 愛協讚主人已盡力盼勿自責",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-06T22:46:11.943830",
+      "archive_path": "content\\news\\mingpao\\archive\\65寵物仍失蹤-愛協讚主人已盡力盼勿自責"
     }
   },
-  "last_updated": "2026-01-05T22:27:09.758554"
+  "last_updated": "2026-01-06T22:46:11.943879"
 }

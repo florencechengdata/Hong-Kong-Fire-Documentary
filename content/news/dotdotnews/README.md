@@ -312,3 +312,10 @@
 
 ### 2026-01-04
 - [回應宏福苑居民接遷離令　當局稱因應營運者房間供應](https://www.dotdotnews.com/a/202601/04/AP695a58d3e4b0c32d4f650f73.html) [Original](https://www.dotdotnews.com/a/202601/04/AP695a58d3e4b0c32d4f650f73.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/回應宏福苑居民接遷離令-當局稱因應營運者房間供應/){.md-button .hkfd-news-button}
+
+
+### 2026-01-06
+- [點直播｜麥美娟就大埔宏福苑管理事宜見記者｜1月6日](https://www.dotdotnews.com/a/202601/06/AP695ce1eae4b0c32d4f654010.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695ce1eae4b0c32d4f654010.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播麥美娟就大埔宏福苑管理事宜見記者1月6日/){.md-button .hkfd-news-button}
+- [點觀香港｜土審處批准解散宏福苑法團管委會　民青局解畫災民青年宿舍安排](https://www.dotdotnews.com/a/202601/06/AP695d0360e4b0c32d4f65423b.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695d0360e4b0c32d4f65423b.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港土審處批准解散宏福苑法團管委會-民青局解畫災民青年宿舍安排/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜有居民被要求搬離青年宿舍？麥美娟：酌情處理　提供妥善住宿安排](https://www.dotdotnews.com/a/202601/06/AP695cedabe4b0c32d4f6540e1.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695cedabe4b0c32d4f6540e1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火有居民被要求搬離青年宿舍麥美娟酌情處理-提供妥善住宿安排/){.md-button .hkfd-news-button}
+- [（有片）宏福苑五級火｜華懋合安接管法團職能　麥美娟：不影響業主最終決定權](https://www.dotdotnews.com/a/202601/06/AP695ce768e4b0c32d4f654050.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695ce768e4b0c32d4f654050.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火華懋合安接管法團職能-麥美娟不影響業主最終決定權/){.md-button .hkfd-news-button}

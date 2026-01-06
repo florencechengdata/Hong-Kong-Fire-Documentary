@@ -237,3 +237,7 @@
 ### 2026-01-05
 - [Residents displaced by Tai Po fire must leave youth hostels by end of January](https://hongkongfp.com/?p=549668) [Original](https://hongkongfp.com/?p=549668){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/residents-displaced-by-tai-po-fire-must-leave-youth-hostels-by-end-of-january/){.md-button .hkfd-news-button}
 - [Legal Aid Dep’t establishes task force to assist Tai Po fire victims](https://hongkongfp.com/?p=549395) [Original](https://hongkongfp.com/?p=549395){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/legal-aid-dept-establishes-task-force-to-assist-tai-po-fire-victims/){.md-button .hkfd-news-button}
+
+
+### 2026-01-06
+- [Tai Po fire: Hong Kong court approves gov’t proposal to dissolve estate owners’ board](https://hongkongfp.com/?p=549817) [Original](https://hongkongfp.com/?p=549817){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-hong-kong-court-approves-govt-proposal-to-dissolve-estate-owners/){.md-button .hkfd-news-button}

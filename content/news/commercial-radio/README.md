@@ -632,3 +632,12 @@
 - [宏福苑災民入住兩周後被要求遷出青年宿舍　民青局：將酌情處理](https://www.881903.com/news/local/2612916/) [Original](https://www.881903.com/news/local/2612916/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑災民入住兩周後被要求遷出青年宿舍-民青局將酌情處理/){.md-button .hkfd-news-button}
 - [宏福苑火警傷亡查詢熱線明日起改為朝9晚6服務](https://www.881903.com/news/local/2612861/) [Original](https://www.881903.com/news/local/2612861/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火警傷亡查詢熱線明日起改為朝9晚6服務/){.md-button .hkfd-news-button}
 - [何啟明：將成立4間社區親子中心及2間留宿幼兒中心](https://www.881903.com/news/local/2612860/) [Original](https://www.881903.com/news/local/2612860/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何啟明將成立4間社區親子中心及2間留宿幼兒中心/){.md-button .hkfd-news-button}
+
+
+### 2026-01-06
+- [宏福苑5級火丨土地審裁處接納解散屋苑法團管委會　委任合安管理](https://www.881903.com/news/local/2613203/) [Original](https://www.881903.com/news/local/2613203/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火丨土地審裁處接納解散屋苑法團管委會-委任合安管理/){.md-button .hkfd-news-button}
+- [麥美娟：青年宿舍營運者會酌情處理未能遷出的宏福苑居民個案](https://www.881903.com/news/local/2613249/) [Original](https://www.881903.com/news/local/2613249/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟青年宿舍營運者會酌情處理未能遷出的宏福苑居民個案/){.md-button .hkfd-news-button}
+- [麥美娟：解散法團管委會不影響宏福苑業主最終決定權](https://www.881903.com/news/local/2613238/) [Original](https://www.881903.com/news/local/2613238/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟解散法團管委會不影響宏福苑業主最終決定權/){.md-button .hkfd-news-button}
+- [民思政策：圍標貪腐已構成「制度失效」　籲針對嚴重罪行引入刑責](https://www.881903.com/news/local/2613228/) [Original](https://www.881903.com/news/local/2613228/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民思政策圍標貪腐已構成制度失效-籲針對嚴重罪行引入刑責/){.md-button .hkfd-news-button}
+- [宏福苑火災｜大埔區議會商善後　暫未能安排居民返回單位](https://www.881903.com/news/local/2613151/) [Original](https://www.881903.com/news/local/2613151/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災大埔區議會商善後-暫未能安排居民返回單位/){.md-button .hkfd-news-button}
+- [廠商會施榮恆：工展會銷售額約10億元　較上屆多5%](https://www.881903.com/news/local/2613162/) [Original](https://www.881903.com/news/local/2613162/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/廠商會施榮恆工展會銷售額約10億元-較上屆多5/){.md-button .hkfd-news-button}

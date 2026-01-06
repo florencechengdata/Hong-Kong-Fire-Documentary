@@ -4748,3 +4748,41 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2026-01-05 22:21:43 | INFO     | ensuring close
 2026-01-05 22:21:43 | ERROR    | Task was destroyed but it is pending!
 task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py:706> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py:810]>
+2026-01-05 22:23:31 | INFO     | ============================================================
+2026-01-05 22:23:31 | INFO     | News Scraper Daemon Starting
+2026-01-05 22:23:31 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-01-05 22:23:31 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-01-05 22:23:31 | INFO     | Sync interval: 10 minutes
+2026-01-05 22:23:31 | INFO     | PR interval: 60 minutes
+2026-01-05 22:23:31 | INFO     | ============================================================
+2026-01-05 22:23:32 | INFO     | gh CLI authenticated
+2026-01-05 22:23:32 | INFO     | Setting up git remotes...
+2026-01-05 22:23:32 | INFO     | Configured origin remote
+2026-01-05 22:23:33 | INFO     | gh CLI authenticated
+2026-01-05 22:23:33 | INFO     | ----------------------------------------
+2026-01-05 22:23:33 | INFO     | Running periodic health check...
+2026-01-05 22:23:33 | INFO     | gh CLI authenticated
+2026-01-05 22:23:34 | INFO     | Health check passed
+2026-01-05 22:23:34 | INFO     | ----------------------------------------
+2026-01-05 22:23:34 | INFO     | Starting sync cycle...
+2026-01-05 22:23:34 | INFO     | Syncing with upstream...
+2026-01-05 22:23:38 | INFO     | Already up to date with upstream
+2026-01-05 22:23:38 | INFO     | Running scraper...
+2026-01-05 22:23:39 | INFO     | Found 37 new URLs to scrape
+2026-01-05 22:23:48 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-01-05 22:27:09 | INFO     | Updated cumulative stats: 2318 success, 109 failed across 29 cycles
+2026-01-05 22:27:09 | INFO     | Scraper results: 35 success, 2 failed
+2026-01-05 22:27:10 | INFO     | Committing changes...
+2026-01-05 22:27:11 | INFO     | Committed: chore(scraper): auto-scrape 2026-01-05 22:27
+2026-01-05 22:27:15 | INFO     | Pushed to origin successfully
+2026-01-05 22:27:15 | INFO     | Sync cycle complete
+2026-01-05 22:27:15 | INFO     | ----------------------------------------
+2026-01-05 22:27:15 | INFO     | Starting PR cycle...
+2026-01-05 22:27:16 | INFO     | Pushed to origin successfully
+2026-01-05 22:27:16 | INFO     | Managing PR...
+2026-01-05 22:27:18 | INFO     | PR #30 exists, updating description with fresh stats...
+2026-01-05 22:27:21 | INFO     | Updated PR #30 with fresh stats
+2026-01-05 22:27:21 | INFO     | PR cycle complete
+2026-01-05 22:27:21 | INFO     | Run once mode, exiting...
+2026-01-05 22:27:21 | INFO     | ensuring close
+2026-01-05 22:27:21 | INFO     | ensuring close
