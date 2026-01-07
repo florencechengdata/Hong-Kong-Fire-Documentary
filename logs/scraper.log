@@ -4786,3 +4786,71 @@ task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\H
 2026-01-05 22:27:21 | INFO     | Run once mode, exiting...
 2026-01-05 22:27:21 | INFO     | ensuring close
 2026-01-05 22:27:21 | INFO     | ensuring close
+2026-01-06 22:40:49 | INFO     | ============================================================
+2026-01-06 22:40:49 | INFO     | News Scraper Daemon Starting
+2026-01-06 22:40:49 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-01-06 22:40:49 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-01-06 22:40:49 | INFO     | Sync interval: 10 minutes
+2026-01-06 22:40:49 | INFO     | PR interval: 60 minutes
+2026-01-06 22:40:49 | INFO     | ============================================================
+2026-01-06 22:40:50 | INFO     | gh CLI authenticated
+2026-01-06 22:40:50 | INFO     | Setting up git remotes...
+2026-01-06 22:40:50 | INFO     | Configured origin remote
+2026-01-06 22:40:50 | INFO     | gh CLI authenticated
+2026-01-06 22:40:51 | INFO     | ----------------------------------------
+2026-01-06 22:40:51 | INFO     | Running periodic health check...
+2026-01-06 22:40:51 | INFO     | gh CLI authenticated
+2026-01-06 22:40:51 | INFO     | Health check passed
+2026-01-06 22:40:51 | INFO     | ----------------------------------------
+2026-01-06 22:40:51 | INFO     | Starting sync cycle...
+2026-01-06 22:40:51 | INFO     | Syncing with upstream...
+2026-01-06 22:40:52 | INFO     | Already up to date with upstream
+2026-01-06 22:40:52 | INFO     | Running scraper...
+2026-01-06 22:40:53 | INFO     | Found 89 new URLs to scrape
+2026-01-06 22:41:29 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-01-06 22:46:12 | INFO     | Updated cumulative stats: 2406 success, 110 failed across 30 cycles
+2026-01-06 22:46:12 | INFO     | Scraper results: 88 success, 1 failed
+2026-01-06 22:46:12 | INFO     | Committing changes...
+2026-01-06 22:46:14 | INFO     | Committed: chore(scraper): auto-scrape 2026-01-06 22:46
+2026-01-06 22:46:19 | INFO     | Pushed to origin successfully
+2026-01-06 22:46:19 | INFO     | Sync cycle complete
+2026-01-06 22:46:19 | INFO     | ----------------------------------------
+2026-01-06 22:46:19 | INFO     | Starting PR cycle...
+2026-01-06 22:46:20 | INFO     | Pushed to origin successfully
+2026-01-06 22:46:20 | INFO     | Managing PR...
+2026-01-06 22:46:22 | INFO     | PR #30 exists, updating description with fresh stats...
+2026-01-06 22:46:26 | INFO     | Updated PR #30 with fresh stats
+2026-01-06 22:46:26 | INFO     | PR cycle complete
+2026-01-06 22:46:26 | INFO     | Run once mode, exiting...
+2026-01-06 22:46:26 | INFO     | ensuring close
+2026-01-06 22:46:26 | INFO     | ensuring close
+2026-01-06 22:46:26 | INFO     | ensuring close
+2026-01-06 22:46:26 | INFO     | ensuring close
+2026-01-06 22:46:26 | INFO     | ensuring close
+2026-01-06 22:46:26 | INFO     | ensuring close
+2026-01-06 22:46:26 | INFO     | ensuring close
+2026-01-07 22:44:24 | INFO     | ============================================================
+2026-01-07 22:44:24 | INFO     | News Scraper Daemon Starting
+2026-01-07 22:44:24 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-01-07 22:44:24 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-01-07 22:44:24 | INFO     | Sync interval: 10 minutes
+2026-01-07 22:44:24 | INFO     | PR interval: 60 minutes
+2026-01-07 22:44:24 | INFO     | ============================================================
+2026-01-07 22:44:24 | INFO     | gh CLI authenticated
+2026-01-07 22:44:24 | INFO     | Setting up git remotes...
+2026-01-07 22:44:25 | INFO     | Configured origin remote
+2026-01-07 22:44:25 | INFO     | gh CLI authenticated
+2026-01-07 22:44:25 | INFO     | ----------------------------------------
+2026-01-07 22:44:25 | INFO     | Running periodic health check...
+2026-01-07 22:44:26 | INFO     | gh CLI authenticated
+2026-01-07 22:44:26 | INFO     | Health check passed
+2026-01-07 22:44:26 | INFO     | ----------------------------------------
+2026-01-07 22:44:26 | INFO     | Starting sync cycle...
+2026-01-07 22:44:26 | INFO     | Syncing with upstream...
+2026-01-07 22:44:27 | INFO     | Already up to date with upstream
+2026-01-07 22:44:27 | INFO     | Running scraper...
+2026-01-07 22:44:28 | INFO     | Found 233 new URLs to scrape
+2026-01-07 22:44:32 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-01-07 22:45:05 | INFO     | Daemon stopped by user
+2026-01-07 22:45:05 | INFO     | ensuring close
+2026-01-07 22:45:05 | INFO     | ensuring close

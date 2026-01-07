@@ -241,3 +241,8 @@
 
 ### 2026-01-06
 - [Tai Po fire: Hong Kong court approves gov’t proposal to dissolve estate owners’ board](https://hongkongfp.com/?p=549817) [Original](https://hongkongfp.com/?p=549817){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-hong-kong-court-approves-govt-proposal-to-dissolve-estate-owners/){.md-button .hkfd-news-button}
+
+
+### 2026-01-07
+- [Tai Po fire: District councillor suggests rebuilding Wang Fuk Court at site earmarked for new public housing](https://hongkongfp.com/?p=549882) [Original](https://hongkongfp.com/?p=549882){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-district-councillor-suggests-rebuilding-wang-fuk-court-at-site/){.md-button .hkfd-news-button}
+- [Hong Kong’s bid-rigging prevention system mired in ‘institutional failure,’ think tank says](https://hongkongfp.com/?p=549874) [Original](https://hongkongfp.com/?p=549874){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kongs-bid-rigging-prevention-system-mired-in-institutional-failure-think/){.md-button .hkfd-news-button}

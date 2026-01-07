@@ -902,3 +902,14 @@
 - [宏福苑五級火災｜大埔區議會開會跟進火災善後等工作　議員關注居民何時能返家取物](https://news.now.com/home/local/player?newsId=631938) [Original](https://news.now.com/home/local/player?newsId=631938){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災大埔區議會開會跟進火災善後等工作-議員關注居民何時能返家取物/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜大埔區議會開會跟進火災善後及支援工作](https://news.now.com/home/local/player?newsId=631931) [Original](https://news.now.com/home/local/player?newsId=631931){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災大埔區議會開會跟進火災善後及支援工作-1/){.md-button .hkfd-news-button}
 - [採訪日誌｜大埔區議會跟進宏福苑火災善後等工作／天文台預料早上市區最低氣溫約12度](https://news.now.com/home/local/player?newsId=631897) [Original](https://news.now.com/home/local/player?newsId=631897){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌大埔區議會跟進宏福苑火災善後等工作天文台預料早上市區最低氣溫約12度/){.md-button .hkfd-news-button}
+
+
+### 2026-01-06
+- [即日焦點｜雀巢奶粉疑受蠟樣芽孢桿菌污染／華懋旗下合安獲准接手宏福苑管理](https://news.now.com/home/local/player?newsId=631078) [Original](https://news.now.com/home/local/player?newsId=631078){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點雀巢奶粉疑受蠟樣芽孢桿菌污染華懋旗下合安獲准接手宏福苑管理/){.md-button .hkfd-news-button}
+
+### 2026-01-07
+- [首批集體採購棚網下周四分發　售價最多貴1.3倍　鄭定寕：比工程費微不足道](https://news.now.com/home/local/player?newsId=632137) [Original](https://news.now.com/home/local/player?newsId=632137){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/首批集體採購棚網下周四分發-售價最多貴13倍-鄭定寕比工程費微不足道/){.md-button .hkfd-news-button}
+- [時事全方位｜大埔區議會跟進宏福苑火災(二)](https://news.now.com/home/local/player?newsId=632049) [Original](https://news.now.com/home/local/player?newsId=632049){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位大埔區議會跟進宏福苑火災二/){.md-button .hkfd-news-button}
+- [時事全方位｜大埔區議會跟進宏福苑火災(一)](https://news.now.com/home/local/player?newsId=632048) [Original](https://news.now.com/home/local/player?newsId=632048){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位大埔區議會跟進宏福苑火災一/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜有區議員倡當局收購宏福苑居民業權](https://news.now.com/home/local/player?newsId=632071) [Original](https://news.now.com/home/local/player?newsId=632071){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災有區議員倡當局收購宏福苑居民業權/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜有區議員促政府考慮以頌雅路西公屋熟地重置居民](https://news.now.com/home/local/player?newsId=632057) [Original](https://news.now.com/home/local/player?newsId=632057){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災有區議員促政府考慮以頌雅路西公屋熟地重置居民/){.md-button .hkfd-news-button}

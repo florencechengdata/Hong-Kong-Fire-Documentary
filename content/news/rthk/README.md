@@ -939,3 +939,7 @@
 - [宏福苑五級火｜土審處頒令解散法團管委會　華懋旗下公司任管理人](https://news.rthk.hk/rthk/ch/component/k2/1838794-20260106.htm?archive_date=2026-01-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838794-20260106.htm?archive_date=2026-01-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火土審處頒令解散法團管委會-華懋旗下公司任管理人/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜政府提請解散法團管委會　指為保護居民權益](https://news.rthk.hk/rthk/ch/component/k2/1838789-20260106.htm?archive_date=2026-01-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838789-20260106.htm?archive_date=2026-01-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政府提請解散法團管委會-指為保護居民權益/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜大埔區議會研善後支援　黃碧嬌冀盡快公布重置方案](https://news.rthk.hk/rthk/ch/component/k2/1838753-20260106.htm?archive_date=2026-01-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838753-20260106.htm?archive_date=2026-01-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火大埔區議會研善後支援-黃碧嬌冀盡快公布重置方案/){.md-button .hkfd-news-button}
+
+
+### 2026-01-07
+- [宏福苑五級火｜區議員稱不少居民冀留在大埔　倡用頌雅路西地重置](https://news.rthk.hk/rthk/ch/component/k2/1838882-20260107.htm?archive_date=2026-01-07) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838882-20260107.htm?archive_date=2026-01-07){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火區議員稱不少居民冀留在大埔-倡用頌雅路西地重置/){.md-button .hkfd-news-button}
