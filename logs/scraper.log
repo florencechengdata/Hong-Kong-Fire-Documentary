@@ -4854,3 +4854,48 @@ task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\H
 2026-01-07 22:45:05 | INFO     | Daemon stopped by user
 2026-01-07 22:45:05 | INFO     | ensuring close
 2026-01-07 22:45:05 | INFO     | ensuring close
+2026-01-07 22:47:02 | INFO     | ============================================================
+2026-01-07 22:47:02 | INFO     | News Scraper Daemon Starting
+2026-01-07 22:47:02 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-01-07 22:47:02 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-01-07 22:47:02 | INFO     | Sync interval: 10 minutes
+2026-01-07 22:47:02 | INFO     | PR interval: 60 minutes
+2026-01-07 22:47:02 | INFO     | ============================================================
+2026-01-07 22:47:03 | INFO     | gh CLI authenticated
+2026-01-07 22:47:03 | INFO     | Setting up git remotes...
+2026-01-07 22:47:03 | INFO     | Configured origin remote
+2026-01-07 22:47:03 | INFO     | gh CLI authenticated
+2026-01-07 22:47:03 | INFO     | ----------------------------------------
+2026-01-07 22:47:03 | INFO     | Running periodic health check...
+2026-01-07 22:47:04 | INFO     | gh CLI authenticated
+2026-01-07 22:47:04 | INFO     | Health check passed
+2026-01-07 22:47:04 | INFO     | ----------------------------------------
+2026-01-07 22:47:04 | INFO     | Starting sync cycle...
+2026-01-07 22:47:04 | INFO     | Syncing with upstream...
+2026-01-07 22:47:05 | INFO     | Already up to date with upstream
+2026-01-07 22:47:05 | INFO     | Running scraper...
+2026-01-07 22:47:05 | INFO     | Found 37 new URLs to scrape
+2026-01-07 22:48:05 | INFO     | Updated cumulative stats: 2442 success, 111 failed across 31 cycles
+2026-01-07 22:48:05 | INFO     | Scraper results: 36 success, 1 failed
+2026-01-07 22:48:05 | INFO     | Committing changes...
+2026-01-07 22:48:07 | INFO     | Committed: chore(scraper): auto-scrape 2026-01-07 22:48
+2026-01-07 22:48:11 | INFO     | Pushed to origin successfully
+2026-01-07 22:48:11 | INFO     | Sync cycle complete
+2026-01-07 22:48:11 | INFO     | ----------------------------------------
+2026-01-07 22:48:11 | INFO     | Starting PR cycle...
+2026-01-07 22:48:13 | INFO     | Pushed to origin successfully
+2026-01-07 22:48:13 | INFO     | Managing PR...
+2026-01-07 22:48:14 | INFO     | PR #30 exists, updating description with fresh stats...
+2026-01-07 22:48:18 | INFO     | Updated PR #30 with fresh stats
+2026-01-07 22:48:18 | INFO     | PR cycle complete
+2026-01-07 22:48:18 | INFO     | Run once mode, exiting...
+2026-01-08 22:43:46 | INFO     | ============================================================
+2026-01-08 22:43:46 | INFO     | News Scraper Daemon Starting
+2026-01-08 22:43:46 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-01-08 22:43:46 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-01-08 22:43:46 | INFO     | Sync interval: 10 minutes
+2026-01-08 22:43:46 | INFO     | PR interval: 60 minutes
+2026-01-08 22:43:46 | INFO     | ============================================================
+2026-01-08 22:43:47 | INFO     | gh CLI authenticated
+2026-01-08 22:43:47 | INFO     | Setting up git remotes...
+2026-01-08 22:43:47 | INFO     | Configured origin remote

@@ -319,3 +319,7 @@
 - [點觀香港｜土審處批准解散宏福苑法團管委會　民青局解畫災民青年宿舍安排](https://www.dotdotnews.com/a/202601/06/AP695d0360e4b0c32d4f65423b.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695d0360e4b0c32d4f65423b.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港土審處批准解散宏福苑法團管委會-民青局解畫災民青年宿舍安排/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜有居民被要求搬離青年宿舍？麥美娟：酌情處理　提供妥善住宿安排](https://www.dotdotnews.com/a/202601/06/AP695cedabe4b0c32d4f6540e1.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695cedabe4b0c32d4f6540e1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火有居民被要求搬離青年宿舍麥美娟酌情處理-提供妥善住宿安排/){.md-button .hkfd-news-button}
 - [（有片）宏福苑五級火｜華懋合安接管法團職能　麥美娟：不影響業主最終決定權](https://www.dotdotnews.com/a/202601/06/AP695ce768e4b0c32d4f654050.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695ce768e4b0c32d4f654050.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火華懋合安接管法團職能-麥美娟不影響業主最終決定權/){.md-button .hkfd-news-button}
+
+
+### 2026-01-08
+- [點觀香港｜李慧琼當選立法會主席　下周三大會將聚焦宏福苑善後](https://www.dotdotnews.com/a/202601/08/AP695f9469e4b0c32d4f6570f7.html) [Original](https://www.dotdotnews.com/a/202601/08/AP695f9469e4b0c32d4f6570f7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港李慧琼當選立法會主席-下周三大會將聚焦宏福苑善後/){.md-button .hkfd-news-button}

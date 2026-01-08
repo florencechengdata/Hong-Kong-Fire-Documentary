@@ -943,3 +943,9 @@
 
 ### 2026-01-07
 - [宏福苑五級火｜區議員稱不少居民冀留在大埔　倡用頌雅路西地重置](https://news.rthk.hk/rthk/ch/component/k2/1838882-20260107.htm?archive_date=2026-01-07) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838882-20260107.htm?archive_date=2026-01-07){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火區議員稱不少居民冀留在大埔-倡用頌雅路西地重置/){.md-button .hkfd-news-button}
+
+
+### 2026-01-08
+- [宏福苑五級火｜有區議員稱大埔很多租置屋邨將維修　業主擔心圍標](https://news.rthk.hk/rthk/ch/component/k2/1839099-20260108.htm?archive_date=2026-01-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839099-20260108.htm?archive_date=2026-01-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火有區議員稱大埔很多租置屋邨將維修-業主擔心圍標/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜獨立委員會委任包括杜淦堃等5名代表大律師](https://news.rthk.hk/rthk/ch/component/k2/1839075-20260108.htm?archive_date=2026-01-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839075-20260108.htm?archive_date=2026-01-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火獨立委員會委任包括杜淦堃等5名代表大律師/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜79名傷者中69人已出院　其餘10人情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1839029-20260108.htm?archive_date=2026-01-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839029-20260108.htm?archive_date=2026-01-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火79名傷者中69人已出院-其餘10人情況穩定/){.md-button .hkfd-news-button}

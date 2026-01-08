@@ -246,3 +246,7 @@
 ### 2026-01-07
 - [Tai Po fire: District councillor suggests rebuilding Wang Fuk Court at site earmarked for new public housing](https://hongkongfp.com/?p=549882) [Original](https://hongkongfp.com/?p=549882){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-district-councillor-suggests-rebuilding-wang-fuk-court-at-site/){.md-button .hkfd-news-button}
 - [Hong Kong’s bid-rigging prevention system mired in ‘institutional failure,’ think tank says](https://hongkongfp.com/?p=549874) [Original](https://hongkongfp.com/?p=549874){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kongs-bid-rigging-prevention-system-mired-in-institutional-failure-think/){.md-button .hkfd-news-button}
+
+
+### 2026-01-08
+- [Veteran lawmaker Starry Lee elected as president of Hong Kong legislature](https://hongkongfp.com/?p=550040) [Original](https://hongkongfp.com/?p=550040){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/veteran-lawmaker-starry-lee-elected-as-president-of-hong-kong-legislature/){.md-button .hkfd-news-button}

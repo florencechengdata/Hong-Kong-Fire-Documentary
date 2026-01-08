@@ -641,3 +641,8 @@
 - [民思政策：圍標貪腐已構成「制度失效」　籲針對嚴重罪行引入刑責](https://www.881903.com/news/local/2613228/) [Original](https://www.881903.com/news/local/2613228/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民思政策圍標貪腐已構成制度失效-籲針對嚴重罪行引入刑責/){.md-button .hkfd-news-button}
 - [宏福苑火災｜大埔區議會商善後　暫未能安排居民返回單位](https://www.881903.com/news/local/2613151/) [Original](https://www.881903.com/news/local/2613151/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災大埔區議會商善後-暫未能安排居民返回單位/){.md-button .hkfd-news-button}
 - [廠商會施榮恆：工展會銷售額約10億元　較上屆多5%](https://www.881903.com/news/local/2613162/) [Original](https://www.881903.com/news/local/2613162/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/廠商會施榮恆工展會銷售額約10億元-較上屆多5/){.md-button .hkfd-news-button}
+
+
+### 2026-01-08
+- [大埔火災獨立委員會　委任杜淦堃等5大律師代表](https://www.881903.com/news/local/2613550/) [Original](https://www.881903.com/news/local/2613550/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔火災獨立委員會-委任杜淦堃等5大律師代表/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜10名傷者仍留院　情況穩定](https://www.881903.com/news/local/2613487/) [Original](https://www.881903.com/news/local/2613487/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火10名傷者仍留院-情況穩定/){.md-button .hkfd-news-button}

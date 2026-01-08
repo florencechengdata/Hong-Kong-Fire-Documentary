@@ -913,3 +913,11 @@
 - [時事全方位｜大埔區議會跟進宏福苑火災(一)](https://news.now.com/home/local/player?newsId=632048) [Original](https://news.now.com/home/local/player?newsId=632048){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位大埔區議會跟進宏福苑火災一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜有區議員倡當局收購宏福苑居民業權](https://news.now.com/home/local/player?newsId=632071) [Original](https://news.now.com/home/local/player?newsId=632071){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災有區議員倡當局收購宏福苑居民業權/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜有區議員促政府考慮以頌雅路西公屋熟地重置居民](https://news.now.com/home/local/player?newsId=632057) [Original](https://news.now.com/home/local/player?newsId=632057){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災有區議員促政府考慮以頌雅路西公屋熟地重置居民/){.md-button .hkfd-news-button}
+
+
+### 2026-01-08
+- [足本全片｜李慧琼當選立法會主席　下周三首次會議聚焦大埔宏福苑大火善後工作](https://news.now.com/home/local/player?newsId=632230) [Original](https://news.now.com/home/local/player?newsId=632230){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/足本全片李慧琼當選立法會主席-下周三首次會議聚焦大埔宏福苑大火善後工作/){.md-button .hkfd-news-button}
+- [李慧琼當選立法會主席　承諾日後原則上不會投票](https://news.now.com/home/local/player?newsId=632234) [Original](https://news.now.com/home/local/player?newsId=632234){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李慧琼當選立法會主席-承諾日後原則上不會投票/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜獨立委員會委任杜淦堃等五人為代表律師](https://news.now.com/home/local/player?newsId=632232) [Original](https://news.now.com/home/local/player?newsId=632232){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災獨立委員會委任杜淦堃等五人為代表律師/){.md-button .hkfd-news-button}
+- [李慧琼當選新一屆立法會主席　宣布下周三舉行首次大會](https://news.now.com/home/local/player?newsId=632231) [Original](https://news.now.com/home/local/player?newsId=632231){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李慧琼當選新一屆立法會主席-宣布下周三舉行首次大會/){.md-button .hkfd-news-button}
+- [大埔區議會大廈管理工作小組召開首次會議](https://news.now.com/home/local/player?newsId=632209) [Original](https://news.now.com/home/local/player?newsId=632209){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔區議會大廈管理工作小組召開首次會議/){.md-button .hkfd-news-button}
