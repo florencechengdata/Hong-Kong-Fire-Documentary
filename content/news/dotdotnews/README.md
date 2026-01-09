@@ -323,3 +323,7 @@
 
 ### 2026-01-08
 - [點觀香港｜李慧琼當選立法會主席　下周三大會將聚焦宏福苑善後](https://www.dotdotnews.com/a/202601/08/AP695f9469e4b0c32d4f6570f7.html) [Original](https://www.dotdotnews.com/a/202601/08/AP695f9469e4b0c32d4f6570f7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港李慧琼當選立法會主席-下周三大會將聚焦宏福苑善後/){.md-button .hkfd-news-button}
+
+
+### 2026-01-09
+- [宏福苑善後｜會否進行公開聆訊？獨立委員會：適時按需公布安排](https://www.dotdotnews.com/a/202601/09/AP6960dec3e4b0c32d4f658769.html) [Original](https://www.dotdotnews.com/a/202601/09/AP6960dec3e4b0c32d4f658769.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後會否進行公開聆訊獨立委員會適時按需公布安排/){.md-button .hkfd-news-button}

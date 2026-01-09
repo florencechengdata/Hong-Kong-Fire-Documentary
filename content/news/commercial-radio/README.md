@@ -646,3 +646,9 @@
 ### 2026-01-08
 - [大埔火災獨立委員會　委任杜淦堃等5大律師代表](https://www.881903.com/news/local/2613550/) [Original](https://www.881903.com/news/local/2613550/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔火災獨立委員會-委任杜淦堃等5大律師代表/){.md-button .hkfd-news-button}
 - [宏福苑5級火｜10名傷者仍留院　情況穩定](https://www.881903.com/news/local/2613487/) [Original](https://www.881903.com/news/local/2613487/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火10名傷者仍留院-情況穩定/){.md-button .hkfd-news-button}
+
+
+### 2026-01-09
+- [屯門怡樂花園召業主大會　議決終止宏業大維修合約](https://www.881903.com/news/local/2613800/) [Original](https://www.881903.com/news/local/2613800/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/屯門怡樂花園召業主大會-議決終止宏業大維修合約/){.md-button .hkfd-news-button}
+- [宏福苑大火丨獨立委員會代表大律師及律師  將與涉事各方律師溝通](https://www.881903.com/news/local/2613797/) [Original](https://www.881903.com/news/local/2613797/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火丨獨立委員會代表大律師及律師-將與涉事各方律師溝通/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜政府就長遠安置諮詢災民　目標本月中下旬取得回應](https://www.881903.com/news/local/2613699/) [Original](https://www.881903.com/news/local/2613699/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火政府就長遠安置諮詢災民-目標本月中下旬取得回應/){.md-button .hkfd-news-button}

@@ -250,3 +250,7 @@
 
 ### 2026-01-08
 - [Veteran lawmaker Starry Lee elected as president of Hong Kong legislature](https://hongkongfp.com/?p=550040) [Original](https://hongkongfp.com/?p=550040){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/veteran-lawmaker-starry-lee-elected-as-president-of-hong-kong-legislature/){.md-button .hkfd-news-button}
+
+
+### 2026-01-09
+- [Tai Po fire: Gov’t proposes 9 rehousing plans; on-site redevelopment of Wang Fuk Court may take a decade](https://hongkongfp.com/?p=550352) [Original](https://hongkongfp.com/?p=550352){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-govt-proposes-9-rehousing-plans-on-site-redevelopment-of-wang-fuk/){.md-button .hkfd-news-button}
