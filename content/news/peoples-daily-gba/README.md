@@ -276,3 +276,7 @@
 
 ### 2026-01-09
 - [香港大埔宏福苑火灾已有69名伤者出院](http://gba.people.cn/n1/2026/0109/c42272-40642014.html) [Original](http://gba.people.cn/n1/2026/0109/c42272-40642014.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾已有69名伤者出院/){.md-button .hkfd-news-button}
+
+
+### 2026-01-10
+- [香港特区政府收集宏福苑业主长远安置意愿](http://gba.people.cn/n1/2026/0110/c42272-40642682.html) [Original](http://gba.people.cn/n1/2026/0110/c42272-40642682.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港特区政府收集宏福苑业主长远安置意愿/){.md-button .hkfd-news-button}

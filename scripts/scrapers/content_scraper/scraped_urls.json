@@ -45528,7 +45528,511 @@
       "source_file": "content/news/tvb/README.md",
       "scraped_at": "2026-01-09T22:23:57.036663",
       "archive_path": "content\\news\\tvb\\archive\\govt-sent-questionnaires-to-owners-of-wang-fuk-court-to-collect-opinions"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60311531/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E4%BD%95%E5%95%9F%E6%98%8E-%E6%8F%90%E4%BE%9B%E5%A4%9A%E5%85%83%E9%81%B8%E6%93%87-%E5%86%80%E5%B8%82%E6%B0%91%E7%90%86%E8%A7%A3%E6%B6%89%E6%8A%80%E8%A1%93%E9%9B%A3%E8%99%95%E4%B8%8D%E6%98%93%E5%81%9A": {
+      "title": "宏福苑火災｜何啟明：提供多元選擇　冀市民理解涉技術難處不易做",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-10T23:29:05.652246",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火災何啟明提供多元選擇-冀市民理解涉技術難處不易做"
+    },
+    "https://www.881903.com/news/local/2613849/": {
+      "title": "大埔浸小新學年遷新校舍　家長樂見有永久校舍",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-10T23:29:05.876490",
+      "archive_path": "content\\news\\commercial-radio\\archive\\大埔浸小新學年遷新校舍-家長樂見有永久校舍"
+    },
+    "https://www2.hkej.com/instantnews/international/article/4291973/%E5%9C%8B%E9%9A%9B%E6%97%A9%E7%8F%AD%E8%BB%8A%E4%B8%A8%E8%98%87%E5%A7%BF%E4%B8%B0%3A%E7%9B%AE%E5%89%8D%E5%85%A8%E7%90%83%E7%AE%97%E5%8A%9B%E9%81%A0%E9%81%A0%E4%B8%8D%E8%B6%B3+%E6%9C%AA%E4%BE%865%E5%B9%B4%E9%9C%80%E8%A6%81%E6%8F%90%E5%8D%87100%E5%80%8D": {
+      "title": "國際早班車丨蘇姿丰:目前全球算力遠遠不足 未來5年需要提升100倍",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-10T23:29:06.866678",
+      "archive_path": "content\\news\\hkej\\archive\\國際早班車丨蘇姿丰目前全球算力遠遠不足-未來5年需要提升100倍"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4294765/%E5%BB%BA%E9%80%A0%E6%A5%AD%E8%AD%B0%E6%9C%83%E6%96%99%E5%90%88%E6%A0%BC%E6%A3%9A%E7%B6%B2%E5%8F%AF%E9%99%8D%E5%83%B9": {
+      "title": "建造業議會料合格棚網可降價",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-10T23:29:07.164493",
+      "archive_path": "content\\news\\hkej\\archive\\建造業議會料合格棚網可降價"
+    },
+    "https://hongkongfp.com/?p=550388": {
+      "title": "HKFP Monitor Jan 10, 2026: New fines for new year; proposed sites to rebuild Wang Fuk Court",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-01-10T23:29:09.059319",
+      "archive_path": "content\\news\\hkfp\\archive\\hkfp-monitor-jan-10-2026-new-fines-for-new-year-proposed-sites-to-rebuild-wang"
+    },
+    "https://www.881903.com/news/local/2613880/": {
+      "title": "宏福苑居民：未諮詢就指原址重建不實際　是過早判斷",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-10T23:31:19.511363",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑居民未諮詢就指原址重建不實際-是過早判斷"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60311535/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%94%BF%E5%BA%9C%E8%AB%AE%E8%A9%A2%E5%BE%8C%E5%8F%8D%E6%8C%87%E9%87%8D%E5%BB%BA%E9%9B%A3-%E8%8E%8A%E8%B1%AA%E9%8B%92%E7%A8%B1%E8%A7%80%E6%84%9F%E5%B7%AE-%E5%80%A1%E5%88%97%E5%90%84%E6%96%B9%E6%A1%88%E5%84%AA%E5%8A%A3": {
+      "title": "宏福苑｜政府諮詢後反指重建難　莊豪鋒稱觀感差　倡列各方案優劣",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-10T23:31:20.325429",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑政府諮詢後反指重建難-莊豪鋒稱觀感差-倡列各方案優劣"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4294764/%E5%B1%85%E6%B0%91%E6%86%82%E4%BC%B0%E5%80%BC%E4%B8%8D%E8%B6%B3+%E9%A0%88%E8%B2%BC%E9%8C%A2%E6%8F%9B%E6%96%B0%E6%A8%93": {
+      "title": "居民憂估值不足 須貼錢換新樓",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-10T23:31:26.613416",
+      "archive_path": "content\\news\\hkej\\archive\\居民憂估值不足-須貼錢換新樓"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4294967/%E5%B1%AF%E9%96%80%E6%80%A1%E6%A8%82%E8%8A%B1%E5%9C%92%E5%A4%A7%E6%AF%94%E6%95%B8%E9%80%9A%E9%81%8E%E7%B5%82%E6%AD%A2%E5%AE%8F%E6%A5%AD%E5%A4%A7%E7%B6%AD%E4%BF%AE%E5%90%88%E7%B4%84": {
+      "title": "屯門怡樂花園大比數通過終止宏業大維修合約",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-10T23:31:27.195145",
+      "archive_path": "content\\news\\hkej\\archive\\屯門怡樂花園大比數通過終止宏業大維修合約"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60311546/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB-%E5%A4%A7%E5%9F%94%E6%B5%B8%E4%BF%A1%E6%9C%83%E5%85%AC%E7%AB%8B%E5%AD%B8%E6%A0%A1%E4%B8%8B%E5%AD%B8%E6%9C%9F%E9%81%B7%E6%A0%A1-%E6%93%AC%E7%94%B3%E9%A1%8D%E5%A4%96%E6%92%A5%E6%AC%BE%E9%82%84%E5%8E%9F%E8%A8%AD%E6%96%BD": {
+      "title": "宏福苑火｜大埔浸信會公立學校下學期遷校　擬申額外撥款還原設施",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-10T23:31:30.000038",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火大埔浸信會公立學校下學期遷校-擬申額外撥款還原設施"
+    },
+    "https://www.881903.com/news/local/2613875/": {
+      "title": "林正財：將與傳媒及公共機構商討　傳遞應對災後情緒資訊",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-10T23:31:30.093217",
+      "archive_path": "content\\news\\commercial-radio\\archive\\林正財將與傳媒及公共機構商討-傳遞應對災後情緒資訊"
+    },
+    "https://www1.hkej.com/dailynews/investment/article/4294711/%E4%BB%81%E6%BF%9F%E9%86%AB%E9%99%A2%E6%92%A5%E6%AC%BE1.66%E5%84%84%E6%8F%B4%E5%8A%A9%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%88%87%E5%85%AB%E9%81%94%E9%80%9A%E6%94%9C%E6%89%8B%E6%8E%A8%E5%87%BA%E5%B0%88%E5%B1%AC%E5%85%AB%E9%81%94%E9%80%9A%E5%8D%A1": {
+      "title": "仁濟醫院撥款1.66億援助大埔宏福苑與八達通攜手推出專屬八達通卡",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-10T23:31:36.694439",
+      "archive_path": "content\\news\\hkej\\archive\\仁濟醫院撥款166億援助大埔宏福苑與八達通攜手推出專屬八達通卡"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60311499/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A1%94%E9%96%80%E6%92%92%E7%81%B0%E5%88%A5%E6%91%AF%E8%A6%AA-%E5%85%A9%E5%AD%90%E6%86%B6%E5%9A%B4%E6%AF%8D%E6%95%99%E8%AA%A8-%E5%A4%AB%E9%A1%98%E9%9A%A8%E6%B5%B7%E8%91%AC-%E4%BD%A2%E6%9C%83%E7%AD%89%E6%88%91": {
+      "title": "宏福苑｜塔門撒灰別摯親　兩子憶嚴母教誨　夫願隨海葬：佢會等我",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-10T23:31:38.046988",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑塔門撒灰別摯親-兩子憶嚴母教誨-夫願隨海葬佢會等我"
+    },
+    "https://www.881903.com/news/local/2613873/": {
+      "title": "何啟明：會以問卷收集宏福苑居民對長遠安置的意見",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-10T23:31:38.467906",
+      "archive_path": "content\\news\\commercial-radio\\archive\\何啟明會以問卷收集宏福苑居民對長遠安置的意見"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260110/s00001/1768031343462": {
+      "title": "回應黃偉綸指宏福苑原址重建不切實際 何啟明：希望市民理解涉技術難處",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-10T23:31:41.807383",
+      "archive_path": "content\\news\\mingpao\\archive\\回應黃偉綸指宏福苑原址重建不切實際-何啟明希望市民理解涉技術難處"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4295042/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E7%94%AF%E6%BC%A2%E8%B1%AA%3A%E9%80%BE%E8%90%AC%E6%96%B0%E6%A3%9A%E7%B6%B2%E9%99%B8%E7%BA%8C%E6%8A%B5%E6%B8%AF+%E6%96%99%E4%B8%8B%E5%91%A8%E5%8F%AF%E5%88%86%E7%99%BC%E6%89%BF%E5%BB%BA%E5%95%86": {
+      "title": "宏福苑大火丨甯漢豪:逾萬新棚網陸續抵港 料下周可分發承建商",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-10T23:31:42.661408",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨甯漢豪逾萬新棚網陸續抵港-料下周可分發承建商"
+    },
+    "https://www.881903.com/news/local/2613857/": {
+      "title": "立法會首次會議聚焦宏福苑支援及重建　李家超將出席發言",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-10T23:31:46.290816",
+      "archive_path": "content\\news\\commercial-radio\\archive\\立法會首次會議聚焦宏福苑支援及重建-李家超將出席發言"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60311501/%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD-%E5%8D%93%E6%B0%B8%E8%88%88-%E5%A6%82%E9%81%B8%E5%B9%B4%E6%9C%9F%E9%95%B7%E5%AE%89%E7%BD%AE%E6%96%B9%E6%A1%88-%E6%9C%83%E5%90%A6%E7%BA%8C%E6%B4%BE%E8%A3%9C%E5%8A%A9%E9%A0%88%E5%B0%8F%E5%BF%83%E8%80%83%E6%85%AE": {
+      "title": "大埔火災｜卓永興：如選年期長安置方案　會否續派補助須小心考慮",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-10T23:31:46.385420",
+      "archive_path": "content\\news\\hk01\\archive\\大埔火災卓永興如選年期長安置方案-會否續派補助須小心考慮"
+    },
+    "https://www1.hkej.com/dailynews/investment/article/4294709/%E7%81%AB%E7%81%BD%E8%B3%A0%E5%84%9F%E5%95%9F%E7%A4%BA+%E6%B1%82%E4%BA%BA%E4%B8%8D%E5%A6%82%E6%B1%82%E5%B7%B1": {
+      "title": "火災賠償啟示 求人不如求己",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-10T23:31:46.628415",
+      "archive_path": "content\\news\\hkej\\archive\\火災賠償啟示-求人不如求己"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4295039/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E4%B8%A8%E9%BB%83%E5%81%89%E7%B6%B8%3A%E5%8E%9F%E5%9D%80%E4%B8%8D%E5%86%8D%E4%BD%9C%E4%BD%8F%E5%AE%85%E7%94%A8%E9%80%94+%E7%A0%94%E8%BD%89%E7%82%BA%E7%A4%BE%E5%8D%80%E8%A8%AD%E6%96%BD": {
+      "title": "宏福苑火災丨黃偉綸:原址不再作住宅用途 研轉為社區設施",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-10T23:31:49.411569",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑火災丨黃偉綸原址不再作住宅用途-研轉為社區設施"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60311467/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%98%A8%E7%99%BC%E5%95%8F%E5%8D%B7%E4%BB%8A%E8%90%BD%E9%96%98-%E6%92%90%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA%E6%A5%AD%E4%B8%BB%E7%8B%A0%E6%89%B9-%E5%8D%B3%E4%BF%82%E5%81%87%E8%AB%AE%E8%A9%A2": {
+      "title": "宏福苑大火︱昨發問卷今落閘　撐原址重建業主狠批：即係假諮詢？",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-10T23:31:52.617295",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑大火昨發問卷今落閘-撐原址重建業主狠批即係假諮詢"
+    },
+    "https://www.881903.com/news/local/2613854/": {
+      "title": "卓永興︰宏福苑安置方案需時　料兩年後仍需提供補助",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-10T23:31:52.956044",
+      "archive_path": "content\\news\\commercial-radio\\archive\\卓永興宏福苑安置方案需時-料兩年後仍需提供補助"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4294763/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%80%98%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA+%E5%85%A5%E4%BC%99%E8%A6%81%E7%AD%89%E5%8D%81%E5%B9%B4": {
+      "title": "宏福苑倘原址重建 入伙要等十年 政府發安置意願問卷 未提復修選項",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-10T23:31:57.506777",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑倘原址重建-入伙要等十年-政府發安置意願問卷-未提復修選項"
+    },
+    "https://www.881903.com/news/local/2613828/": {
+      "title": "甯漢豪：不擔心棚網價格高　冀更多供應商提供服務",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-10T23:31:59.628423",
+      "archive_path": "content\\news\\commercial-radio\\archive\\甯漢豪不擔心棚網價格高-冀更多供應商提供服務"
+    },
+    "https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20260110/s00007/1768023048405": {
+      "title": "災民未獲所需電器 家屬揚言報東張 Tyson Yoshi︰真係要情緒勒索同要脅咩",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-10T23:32:00.081381",
+      "archive_path": "content\\news\\mingpao\\archive\\災民未獲所需電器-家屬揚言報東張-tyson-yoshi真係要情緒勒索同要脅咩"
+    },
+    "http://gba.people.cn/n1/2026/0110/c42272-40642682.html": {
+      "title": "香港特区政府收集宏福苑业主长远安置意愿",
+      "source": "peoples-daily-gba",
+      "source_file": "content/news/peoples-daily-gba/README.md",
+      "scraped_at": "2026-01-10T23:32:13.120962",
+      "archive_path": "content\\news\\peoples-daily-gba\\archive\\香港特区政府收集宏福苑业主长远安置意愿"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260110/s00001/1768023319750": {
+      "title": "大埔宏福苑五級火︱希慎、理文、保良局合作向災民贈逾1700手提電腦及平板電腦 居民久別重逢相擁而泣",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-10T23:32:15.338766",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火希慎理文保良局合作向災民贈逾1700手提電腦及平板電腦-居民久別重逢相擁而泣"
+    },
+    "https://news.now.com/home/local/player?newsId=632431": {
+      "title": "立法會首次會議下周三舉行　聚焦宏福苑災後支援重建議案",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:32:18.782347",
+      "archive_path": "content\\news\\now-news\\archive\\立法會首次會議下周三舉行-聚焦宏福苑災後支援重建議案"
+    },
+    "https://www.881903.com/news/local/2613827/": {
+      "title": "黃偉綸：宏福苑原址重建不實際　將研究轉為社區設施",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-10T23:32:19.742971",
+      "archive_path": "content\\news\\commercial-radio\\archive\\黃偉綸宏福苑原址重建不實際-將研究轉為社區設施"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1839292-20260109.htm?archive_date=2026-01-09": {
+      "title": "宏福苑五級火｜原區安置3潛在選址　有宏志閣居民傾向原居居住",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-10T23:32:21.407287",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火原區安置3潛在選址-有宏志閣居民傾向原居居住"
+    },
+    "https://news.now.com/home/local/player?newsId=632425": {
+      "title": "屯門怡樂花園大比數通過中止宏業建築大維修合約",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:32:26.623535",
+      "archive_path": "content\\news\\now-news\\archive\\屯門怡樂花園大比數通過中止宏業建築大維修合約"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260110/s00001/1768018818104": {
+      "title": "卓永興：宏福苑居民返回單位視察須先作樓宇安全評估 料需2至3個月",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-10T23:32:31.915256",
+      "archive_path": "content\\news\\mingpao\\archive\\卓永興宏福苑居民返回單位視察須先作樓宇安全評估-料需2至3個月"
+    },
+    "https://news.now.com/home/local/player?newsId=632420": {
+      "title": "即日焦點｜政府諮詢宏福苑災民長遠安置意願／俄羅斯向烏克蘭發射「榛樹」高超音速導彈",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:32:34.548727",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點政府諮詢宏福苑災民長遠安置意願俄羅斯向烏克蘭發射榛樹高超音速導彈"
+    },
+    "https://news.now.com/home/local/player?newsId=632496": {
+      "title": "即日焦點｜雀巢旗下能恩奶粉再多一批次疑受污染　下架回收／黃偉綸指宏福苑原址重建不實際",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:32:46.786887",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點雀巢旗下能恩奶粉再多一批次疑受污染-下架回收黃偉綸指宏福苑原址重建不實際"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260110/s00001/1768005210279": {
+      "title": "黃偉綸：宏福苑收購業權估算涉近60億 現址倘重建無意建樓圖利  擬作社區設施",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-10T23:32:51.399009",
+      "archive_path": "content\\news\\mingpao\\archive\\黃偉綸宏福苑收購業權估算涉近60億-現址倘重建無意建樓圖利-擬作社區設施"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1839290-20260109.htm?archive_date=2026-01-09": {
+      "title": "宏福苑五級火｜有測量師指長遠安置初步方案已綜合考慮社會意見",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-10T23:32:51.554190",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火有測量師指長遠安置初步方案已綜合考慮社會意見"
+    },
+    "https://news.now.com/home/local/player?newsId=632495": {
+      "title": "林正財：「守望·同行」計劃為宏福苑居民及親友等提供協助",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:32:55.512769",
+      "archive_path": "content\\news\\now-news\\archive\\林正財守望同行計劃為宏福苑居民及親友等提供協助"
+    },
+    "https://news.tvb.com/tc/taipofire/696104a6803b90232664fd74/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E9%95%B7%E9%81%A0%E5%AE%89%E7%BD%AE%E5%9C%8B%E6%B3%B0%E6%93%9A%E5%A0%B1%E6%93%AC%E8%A3%81%E5%93%A1": {
+      "title": "八分鐘本地新聞重點｜宏福苑業主長遠安置／國泰據報擬裁員 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:32:55.620534",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點宏福苑業主長遠安置國泰據報擬裁員-宏福苑五級火-1天前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1839288-20260109.htm?archive_date=2026-01-09": {
+      "title": "宏福苑五級火｜宏志閣有業主冀重返家園居住　有居民因陰影想遷離",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-10T23:32:58.823457",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火宏志閣有業主冀重返家園居住-有居民因陰影想遷離"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260110/s00001/1767981671149": {
+      "title": "蒐宏福苑災民安置意願 選項涵購業權、樓換樓 原區提3選址 業主疑惑估價方法憂「大換細」",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-10T23:32:58.976113",
+      "archive_path": "content\\news\\mingpao\\archive\\蒐宏福苑災民安置意願-選項涵購業權樓換樓-原區提3選址-業主疑惑估價方法憂大換細"
+    },
+    "https://news.tvb.com/tc/taipofire/69625834803b902326700456/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%88%E8%AB%AE%E8%A9%A2%E6%94%BF%E5%BA%9C%E7%84%A1%E6%84%8F%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A3%9A%E7%B6%B2%E5%8C%96%E9%A9%97%E5%B7%A5%E4%BD%9C": {
+      "title": "八分鐘本地新聞重點｜財政預算案諮詢／政府無意原址重建宏福苑／棚網化驗工作 宏福苑五級火 1小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:33:01.497896",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點財政預算案諮詢政府無意原址重建宏福苑棚網化驗工作-宏福苑五級火-1小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=632473": {
+      "title": "宏福苑火災｜有居民接受原區安置　葉劉淑儀：相信政府以大多數人意願為依歸",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:33:01.682353",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災有居民接受原區安置-葉劉淑儀相信政府以大多數人意願為依歸"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1839363-20260110.htm?archive_date=2026-01-10": {
+      "title": "宏福苑五級火｜黃偉綸：原址重建不是很實際　料收購業權涉60億",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-10T23:33:04.042360",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火黃偉綸原址重建不是很實際-料收購業權涉60億"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260110/s00001/1767981671521": {
+      "title": "長者難做按揭 有宏福苑業主撐樓換樓 有堅守原址 盼公開結果齊商討",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-10T23:33:05.643824",
+      "archive_path": "content\\news\\mingpao\\archive\\長者難做按揭-有宏福苑業主撐樓換樓-有堅守原址-盼公開結果齊商討"
+    },
+    "https://news.now.com/home/local/player?newsId=632466": {
+      "title": "宏福苑火災｜屋苑內大埔浸信會公立學校九月新學年起使用前基正小學校舍",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:33:06.931272",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災屋苑內大埔浸信會公立學校九月新學年起使用前基正小學校舍"
+    },
+    "https://news.tvb.com/tc/taipofire/69622e31803b9023266e9a5a/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%A4%A7%E5%9F%94%E6%B5%B8%E4%BF%A1%E6%9C%83%E5%85%AC%E7%AB%8B%E5%AD%B8%E6%A0%A1%E5%B0%87%E9%81%B7%E6%A0%A1-%E6%93%AC%E7%94%B3%E9%A1%8D%E5%A4%96%E6%92%A5%E6%AC%BE%E9%82%84%E5%8E%9F%E6%A0%A1%E8%88%8D%E8%A8%AD%E6%96%BD": {
+      "title": "宏福苑五級火｜大埔浸信會公立學校將遷校 擬申額外撥款還原校舍設施 宏福苑五級火 4小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:33:07.688756",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火大埔浸信會公立學校將遷校-擬申額外撥款還原校舍設施-宏福苑五級火-4小時前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1839356-20260110.htm?archive_date=2026-01-10": {
+      "title": "宏福苑五級火｜林正財籲社會以同理心與災民同行一段時間",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-10T23:33:09.306901",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火林正財籲社會以同理心與災民同行一段時間"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260110/s00001/1767981671629": {
+      "title": "回購業權或需用公帑 區議員：倘承擔能穩民心",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-10T23:33:11.389678",
+      "archive_path": "content\\news\\mingpao\\archive\\回購業權或需用公帑-區議員倘承擔能穩民心"
+    },
+    "https://news.tvb.com/tc/taipofire/69622a51803b9023266e75d6/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%94%BF%E5%BA%9C%E6%8F%90%E9%AB%98%E5%B0%8D%E6%A3%9A%E7%B6%B2%E5%AE%89%E5%85%A8%E8%A6%81%E6%B1%82-%E7%94%AF%E6%BC%A2%E8%B1%AA%E6%8C%87%E5%8D%B3%E4%BD%BF%E9%9C%80%E9%A1%8D%E5%A4%96%E6%8A%BD%E9%A9%97%E6%88%90%E6%9C%AC%E9%95%B7%E9%81%A0%E4%BA%A6%E6%9C%83%E5%9B%9E%E8%90%BD": {
+      "title": "政府提高對棚網安全要求 甯漢豪指即使需額外抽驗成本長遠亦會回落 宏福苑五級火 4小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:33:13.581435",
+      "archive_path": "content\\news\\tvb\\archive\\政府提高對棚網安全要求-甯漢豪指即使需額外抽驗成本長遠亦會回落-宏福苑五級火-4小時前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1839354-20260110.htm?archive_date=2026-01-10": {
+      "title": "立法會下周三大會不設質詢　議員均可就支援宏福苑議案發言",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-10T23:33:14.981424",
+      "archive_path": "content\\news\\rthk\\archive\\立法會下周三大會不設質詢-議員均可就支援宏福苑議案發言"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260110/s00001/1767981672103": {
+      "title": "怡樂業主通過終止宏業合約 屋署：棚架欠穩",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-10T23:33:17.427891",
+      "archive_path": "content\\news\\mingpao\\archive\\怡樂業主通過終止宏業合約-屋署棚架欠穩"
+    },
+    "https://news.tvb.com/tc/taipofire/69622a42803b9023266e7514/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%94%BF%E5%BA%9C%E7%9B%AE%E5%89%8D%E7%84%A1%E6%84%8F%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA-%E9%BB%83%E5%81%89%E7%B6%B8%E6%8C%87%E8%8B%A5%E8%B3%BC%E6%A5%AD%E6%AC%8A%E7%84%A1%E5%8F%AF%E9%81%BF%E5%85%8D%E5%8B%95%E7%94%A8%E5%85%AC%E5%B8%91": {
+      "title": "宏福苑五級火｜政府目前無意原址重建 黃偉綸指若購業權無可避免動用公帑 宏福苑五級火 4小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:33:19.665636",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火政府目前無意原址重建-黃偉綸指若購業權無可避免動用公帑-宏福苑五級火-4小時前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1839351-20260110.htm?archive_date=2026-01-10": {
+      "title": "宏福苑五級火｜何啟明稱提供多元安置選擇　冀理解有難處不易做到",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-10T23:33:20.385769",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火何啟明稱提供多元安置選擇-冀理解有難處不易做到"
+    },
+    "https://news.now.com/home/local/player?newsId=632460": {
+      "title": "宏福苑火災｜黃偉綸：原址重建不實際　或改建為社區設施　收購業權須公帑補貼",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:33:23.578956",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災黃偉綸原址重建不實際-或改建為社區設施-收購業權須公帑補貼"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260110/s00001/1767981672379": {
+      "title": "消防裝置新規定 損壞須當眼處貼告示",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-10T23:33:23.727515",
+      "archive_path": "content\\news\\mingpao\\archive\\消防裝置新規定-損壞須當眼處貼告示"
+    },
+    "https://news.tvb.com/tc/taipofire/69621810803b9023266dd841/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%A4%A7%E5%9F%94%E6%B5%B8%E4%BF%A1%E6%9C%83%E5%85%AC%E7%AB%8B%E5%AD%B8%E6%A0%A1%E4%B8%8B%E5%AD%B8%E5%B9%B4%E8%B5%B7%E9%81%B7%E6%A0%A1-%E6%96%99%E6%96%B0%E6%A0%A1%E8%88%8D%E6%9C%80%E5%BF%AB%E5%85%AD%E6%9C%88%E4%BA%A4%E4%BB%98": {
+      "title": "宏福苑五級火｜大埔浸信會公立學校下學年起遷校 料新校舍最快六月交付 宏福苑五級火 6小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:33:25.559378",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火大埔浸信會公立學校下學年起遷校-料新校舍最快六月交付-宏福苑五級火-6小時前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1839328-20260110.htm?archive_date=2026-01-10": {
+      "title": "宏福苑五級火｜黃偉綸：宏福苑原址重建之建議不是很實際",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-10T23:33:26.389626",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火黃偉綸宏福苑原址重建之建議不是很實際"
+    },
+    "https://news.now.com/home/local/player?newsId=632422": {
+      "title": "經緯線本周提要｜政府「招標妥」助大維修　反被利用成圍標工具",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:33:29.031545",
+      "archive_path": "content\\news\\now-news\\archive\\經緯線本周提要政府招標妥助大維修-反被利用成圍標工具"
+    },
+    "https://news.tvb.com/tc/taipofire/6961e59d803b9023266c4115/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%BB%83%E5%81%89%E7%B6%B8%E6%8C%87%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA%E4%B8%8D%E5%A4%AA%E5%AF%A6%E9%9A%9B-%E5%B1%85%E6%B0%91%E5%86%80%E6%94%B6%E9%9B%86%E6%84%8F%E8%A6%8B%E5%BE%8C%E5%86%8D%E8%80%83%E6%85%AE": {
+      "title": "宏福苑五級火｜黃偉綸指原址重建不太實際 居民冀收集意見後再考慮 宏福苑五級火 10小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:33:31.442546",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火黃偉綸指原址重建不太實際-居民冀收集意見後再考慮-宏福苑五級火-10小時前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1839316-20260110.htm?archive_date=2026-01-10": {
+      "title": "宏福苑五級火｜黃偉綸稱政府目前想法不會原址重建住宅",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-10T23:33:31.698546",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火黃偉綸稱政府目前想法不會原址重建住宅"
+    },
+    "https://news.now.com/home/local/player?newsId=632454": {
+      "title": "葉劉淑儀：立法會要配合亦要監督政府　只迎合不利長遠發展",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:33:34.737374",
+      "archive_path": "content\\news\\now-news\\archive\\葉劉淑儀立法會要配合亦要監督政府-只迎合不利長遠發展"
+    },
+    "https://news.tvb.com/tc/taipofire/6961cedb803b9023266b8d10/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%BB%83%E5%81%89%E7%B6%B8%E8%8B%A5%E6%94%BF%E5%BA%9C%E8%B3%BC%E8%B2%B7%E6%89%80%E6%9C%89%E6%A5%AD%E6%AC%8A%E6%B6%89%E7%B4%8460%E5%84%84%E5%85%83-%E9%9C%80%E5%85%AC%E5%B8%91%E6%94%AF%E6%8F%B4": {
+      "title": "宏福苑五級火｜黃偉綸：若政府購買所有業權涉約60億元 需公帑支援 宏福苑五級火 11小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:33:37.474525",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火黃偉綸若政府購買所有業權涉約60億元-需公帑支援-宏福苑五級火-11小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=632449": {
+      "title": "黃偉綸：原址重建宏福苑不實際　或改建為社區設施",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-10T23:33:40.628834",
+      "archive_path": "content\\news\\now-news\\archive\\黃偉綸原址重建宏福苑不實際-或改建為社區設施"
+    },
+    "https://news.tvb.com/tc/taipofire/6961b2b8803b9023266ab228/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%BB%83%E5%81%89%E7%B6%B8%E8%8B%A5%E4%BB%A5%E5%85%AD%E5%8D%83%E5%85%83%E5%91%8E%E5%83%B9%E6%96%99%E8%B3%BC%E5%85%A8%E9%83%A8%E6%A5%AD%E6%AC%8A%E7%94%A8%E8%BF%9160%E5%84%84-%E4%BB%8D%E9%9C%80%E5%85%AC%E5%B8%91%E6%94%AF%E6%8F%B4": {
+      "title": "宏福苑五級火｜黃偉綸：若以六千元呎價料購全部業權用近60億 仍需公帑支援 宏福苑五級火 13小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:33:43.209967",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火黃偉綸若以六千元呎價料購全部業權用近60億-仍需公帑支援-宏福苑五級火-13小時前-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/6961a42d803b9023266a37c7/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%BB%83%E5%81%89%E7%B6%B8%E5%8E%9F%E5%9D%80%E6%97%A5%E5%BE%8C%E4%B8%8D%E6%9C%83%E5%86%8D%E4%BD%9C%E4%BD%8F%E5%AE%85-%E5%B0%B1%E5%9C%B0%E9%87%8D%E5%BB%BA%E4%B8%8D%E5%88%87%E5%AF%A6%E9%9A%9B": {
+      "title": "宏福苑五級火｜黃偉綸：原址日後不會再作住宅 就地重建不切實際 宏福苑五級火 14小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:33:49.446768",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火黃偉綸原址日後不會再作住宅-就地重建不切實際-宏福苑五級火-14小時前-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69612d18803b9023266667e5/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%9C%AC%E5%B1%86%E7%AB%8B%E6%9C%83%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0%E5%B0%87%E8%A8%8E%E8%AB%96%E7%81%BD%E5%BE%8C%E6%94%AF%E6%8F%B4%E5%8F%8A%E9%87%8D%E5%BB%BA-%E4%B8%8D%E5%AE%89%E6%8E%92%E8%B3%AA%E8%A9%A2": {
+      "title": "宏福苑五級火｜本屆立會首次會議將討論災後支援及重建 不安排質詢 宏福苑五級火 22小時前",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:33:55.802736",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火本屆立會首次會議將討論災後支援及重建-不安排質詢-宏福苑五級火-22小時前"
+    },
+    "https://news.tvb.com/tc/pearlnews/69610297803b90232664e591/TVB%20News-Over-3%2C000-evacuated-as-Argentinas-Patagonia-battles-massive-wildfires": {
+      "title": "Over 3,000 evacuated as Argentina's Patagonia battles massive wildfires",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:34:01.718815",
+      "archive_path": "content\\news\\tvb\\archive\\over-3000-evacuated-as-argentinas-patagonia-battles-massive-wildfires-1"
+    },
+    "https://news.tvb.com/tc/pearlnews/6961026c803b90232664e296/TVB%20News-Three-people-missing-in-Australias-Victoria-state-as-bushfires-rage": {
+      "title": "Three people missing in Australia's Victoria state as bushfires rage",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:34:07.323589",
+      "archive_path": "content\\news\\tvb\\archive\\three-people-missing-in-australias-victoria-state-as-bushfires-rage-1"
+    },
+    "https://news.tvb.com/tc/pearlnews/6960f90d803b9023266494b2/TVB%20News-Govt-reaches-out-to-Wang-Fuk-Court-owners-over-long-term-housing": {
+      "title": "Govt reaches out to Wang Fuk Court owners over long-term housing",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:34:12.634362",
+      "archive_path": "content\\news\\tvb\\archive\\govt-reaches-out-to-wang-fuk-court-owners-over-long-term-housing-1"
+    },
+    "https://news.tvb.com/tc/pearlnews/69624bba803b9023266f8ffe/TVB%20News-Government-collects-feedback-from-Wang-Fuk-Court-flat-owners-on-rehousing-solutions": {
+      "title": "Government collects feedback from Wang Fuk Court flat owners on rehousing solutions",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:34:18.365966",
+      "archive_path": "content\\news\\tvb\\archive\\government-collects-feedback-from-wang-fuk-court-flat-owners-on-rehousing"
+    },
+    "https://news.tvb.com/tc/pearlnews/696248e9803b9023266f74f5/TVB%20News-Fire-broke-out-in-Hung-Hom-food-shoptwo-injured": {
+      "title": "Fire broke out in Hung Hom food shop, two injured",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:34:24.066409",
+      "archive_path": "content\\news\\tvb\\archive\\fire-broke-out-in-hung-hom-food-shop-two-injured"
+    },
+    "https://news.tvb.com/tc/pearlnews/6961d89d803b9023266bd0d6/TVB%20News-Govt-currently-does-not-plan-to-rebuild-Wang-Fuk-Court-on-original-site": {
+      "title": "Gov't currently does not plan to rebuild Wang Fuk Court on original site",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-10T23:34:29.980442",
+      "archive_path": "content\\news\\tvb\\archive\\govt-currently-does-not-plan-to-rebuild-wang-fuk-court-on-original-site"
     }
   },
-  "last_updated": "2026-01-09T22:23:57.036715"
+  "last_updated": "2026-01-10T23:34:29.980521"
 }

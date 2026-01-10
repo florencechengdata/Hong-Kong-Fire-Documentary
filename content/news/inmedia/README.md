@@ -351,3 +351,7 @@
 
 ### 2026-01-09
 - [【宏福苑五級火】政府索安置意向 指收購業權勢需公帑補貼 「樓換樓」業主毋須付差價](https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E6%94%BF%E5%BA%9C%E7%B4%A2%E5%AE%89%E7%BD%AE%E6%84%8F%E5%90%91-%E6%8C%87%E6%94%B6%E8%B3%BC%E6%A5%AD%E6%AC%8A%E5%8B%A2%E9%9C%80%E5%85%AC%E5%B8%91%E8%A3%9C%E8%B2%BC-%E3%80%8C%E6%A8%93%E6%8F%9B%E6%A8%93%E3%80%8D%E6%A5%AD%E4%B8%BB%E6%AF%8B%E9%A0%88%E4%BB%98%E5%B7%AE%E5%83%B9) [Original](https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E6%94%BF%E5%BA%9C%E7%B4%A2%E5%AE%89%E7%BD%AE%E6%84%8F%E5%90%91-%E6%8C%87%E6%94%B6%E8%B3%BC%E6%A5%AD%E6%AC%8A%E5%8B%A2%E9%9C%80%E5%85%AC%E5%B8%91%E8%A3%9C%E8%B2%BC-%E3%80%8C%E6%A8%93%E6%8F%9B%E6%A8%93%E3%80%8D%E6%A5%AD%E4%B8%BB%E6%AF%8B%E9%A0%88%E4%BB%98%E5%B7%AE%E5%83%B9){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政府索安置意向-指收購業權勢需公帑補貼-樓換樓業主毋須付差價/){.md-button .hkfd-news-button}
+
+
+### 2026-01-10
+- [【宏福苑五級火】黃偉綸指原址重建不設實際 前區議員批問卷誤導](https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E9%BB%83%E5%81%89%E7%B6%B8%E6%8C%87%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA%E4%B8%8D%E8%A8%AD%E5%AF%A6%E9%9A%9B-%E5%89%8D%E5%8D%80%E8%AD%B0%E5%93%A1%E6%89%B9%E5%95%8F%E5%8D%B7%E8%AA%A4%E5%B0%8E)

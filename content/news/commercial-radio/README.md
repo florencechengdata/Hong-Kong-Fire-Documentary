@@ -652,3 +652,14 @@
 - [屯門怡樂花園召業主大會　議決終止宏業大維修合約](https://www.881903.com/news/local/2613800/) [Original](https://www.881903.com/news/local/2613800/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/屯門怡樂花園召業主大會-議決終止宏業大維修合約/){.md-button .hkfd-news-button}
 - [宏福苑大火丨獨立委員會代表大律師及律師  將與涉事各方律師溝通](https://www.881903.com/news/local/2613797/) [Original](https://www.881903.com/news/local/2613797/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火丨獨立委員會代表大律師及律師-將與涉事各方律師溝通/){.md-button .hkfd-news-button}
 - [宏福苑5級火｜政府就長遠安置諮詢災民　目標本月中下旬取得回應](https://www.881903.com/news/local/2613699/) [Original](https://www.881903.com/news/local/2613699/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火政府就長遠安置諮詢災民-目標本月中下旬取得回應/){.md-button .hkfd-news-button}
+
+
+### 2026-01-10
+- [大埔浸小新學年遷新校舍　家長樂見有永久校舍](https://www.881903.com/news/local/2613849/) [Original](https://www.881903.com/news/local/2613849/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔浸小新學年遷新校舍-家長樂見有永久校舍/){.md-button .hkfd-news-button}
+- [宏福苑居民：未諮詢就指原址重建不實際　是過早判斷](https://www.881903.com/news/local/2613880/) [Original](https://www.881903.com/news/local/2613880/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民未諮詢就指原址重建不實際-是過早判斷/){.md-button .hkfd-news-button}
+- [林正財：將與傳媒及公共機構商討　傳遞應對災後情緒資訊](https://www.881903.com/news/local/2613875/) [Original](https://www.881903.com/news/local/2613875/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林正財將與傳媒及公共機構商討-傳遞應對災後情緒資訊/){.md-button .hkfd-news-button}
+- [何啟明：會以問卷收集宏福苑居民對長遠安置的意見](https://www.881903.com/news/local/2613873/) [Original](https://www.881903.com/news/local/2613873/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何啟明會以問卷收集宏福苑居民對長遠安置的意見/){.md-button .hkfd-news-button}
+- [立法會首次會議聚焦宏福苑支援及重建　李家超將出席發言](https://www.881903.com/news/local/2613857/) [Original](https://www.881903.com/news/local/2613857/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會首次會議聚焦宏福苑支援及重建-李家超將出席發言/){.md-button .hkfd-news-button}
+- [卓永興︰宏福苑安置方案需時　料兩年後仍需提供補助](https://www.881903.com/news/local/2613854/) [Original](https://www.881903.com/news/local/2613854/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興宏福苑安置方案需時-料兩年後仍需提供補助/){.md-button .hkfd-news-button}
+- [甯漢豪：不擔心棚網價格高　冀更多供應商提供服務](https://www.881903.com/news/local/2613828/) [Original](https://www.881903.com/news/local/2613828/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/甯漢豪不擔心棚網價格高-冀更多供應商提供服務/){.md-button .hkfd-news-button}
+- [黃偉綸：宏福苑原址重建不實際　將研究轉為社區設施](https://www.881903.com/news/local/2613827/) [Original](https://www.881903.com/news/local/2613827/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑原址重建不實際-將研究轉為社區設施/){.md-button .hkfd-news-button}

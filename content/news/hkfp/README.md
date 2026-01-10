@@ -254,3 +254,7 @@
 
 ### 2026-01-09
 - [Tai Po fire: Gov’t proposes 9 rehousing plans; on-site redevelopment of Wang Fuk Court may take a decade](https://hongkongfp.com/?p=550352) [Original](https://hongkongfp.com/?p=550352){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-govt-proposes-9-rehousing-plans-on-site-redevelopment-of-wang-fuk/){.md-button .hkfd-news-button}
+
+
+### 2026-01-10
+- [HKFP Monitor Jan 10, 2026: New fines for new year; proposed sites to rebuild Wang Fuk Court](https://hongkongfp.com/?p=550388) [Original](https://hongkongfp.com/?p=550388){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-10-2026-new-fines-for-new-year-proposed-sites-to-rebuild-wang/){.md-button .hkfd-news-button}
