@@ -973,3 +973,7 @@
 - [宏福苑五級火｜何啟明稱提供多元安置選擇　冀理解有難處不易做到](https://news.rthk.hk/rthk/ch/component/k2/1839351-20260110.htm?archive_date=2026-01-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839351-20260110.htm?archive_date=2026-01-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火何啟明稱提供多元安置選擇-冀理解有難處不易做到/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜黃偉綸：宏福苑原址重建之建議不是很實際](https://news.rthk.hk/rthk/ch/component/k2/1839328-20260110.htm?archive_date=2026-01-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839328-20260110.htm?archive_date=2026-01-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火黃偉綸宏福苑原址重建之建議不是很實際/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜黃偉綸稱政府目前想法不會原址重建住宅](https://news.rthk.hk/rthk/ch/component/k2/1839316-20260110.htm?archive_date=2026-01-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839316-20260110.htm?archive_date=2026-01-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火黃偉綸稱政府目前想法不會原址重建住宅/){.md-button .hkfd-news-button}
+
+
+### 2026-01-11
+- [宏福苑五級火｜卜國明：採取「易地重建」比較可行](https://news.rthk.hk/rthk/ch/component/k2/1839416-20260111.htm?archive_date=2026-01-11) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839416-20260111.htm?archive_date=2026-01-11){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火卜國明採取易地重建比較可行/){.md-button .hkfd-news-button}

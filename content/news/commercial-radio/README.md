@@ -663,3 +663,8 @@
 - [卓永興︰宏福苑安置方案需時　料兩年後仍需提供補助](https://www.881903.com/news/local/2613854/) [Original](https://www.881903.com/news/local/2613854/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興宏福苑安置方案需時-料兩年後仍需提供補助/){.md-button .hkfd-news-button}
 - [甯漢豪：不擔心棚網價格高　冀更多供應商提供服務](https://www.881903.com/news/local/2613828/) [Original](https://www.881903.com/news/local/2613828/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/甯漢豪不擔心棚網價格高-冀更多供應商提供服務/){.md-button .hkfd-news-button}
 - [黃偉綸：宏福苑原址重建不實際　將研究轉為社區設施](https://www.881903.com/news/local/2613827/) [Original](https://www.881903.com/news/local/2613827/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑原址重建不實際-將研究轉為社區設施/){.md-button .hkfd-news-button}
+
+
+### 2026-01-11
+- [卜國明：原址重建重建時間較長　建議以頌雅路熟地易地重建](https://www.881903.com/news/local/2613972/) [Original](https://www.881903.com/news/local/2613972/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卜國明原址重建重建時間較長-建議以頌雅路熟地易地重建/){.md-button .hkfd-news-button}
+- [大埔大王爺廟辦法事超度宏福罹難者　善信冀死者安息](https://www.881903.com/news/local/2613926/) [Original](https://www.881903.com/news/local/2613926/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔大王爺廟辦法事超度宏福罹難者-善信冀死者安息/){.md-button .hkfd-news-button}

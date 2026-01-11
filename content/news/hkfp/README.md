@@ -258,3 +258,7 @@
 
 ### 2026-01-10
 - [HKFP Monitor Jan 10, 2026: New fines for new year; proposed sites to rebuild Wang Fuk Court](https://hongkongfp.com/?p=550388) [Original](https://hongkongfp.com/?p=550388){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-10-2026-new-fines-for-new-year-proposed-sites-to-rebuild-wang/){.md-button .hkfd-news-button}
+
+
+### 2026-01-11
+- [HKFP Year in Review: What did Hongkongers Google in 2025?](https://hongkongfp.com/?p=550189) [Original](https://hongkongfp.com/?p=550189){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-year-in-review-what-did-hongkongers-google-in-2025/){.md-button .hkfd-news-button}

@@ -327,3 +327,7 @@
 
 ### 2026-01-09
 - [宏福苑善後｜會否進行公開聆訊？獨立委員會：適時按需公布安排](https://www.dotdotnews.com/a/202601/09/AP6960dec3e4b0c32d4f658769.html) [Original](https://www.dotdotnews.com/a/202601/09/AP6960dec3e4b0c32d4f658769.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後會否進行公開聆訊獨立委員會適時按需公布安排/){.md-button .hkfd-news-button}
+
+
+### 2026-01-11
+- [宏福苑善後｜消息：警考慮公布罹難者名單　會逐一詢問死者家屬](https://www.dotdotnews.com/a/202601/11/AP69637cace4b0c32d4f65aeaf.html) [Original](https://www.dotdotnews.com/a/202601/11/AP69637cace4b0c32d4f65aeaf.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後消息警考慮公布罹難者名單-會逐一詢問死者家屬/){.md-button .hkfd-news-button}
