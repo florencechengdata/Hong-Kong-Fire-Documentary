@@ -267,3 +267,16 @@
 香港大埔宏福苑火灾发生至今一个月。](http://gba.people.cn/n1/2025/1227/c42272-40633617.html)
 - [新华社香港12月26日电 香港特区政府26日感谢内地、海外及外交使团、国际组织、驻港总领事馆、名誉领事馆和官方认许机构等通过不同渠道对受大埔宏福苑火灾影响人士的慰问和支援，同时感谢香港社会各界热心投入灾后援助并大力捐助。
 香港大埔宏福苑火灾发生至今一个月。](http://gba.people.cn/n1/2025/1227/c42272-40633530.html)
+
+
+### 2026-01-07
+- [香港土地审裁处委任专业团队接管大埔宏福苑](http://gba.people.cn/n1/2026/0107/c42272-40640577.html) [Original](http://gba.people.cn/n1/2026/0107/c42272-40640577.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港土地审裁处委任专业团队接管大埔宏福苑/){.md-button .hkfd-news-button}
+- [香港大埔宏福苑管理工作由专业团队接管](http://gba.people.cn/n1/2026/0107/c42272-40640702.html) [Original](http://gba.people.cn/n1/2026/0107/c42272-40640702.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑管理工作由专业团队接管/){.md-button .hkfd-news-button}
+
+
+### 2026-01-09
+- [香港大埔宏福苑火灾已有69名伤者出院](http://gba.people.cn/n1/2026/0109/c42272-40642014.html) [Original](http://gba.people.cn/n1/2026/0109/c42272-40642014.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾已有69名伤者出院/){.md-button .hkfd-news-button}
+
+
+### 2026-01-10
+- [香港特区政府收集宏福苑业主长远安置意愿](http://gba.people.cn/n1/2026/0110/c42272-40642682.html) [Original](http://gba.people.cn/n1/2026/0110/c42272-40642682.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港特区政府收集宏福苑业主长远安置意愿/){.md-button .hkfd-news-button}

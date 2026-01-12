@@ -300,3 +300,34 @@
 
 ### 2025-12-27
 - [點聲｜香港消防處英勇擔當　慎防有人「以災亂港」](https://www.dotdotnews.com/a/202512/27/AP694fa185e4b0c32d4f645ca1.html) [Original](https://www.dotdotnews.com/a/202512/27/AP694fa185e4b0c32d4f645ca1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點聲香港消防處英勇擔當-慎防有人以災亂港/){.md-button .hkfd-news-button}
+
+
+### 2026-01-02
+- [宏福苑五級火｜災後一個月再現奇跡！宏仁閣兩隻貓獲救](https://www.dotdotnews.com/a/202601/02/AP6957a596e4b0c32d4f64dfde.html) [Original](https://www.dotdotnews.com/a/202601/02/AP6957a596e4b0c32d4f64dfde.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災後一個月再現奇跡宏仁閣兩隻貓獲救/){.md-button .hkfd-news-button}
+
+
+### 2026-01-03
+- [宏福苑五級火│律師會諮詢櫃位增至7個　已處理125求助個案](https://www.dotdotnews.com/a/202601/03/AP6958e727e4b0c32d4f64f34d.html) [Original](https://www.dotdotnews.com/a/202601/03/AP6958e727e4b0c32d4f64f34d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火律師會諮詢櫃位增至7個-已處理125求助個案/){.md-button .hkfd-news-button}
+
+
+### 2026-01-04
+- [回應宏福苑居民接遷離令　當局稱因應營運者房間供應](https://www.dotdotnews.com/a/202601/04/AP695a58d3e4b0c32d4f650f73.html) [Original](https://www.dotdotnews.com/a/202601/04/AP695a58d3e4b0c32d4f650f73.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/回應宏福苑居民接遷離令-當局稱因應營運者房間供應/){.md-button .hkfd-news-button}
+
+
+### 2026-01-06
+- [點直播｜麥美娟就大埔宏福苑管理事宜見記者｜1月6日](https://www.dotdotnews.com/a/202601/06/AP695ce1eae4b0c32d4f654010.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695ce1eae4b0c32d4f654010.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播麥美娟就大埔宏福苑管理事宜見記者1月6日/){.md-button .hkfd-news-button}
+- [點觀香港｜土審處批准解散宏福苑法團管委會　民青局解畫災民青年宿舍安排](https://www.dotdotnews.com/a/202601/06/AP695d0360e4b0c32d4f65423b.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695d0360e4b0c32d4f65423b.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港土審處批准解散宏福苑法團管委會-民青局解畫災民青年宿舍安排/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜有居民被要求搬離青年宿舍？麥美娟：酌情處理　提供妥善住宿安排](https://www.dotdotnews.com/a/202601/06/AP695cedabe4b0c32d4f6540e1.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695cedabe4b0c32d4f6540e1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火有居民被要求搬離青年宿舍麥美娟酌情處理-提供妥善住宿安排/){.md-button .hkfd-news-button}
+- [（有片）宏福苑五級火｜華懋合安接管法團職能　麥美娟：不影響業主最終決定權](https://www.dotdotnews.com/a/202601/06/AP695ce768e4b0c32d4f654050.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695ce768e4b0c32d4f654050.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火華懋合安接管法團職能-麥美娟不影響業主最終決定權/){.md-button .hkfd-news-button}
+
+
+### 2026-01-08
+- [點觀香港｜李慧琼當選立法會主席　下周三大會將聚焦宏福苑善後](https://www.dotdotnews.com/a/202601/08/AP695f9469e4b0c32d4f6570f7.html) [Original](https://www.dotdotnews.com/a/202601/08/AP695f9469e4b0c32d4f6570f7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港李慧琼當選立法會主席-下周三大會將聚焦宏福苑善後/){.md-button .hkfd-news-button}
+
+
+### 2026-01-09
+- [宏福苑善後｜會否進行公開聆訊？獨立委員會：適時按需公布安排](https://www.dotdotnews.com/a/202601/09/AP6960dec3e4b0c32d4f658769.html) [Original](https://www.dotdotnews.com/a/202601/09/AP6960dec3e4b0c32d4f658769.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後會否進行公開聆訊獨立委員會適時按需公布安排/){.md-button .hkfd-news-button}
+
+
+### 2026-01-11
+- [宏福苑善後｜消息：警考慮公布罹難者名單　會逐一詢問死者家屬](https://www.dotdotnews.com/a/202601/11/AP69637cace4b0c32d4f65aeaf.html) [Original](https://www.dotdotnews.com/a/202601/11/AP69637cace4b0c32d4f65aeaf.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後消息警考慮公布罹難者名單-會逐一詢問死者家屬/){.md-button .hkfd-news-button}

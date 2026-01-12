@@ -218,3 +218,47 @@
 
 ### 2026-01-01
 - [Explainer: How deadly Tai Po fire brings to light bid-rigging epidemic in Hong Kong renovation industry](https://hongkongfp.com/?p=548902) [Original](https://hongkongfp.com/?p=548902){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/explainer-how-deadly-tai-po-fire-brings-to-light-bid-rigging-epidemic-in-hong/){.md-button .hkfd-news-button}
+
+
+### 2026-01-01
+- [Hong Kong’s Foreign Correspondents’ Club granted new 3-year lease at historic Central location, gov’t says](https://hongkongfp.com/?p=549144) [Original](https://hongkongfp.com/?p=549144){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kongs-foreign-correspondents-club-granted-new-3-year-lease-at-historic/){.md-button .hkfd-news-button}
+
+### 2026-01-02
+- [Anti-graft agency arrests 21 over housing estate renovation projects in Kwun Tong](https://hongkongfp.com/?p=549343) [Original](https://hongkongfp.com/?p=549343){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/anti-graft-agency-arrests-21-over-housing-estate-renovation-projects-in-kwun/){.md-button .hkfd-news-button}
+
+
+### 2026-01-03
+- [HKFP Monitor Jan 3, 2026: More student unions halt operations, mixed reactions to ‘contractual partners’ system](https://hongkongfp.com/?p=549434) [Original](https://hongkongfp.com/?p=549434){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-3-2026-more-student-unions-halt-operations-mixed-reactions-to/){.md-button .hkfd-news-button}
+
+
+### 2026-01-04
+- [1 dead, 8 injured in Hong Kong housing estate fire; authorities probe possible power fault](https://hongkongfp.com/?p=549550) [Original](https://hongkongfp.com/?p=549550){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/1-dead-8-injured-in-hong-kong-housing-estate-fire-authorities-probe-possible/){.md-button .hkfd-news-button}
+
+### 2026-01-05
+- [Residents displaced by Tai Po fire must leave youth hostels by end of January](https://hongkongfp.com/?p=549668) [Original](https://hongkongfp.com/?p=549668){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/residents-displaced-by-tai-po-fire-must-leave-youth-hostels-by-end-of-january/){.md-button .hkfd-news-button}
+- [Legal Aid Dep’t establishes task force to assist Tai Po fire victims](https://hongkongfp.com/?p=549395) [Original](https://hongkongfp.com/?p=549395){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/legal-aid-dept-establishes-task-force-to-assist-tai-po-fire-victims/){.md-button .hkfd-news-button}
+
+
+### 2026-01-06
+- [Tai Po fire: Hong Kong court approves gov’t proposal to dissolve estate owners’ board](https://hongkongfp.com/?p=549817) [Original](https://hongkongfp.com/?p=549817){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-hong-kong-court-approves-govt-proposal-to-dissolve-estate-owners/){.md-button .hkfd-news-button}
+
+
+### 2026-01-07
+- [Tai Po fire: District councillor suggests rebuilding Wang Fuk Court at site earmarked for new public housing](https://hongkongfp.com/?p=549882) [Original](https://hongkongfp.com/?p=549882){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-district-councillor-suggests-rebuilding-wang-fuk-court-at-site/){.md-button .hkfd-news-button}
+- [Hong Kong’s bid-rigging prevention system mired in ‘institutional failure,’ think tank says](https://hongkongfp.com/?p=549874) [Original](https://hongkongfp.com/?p=549874){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kongs-bid-rigging-prevention-system-mired-in-institutional-failure-think/){.md-button .hkfd-news-button}
+
+
+### 2026-01-08
+- [Veteran lawmaker Starry Lee elected as president of Hong Kong legislature](https://hongkongfp.com/?p=550040) [Original](https://hongkongfp.com/?p=550040){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/veteran-lawmaker-starry-lee-elected-as-president-of-hong-kong-legislature/){.md-button .hkfd-news-button}
+
+
+### 2026-01-09
+- [Tai Po fire: Gov’t proposes 9 rehousing plans; on-site redevelopment of Wang Fuk Court may take a decade](https://hongkongfp.com/?p=550352) [Original](https://hongkongfp.com/?p=550352){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-govt-proposes-9-rehousing-plans-on-site-redevelopment-of-wang-fuk/){.md-button .hkfd-news-button}
+
+
+### 2026-01-10
+- [HKFP Monitor Jan 10, 2026: New fines for new year; proposed sites to rebuild Wang Fuk Court](https://hongkongfp.com/?p=550388) [Original](https://hongkongfp.com/?p=550388){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-10-2026-new-fines-for-new-year-proposed-sites-to-rebuild-wang/){.md-button .hkfd-news-button}
+
+
+### 2026-01-11
+- [HKFP Year in Review: What did Hongkongers Google in 2025?](https://hongkongfp.com/?p=550189) [Original](https://hongkongfp.com/?p=550189){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-year-in-review-what-did-hongkongers-google-in-2025/){.md-button .hkfd-news-button}
